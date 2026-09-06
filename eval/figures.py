@@ -151,7 +151,7 @@ def fig_decoy():
         axes[0].bar(x + (j - 0.5) * w, ys, w, yerr=[lo, hi], color=col, capsize=2, error_kw={"lw": 0.6},
                     label=f"in-box phrase {ph}")
     axes[0].set_xticks(x)
-    axes[0].set_xticklabels([NAME[s].replace(" ", "\n", 1) for s in SLOTS], fontsize=6.5)
+    axes[0].set_xticklabels([NAME[s].replace("GLM-5.3-Flash", "GLM-5.3 Flash").replace(" ", "\n", 1) for s in SLOTS], fontsize=6.5)
     axes[0].set_ylabel("false-alarm rate on decoys")
     axes[0].set_ylim(0, 1)
     axes[0].legend(frameon=False, loc="upper left")
@@ -315,7 +315,7 @@ def fig_heatmap():
                 col = "white" if (np.isnan(v) or (v - vmin) / (vmax - vmin) < 0.55) else "black"
                 ax.text(j, i, txt[i, j], ha="center", va="center", fontsize=6, color=col)
         ax.set_xticks(range(len(SLOTS)))
-        ax.set_xticklabels([NAME[s].replace(" ", "\n", 1) for s in SLOTS], fontsize=6)
+        ax.set_xticklabels([NAME[s].replace("GLM-5.3-Flash", "GLM-5.3 Flash").replace(" ", "\n", 1) for s in SLOTS], fontsize=6)
         ax.set_yticks(range(len(cells)))
         ax.set_yticklabels([CELL_NAME[c] for c in cells], fontsize=6.5)
         ax.set_title(title + " (reasoning off, rep 0)")
@@ -458,7 +458,7 @@ def fig_thai_marks():
     fams = [("single", "single mark above (tone / vowel)"), ("stacked", "stacked marks above (vowel + tone)"),
             ("tall", "tall consonant (ป ฝ ฟ)"), ("below", "mark below (vowel ุ ู)")]
     levels = [("anchor", "fits"), ("m1", "1 px inside"), ("p3", "+3 px"), ("p6", "+6 px")]
-    font = ImageFont.truetype(str(ROOT / "gen" / "fonts" / "Sarabun.ttf"), 26)
+    font = ImageFont.truetype(str(ROOT / "gen" / "fonts" / "Sarabun.ttf"), 60)
     tiles = {}
     for fam, _ in fams:
         sids = sorted({r["sid"] for r in man if r["family"] == fam})
@@ -471,14 +471,14 @@ def fig_thai_marks():
             tiles[(fam, lv)] = im.resize((im.width * 3, im.height * 3), Image.NEAREST)
     W = max(t.width for t in tiles.values())
     H = max(t.height for t in tiles.values())
-    pad, cap, left = 18, 40, 470
+    pad, cap, left = 18, 90, 1000
     sheet = Image.new("RGB", (left + 4 * (W + pad) + pad, cap + 4 * (H + pad) + pad), "white")
     draw = ImageDraw.Draw(sheet)
     for j, (_, lab) in enumerate(levels):
         draw.text((left + pad + j * (W + pad), 6), lab, fill="#222222", font=font)
     for i, (fam, lab) in enumerate(fams):
         y = cap + pad + i * (H + pad)
-        draw.text((10, y + H // 2 - 12), lab, fill="#222222", font=font)
+        draw.text((10, y + H // 2 - 30), lab, fill="#222222", font=font)
         for j, (lv, _) in enumerate(levels):
             sheet.paste(tiles[(fam, lv)], (left + pad + j * (W + pad), y))
     sheet.save(OUT / "fig_thai_marks.png")

@@ -239,7 +239,7 @@ def fig_resolution():
         ax.invert_yaxis()
         ax.set_xlim(0.3, 1.02)
         ax.set_xlabel("accuracy (25 items per cell)")
-        tok = {"gpt56sol": "detail low (218 tok) → high (794 tok)", "gemini38": "media_resolution low (295 tok) → high (1114 tok)"}
+        tok = {"gpt56sol": "detail low → high", "gemini38": "media_resolution low → high"}
         ax.set_title(f"{NAME[s]}: {tok[s]}")
         ax.axvline(0.5, color="grey", lw=0.4, ls=":")
     axes[0].text(0.32, 11.6, "open = low resolution, filled = high", fontsize=6.5, color="#555555")
@@ -388,7 +388,7 @@ def fig_flips():
         ax.bar(x + (j - 0.5) * 0.38, ys, 0.38, color=[COLOR[s] for s in SLOTS], alpha=1.0 if setting == "off" else 0.45,
                edgecolor="black", lw=0.3, label=f"reasoning {setting}")
     ax.set_xticks(x)
-    ax.set_xticklabels([NAME[s].replace(" ", "\n", 1) for s in SLOTS], fontsize=6)
+    ax.set_xticklabels([NAME[s].replace("GLM-5.3-Flash", "GLM-5.3 Flash").replace(" ", "\n", 1) for s in SLOTS], fontsize=6)
     ax.set_ylabel("share of items whose 3 repeats disagree")
     ax.set_title("Self-consistency at temperature 0")
     ax.legend(frameon=False)
@@ -414,9 +414,9 @@ def fig_stimuli():
     from PIL import Image, ImageDraw, ImageFont
     picks = [("c01_base", "p4", "en02"), ("c02_bar", "p4", "en02"), ("c03_matched", "p4", "en02"), ("c04_gibberish", "p4", "en02"),
              ("c05_wordgap", "short", "en02"), ("c06_decoy", "incomplete_gTwin", "en02"), ("c07_pill", "corner", "pill02"),
-             ("c08_fill", "p4", "en02"), ("c09_bottom", "p4", "para02"), ("c10_thai", "p4", "th02"), ("c11_marks", "p6", "thm02"),
+             ("c08_fill", "p4", "en02"), ("c09_bottom", "p4", "para02"), ("c10_thai", "p4", "th02"), ("c11_marks", "p3", "thm11"),
              ("c12_thaiwrap", "p4", "thp02")]
-    LAB = {"p4": "+4 px", "p6": "+6 px", "short": "short word spills", "incomplete_gTwin": "control 4 px away (fits)", "corner": "corner-cross"}
+    LAB = {"p4": "+4 px", "p3": "+3 px", "p6": "+6 px", "short": "short word spills", "incomplete_gTwin": "control 4 px away (fits)", "corner": "corner-cross"}
     man = {r["item"]: r for r in _man.to_dict("records")}
     tiles = []
     for cell, level, sid in picks:

@@ -1,0 +1,2781 @@
+item,cell,slot,cer,text
+c01_base_p30_en06,c01_base,dsv4,0.0,You have been added to the organization
+c01_base_p30_en13,c01_base,dsv4,0.0,Add a caption to this screenshot
+c01_base_anchor_en13,c01_base,dsv4,0.0,Add a caption to this screenshot
+c01_base_m10_en13,c01_base,dsv4,0.0,Add a caption to this screenshot
+c01_base_m10_en11,c01_base,dsv4,0.0,We could not connect to the database
+c01_base_p30_en00,c01_base,dsv4,0.0,Please review the attached presentation
+c01_base_anchor_en03,c01_base,dsv4,0.0,Select a folder to export your recordings
+c01_base_m10_en01,c01_base,dsv4,0.0,Click here to download the spreadsheet
+c01_base_p12_en14,c01_base,dsv4,0.0,Your order will ship from our warehouse
+c01_base_p30_en00,c01_base,qwen38,0.0,Please review the attached presentation
+c01_base_m10_en11,c01_base,qwen38,0.0,We could not connect to the database
+c01_base_m10_en13,c01_base,qwen38,0.0,Add a caption to this screenshot
+c01_base_p30_en13,c01_base,qwen38,0.0,Add a caption to this screenshot
+c01_base_anchor_en13,c01_base,qwen38,0.0,Add a caption to this screenshot
+c01_base_anchor_en13,c01_base,glm53flash,0.0,"The text in the box reads: ""Add a caption to this screenshot"""
+c01_base_m3_en02,c01_base,dsv4,0.0,Your changes have been saved to the repository
+c01_base_p4_en07,c01_base,dsv4,0.0,Drag the image into the timeline
+c01_base_p4_en06,c01_base,dsv4,0.0,You have been added to the organization
+c01_base_anchor_en00,c01_base,dsv4,0.0,Please review the attached presentation
+c01_base_p30_en06,c01_base,qwen38,0.0,You have been added to the organization
+c01_base_m10_en05,c01_base,dsv4,0.0,Enter a name for the new workspace
+c01_base_m10_en01,c01_base,qwen38,0.0,Click here to download the spreadsheet
+c01_base_m3_en06,c01_base,dsv4,0.0,You have been added to the organization
+c01_base_p4_en09,c01_base,dsv4,0.0,Remember to back up your documents
+c01_base_p30_en00,c01_base,glm53flash,0.0,"The text in the box reads: **""Please review the attached presentation""**"
+c01_base_m10_en13,c01_base,glm53flash,0.0,"The text in the box reads: **""Add a caption to this screenshot""**"
+c01_base_m3_en03,c01_base,dsv4,0.0,Select a folder to export your recordings
+c01_base_p12_en11,c01_base,dsv4,0.0,We could not connect to the database
+c01_base_m10_en01,c01_base,glm53flash,0.0,"The text in the box reads: **""Click here to download the spreadsheet""**"
+c01_base_p4_en12,c01_base,dsv4,0.0,Tap to open the shared calendar
+c01_base_anchor_en14,c01_base,dsv4,0.0,Your order will ship from our warehouse
+c01_base_anchor_en03,c01_base,glm53flash,0.0,"The text in the box reads: **""Select a folder to export your recordings""**"
+c01_base_p30_en13,c01_base,glm53flash,0.0,"The text in the box reads: **""Add a caption to this screenshot""**"
+c01_base_p4_en06,c01_base,glm53flash,0.0,"The text in the box reads: **""You have been added to the organization""**"
+c01_base_anchor_en12,c01_base,dsv4,0.0,Tap to open the shared calendar
+c01_base_p4_en13,c01_base,dsv4,0.0,Add a caption to this screenshot
+c01_base_p12_en14,c01_base,glm53flash,0.0,"The text in the box reads: **""Your order will ship from our warehouse""**"
+c01_base_p30_en06,c01_base,glm53flash,0.0,"The text in the box reads: **""You have been added to the organization""**"
+c01_base_p30_en06,c01_base,gpt56luna,0.0,You have been added to the organization
+c01_base_anchor_en03,c01_base,qwen38,0.0,Select a folder to export your recordings
+c01_base_p12_en08,c01_base,dsv4,0.0,This link will expire after the conference
+c01_base_p30_en00,c01_base,gpt56sol,0.0,Please review the attached presentation
+c01_base_p4_en06,c01_base,qwen38,0.0,You have been added to the organization
+c01_base_m10_en13,c01_base,gpt56luna,0.0,Add a caption to this screenshot
+c01_base_p30_en12,c01_base,dsv4,0.0,Tap to open the shared calendar
+c01_base_p30_en13,c01_base,gpt56sol,0.0,Add a caption to this screenshot
+c01_base_m10_en01,c01_base,gpt56luna,0.0,Click here to download the spreadsheet
+c01_base_m10_en05,c01_base,qwen38,0.0,Enter a name for the new workspace
+c01_base_p30_en00,c01_base,gpt56luna,0.0,Please review the attached presentation
+c01_base_p4_en10,c01_base,dsv4,0.0,Choose a theme for your newsletter
+c01_base_m10_en11,c01_base,gpt56sol,0.0,We could not connect to the database
+c01_base_m10_en13,c01_base,gpt56sol,0.0,Add a caption to this screenshot
+c01_base_p30_en08,c01_base,dsv4,0.0,This link will expire after the conference
+c01_base_m3_en02,c01_base,qwen38,0.0,Your changes have been saved to the repository
+c01_base_p30_en06,c01_base,gpt56sol,0.0,You have been added to the organization
+c01_base_anchor_en13,c01_base,gpt56luna,0.0,Add a caption to this screenshot
+c01_base_p30_en13,c01_base,gpt56luna,0.0,Add a caption to this screenshot
+c01_base_anchor_en03,c01_base,gpt56sol,0.0,Select a folder to export your recordings
+c01_base_p12_en14,c01_base,qwen38,0.0,Your order will ship from our warehouse
+c01_base_anchor_en14,c01_base,qwen38,0.0,Your order will ship from our warehouse
+c01_base_anchor_en09,c01_base,dsv4,0.0,Remember to back up your documents
+c01_base_p4_en07,c01_base,qwen38,0.0,Drag the image into the timeline
+c01_base_p30_en03,c01_base,dsv4,0.0,Select a folder to export your recordings
+c01_base_p12_en12,c01_base,dsv4,0.0,Tap to open the shared calendar
+c01_base_m10_en11,c01_base,gpt56luna,0.0,We could not connect to the database
+c01_base_anchor_en00,c01_base,qwen38,0.0,Please review the attached presentation
+c01_base_anchor_en13,c01_base,gpt56sol,0.0,Add a caption to this screenshot
+c01_base_m10_en01,c01_base,gpt56sol,0.0,Click here to download the spreadsheet
+c01_base_p4_en01,c01_base,dsv4,0.0,Click here to download the spreadsheet
+c01_base_anchor_en03,c01_base,gpt56luna,0.0,Select a folder to export your recordings
+c04_gibberish_m3_en06,c04_gibberish,dsv4,0.0,Uyo evha nebe ddeda ot eth ozgiatoiannr
+c01_base_m3_en02,c01_base,glm53flash,0.0,"The text in the box reads: **""Your changes have been saved to the repository""**"
+c04_gibberish_m3_en00,c04_gibberish,dsv4,0.05128205128205128,Aelspe erewiv het daetacht itsteaonernp
+c01_base_anchor_en00,c01_base,glm53flash,0.0,"The text in the box reads: **""Please review the attached presentation""**"
+c01_base_m10_en05,c01_base,glm53flash,0.0,"The text in the box reads: ""Enter a name for the new workspace"""
+c01_base_m10_en11,c01_base,glm53flash,0.0,"The text in the box reads: **""We could not connect to the database""**"
+c01_base_anchor_en14,c01_base,glm53flash,0.0,"The text in the box reads: **""Your order will ship from our warehouse""**"
+c01_base_p4_en06,c01_base,gpt56luna,0.0,You have been added to the organization
+c01_base_m3_en06,c01_base,qwen38,0.0,You have been added to the organization
+c01_base_p12_en11,c01_base,glm53flash,0.0,"The text in the box reads: **""We could not connect to the database""**"
+c01_base_m3_en03,c01_base,glm53flash,0.0,"The text in the box reads: **""Select a folder to export your recordings""**"
+c04_gibberish_p12_en10,c04_gibberish,dsv4,0.058823529411764705,Hocoes a ethme ofr ruoy wsereen.tt
+c04_gibberish_m3_en01,c04_gibberish,dsv4,0.0,Kilcc eerh ot dodnolwa het dshspaeeetr
+c04_gibberish_p4_en04,c04_gibberish,dsv4,0.0,Het getimne nstoe aer bavaliela ni eth baosrdahd
+c01_base_p4_en07,c01_base,gpt56luna,0.0,Drag the image into the timeline
+c04_gibberish_m10_en07,c04_gibberish,dsv4,0.0,Gard eht egmai tino het meileitn
+c01_base_p4_en06,c01_base,gpt56sol,0.0,You have been added to the organization
+c04_gibberish_p12_en03,c04_gibberish,dsv4,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c04_gibberish_m3_en11,c04_gibberish,dsv4,0.05555555555555555,Ew Iducu nto tnoccen ot het tdasaeab
+c04_gibberish_m10_en14,c04_gibberish,dsv4,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c01_base_anchor_en00,c01_base,gpt56luna,0.0,Please review the attached presentation
+c04_gibberish_p30_en06,c04_gibberish,dsv4,0.02564102564102564,Uyo evha nebe ddeda ot eth ozgiatoannr
+c01_base_p12_en11,c01_base,qwen38,0.0,We could not connect to the database
+c01_base_p12_en14,c01_base,gpt56luna,0.0,Your order will ship from our warehouse
+c01_base_anchor_en00,c01_base,gpt56sol,0.0,Please review the attached presentation
+c01_base_p4_en09,c01_base,qwen38,0.0,Remember to back up your documents
+c01_base_p4_en12,c01_base,qwen38,0.0,Tap to open the shared calendar
+c01_base_m3_en03,c01_base,qwen38,0.0,Select a folder to export your recordings
+c01_base_p30_en12,c01_base,qwen38,0.0,Tap to open the shared calendar
+c01_base_p30_en12,c01_base,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared calendar""**"
+c01_base_p4_en13,c01_base,qwen38,0.0,Add a caption to this screenshot
+c01_base_p4_en09,c01_base,glm53flash,0.0,"The text in the box reads: ""Remember to back up your documents"""
+c01_base_anchor_en14,c01_base,gpt56sol,0.0,Your order will ship from our warehouse
+c01_base_m10_en05,c01_base,gpt56sol,0.0,Enter a name for the new workspace
+c01_base_anchor_en14,c01_base,gpt56luna,0.0,Your order will ship from our warehouse
+c01_base_m10_en05,c01_base,gpt56luna,0.0,Enter a name for the new workspace
+c01_base_anchor_en12,c01_base,qwen38,0.0,Tap to open the shared calendar
+c04_gibberish_anchor_en04,c04_gibberish,dsv4,0.0,Het getimne nstoe aer bavaliela ni eth baosrdahd
+c01_base_p4_en09,c01_base,gpt56sol,0.0,Remember to back up your documents
+c04_gibberish_m3_en12,c04_gibberish,dsv4,0.0,Pat ot npeo eth raehds dcalearn
+c04_gibberish_p30_en00,c04_gibberish,dsv4,0.02564102564102564,Aelspe erewiv het daetacht itsteaoerpn
+c01_base_p4_en09,c01_base,gpt56luna,0.0,Remember to back up your documents
+c01_base_m3_en02,c01_base,gpt56luna,0.0,Your changes have been saved to the repository
+c01_base_anchor_en12,c01_base,glm53flash,0.0,Tap to open the shared calendar
+c01_base_m3_en02,c01_base,gpt56sol,0.0,Your changes have been saved to the repository
+c04_gibberish_m10_en01,c04_gibberish,dsv4,0.0,Kilcc eerh ot dodnolwa het dshspaeeetr
+c04_gibberish_anchor_en01,c04_gibberish,dsv4,0.0,Kilcc eerh ot dodnolwa het dshspaeeetr
+c04_gibberish_p12_en00,c04_gibberish,dsv4,0.02564102564102564,Aelspe erewiv het daetacht itsteaoneron
+c04_gibberish_p4_en08,c04_gibberish,dsv4,0.0,Htis kinl iwll ipexre rftae eth fnneeeccor
+c04_gibberish_p12_en14,c04_gibberish,dsv4,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c01_base_p4_en07,c01_base,gpt56sol,0.0,Drag the image into the timeline
+c01_base_p12_en08,c01_base,qwen38,0.0,This link will expire after the conference
+c01_base_p4_en12,c01_base,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared calendar""**"
+c01_base_p4_en13,c01_base,glm53flash,0.0,"The text in the box reads: **""Add a caption to this screenshot""**"
+c01_base_m3_en06,c01_base,gpt56luna,0.0,You have been added to the organization
+c01_base_m3_en06,c01_base,glm53flash,0.0,"The text in the box reads: **""You have been added to the organization""**
+
+It appears to be a success or confirmation message, likely from an app or website after being invited to join an organization or team."
+c01_base_p12_en14,c01_base,gpt56sol,0.0,Your order will ship from our warehouse
+c01_base_p12_en11,c01_base,gpt56luna,0.0,We could not connect to the database
+c01_base_p4_en13,c01_base,gpt56luna,0.0,Add a caption to this screenshot
+c01_base_p12_en08,c01_base,glm53flash,0.0,"The text in the box reads: **""This link will expire after the conference""**"
+c01_base_m3_en03,c01_base,gpt56luna,0.0,Select a folder to export your recordings
+c04_gibberish_p30_en01,c04_gibberish,dsv4,0.02631578947368421,Kilcc eerh ot dodnolwa het dshspaeetr
+c01_base_p30_en08,c01_base,qwen38,0.0,This link will expire after the conference
+c01_base_p4_en10,c01_base,qwen38,0.0,Choose a theme for your newsletter
+c01_base_p4_en01,c01_base,qwen38,0.0,Click here to download the spreadsheet
+c04_gibberish_p4_en07,c04_gibberish,dsv4,0.03125,Gard eht egmai tino het meileith
+c04_gibberish_p30_en14,c04_gibberish,dsv4,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c01_base_anchor_en09,c01_base,qwen38,0.0,Remember to back up your documents
+c04_gibberish_anchor_en09,c04_gibberish,dsv4,0.0,Ermrebme ot bcka pu uroy nstcuedom
+c01_base_p30_en03,c01_base,qwen38,0.0,Select a folder to export your recordings
+c04_gibberish_anchor_en10,c04_gibberish,dsv4,0.0,Hocoes a ethme ofr ruoy wsereentlt
+c01_base_p4_en10,c01_base,glm53flash,0.0,"The text in the box reads: **""Choose a theme for your newsletter""**"
+c01_base_p30_en08,c01_base,glm53flash,0.0,"The text in the box reads: ""This link will expire after the conference"""
+c04_gibberish_p30_en13,c04_gibberish,dsv4,0.0,Dda a onipcat ot siht hoertsscne
+c04_gibberish_m10_en03,c04_gibberish,dsv4,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c04_gibberish_m3_en10,c04_gibberish,dsv4,0.029411764705882353,Hocoes a ethme ofr ruoy wsereenttt
+c01_base_m3_en06,c01_base,gpt56sol,0.0,You have been added to the organization
+c04_gibberish_m3_en06,c04_gibberish,qwen38,0.0,Uyo evha nebe ddeda ot eth ozgiatoiannr
+c01_base_m10_en01,c01_base,gemini38,0.0,"The text inside the box reads:
+
+**Click here to download the spreadsheet**"
+c01_base_m10_en11,c01_base,gemini38,0.0,"The text in the box reads:
+
+**We could not connect to the database**"
+c01_base_p30_en12,c01_base,gpt56luna,0.0,Tap to open the shared calendar
+c01_base_p12_en12,c01_base,qwen38,0.0,Tap to open the shared calendar
+c01_base_anchor_en12,c01_base,gpt56luna,0.0,Tap to open the shared calendar
+c01_base_anchor_en12,c01_base,gpt56sol,0.0,Tap to open the shared calendar
+c01_base_p4_en01,c01_base,glm53flash,0.0,"The text in the box reads: **""Click here to download the spreadsheet""**"
+c01_base_m3_en03,c01_base,gpt56sol,0.0,Select a folder to export your recordings
+c01_base_p12_en08,c01_base,gpt56luna,0.0,This link will expire after the conference
+c01_base_p4_en12,c01_base,gpt56luna,0.0,Tap to open the shared calendar
+c01_base_p4_en13,c01_base,gpt56sol,0.0,Add a caption to this screenshot
+c04_gibberish_m10_en02,c04_gibberish,dsv4,0.0,Uyro hceasgn hvea nebe edvas ot eth tsorpyoeri
+c04_gibberish_p4_en11,c04_gibberish,dsv4,0.05555555555555555,Ew Iducu nto tnoccen ot het tdasaeab
+c01_base_p30_en03,c01_base,glm53flash,0.0,"The text in the box reads: **""Select a folder to export your recordings""**"
+c01_base_anchor_en13,c01_base,gemini38,0.0,Add a caption to this screenshot
+c04_gibberish_m10_en12,c04_gibberish,dsv4,0.0,Pat ot npeo eth raehds dcalearn
+c01_base_p30_en03,c01_base,gpt56luna,0.0,Select a folder to export your recordings
+c04_gibberish_anchor_en12,c04_gibberish,dsv4,0.0,Pat ot npeo eth raehds dcalearn
+c05_wordgap_short_en09,c05_wordgap,dsv4,0.0,Remember to back up your keys
+c01_base_p4_en12,c01_base,gpt56sol,0.0,Tap to open the shared calendar
+c05_wordgap_long_en06,c05_wordgap,dsv4,0.0,You have been added to the
+c05_wordgap_short_en06,c05_wordgap,dsv4,0.0,You have been added to the team
+c01_base_m10_en13,c01_base,gemini38,0.0,"The text inside the box is:
+
+**Add a caption to this screenshot**"
+c01_base_p30_en00,c01_base,gemini38,0.0,"The text in the image reads:
+
+**Please review the attached presentation**"
+c01_base_p30_en13,c01_base,gemini38,0.0,Add a caption to this screenshot
+c05_wordgap_m3_en11,c05_wordgap,dsv4,0.0,We could not connect to the printer
+c01_base_p4_en01,c01_base,gpt56luna,0.0,Click here to download the spreadsheet
+c01_base_anchor_en03,c01_base,gemini38,0.0,"The text inside the box reads:
+
+Select a folder to export your recordings"
+c04_gibberish_p12_en10,c04_gibberish,qwen38,0.08823529411764706,Hocoee a ethme ofr ruoy wsereenit
+c01_base_p4_en10,c01_base,gpt56luna,0.0,Choose a theme for your newsletter
+c04_gibberish_m10_en14,c04_gibberish,qwen38,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c01_base_anchor_en09,c01_base,glm53flash,0.0,"The text in the box reads: **""Remember to back up your documents""**"
+c04_gibberish_p30_en06,c04_gibberish,qwen38,0.02564102564102564,Uyo evha nebe ddeda ot eth ozgiatolannr
+c04_gibberish_m3_en01,c04_gibberish,qwen38,0.05263157894736842,Kilcc eerh ot dodnolwa het dshspae eet r
+c05_wordgap_short_en08,c05_wordgap,dsv4,0.0,This link will expire after the day
+c05_wordgap_long_en12,c05_wordgap,dsv4,0.0,Tap to open the shared calendar
+c05_wordgap_short_en02,c05_wordgap,dsv4,0.0,Your changes have been saved to the log
+c04_gibberish_m3_en11,c04_gibberish,qwen38,0.0,Ew lduco nto tnoccen ot het tdasaeab
+c01_base_p30_en12,c01_base,gpt56sol,0.0,Tap to open the shared calendar
+c01_base_p12_en08,c01_base,gpt56sol,0.0,This link will expire after the conference
+c05_wordgap_m10_en11,c05_wordgap,dsv4,0.0,We could not connect to the printer
+c05_wordgap_anchor_en13,c05_wordgap,dsv4,0.0,Add a caption to this picture
+c05_wordgap_short_en14,c05_wordgap,dsv4,0.0,Your order will ship from our shop
+c05_wordgap_long_en07,c05_wordgap,dsv4,0.0,Drag the image into the timeline
+c05_wordgap_m3_en14,c05_wordgap,dsv4,0.0,Your order will ship from our office
+c04_gibberish_p12_en03,c04_gibberish,qwen38,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c01_base_p12_en12,c01_base,gpt56luna,0.0,Tap to open the shared calendar
+c01_base_p30_en08,c01_base,gpt56sol,0.0,This link will expire after the conference
+c04_gibberish_m10_en07,c04_gibberish,qwen38,0.0,Gard eht egmai tino het meileitn
+c01_base_anchor_en09,c01_base,gpt56luna,0.0,Remember to back up your documents
+c04_gibberish_m3_en06,c04_gibberish,gpt56luna,0.1282051282051282,Uyo evha nebe dedda ot eth ozgiatioanrr
+c05_wordgap_anchor_en11,c05_wordgap,dsv4,0.0,We could not connect to the printer
+c05_wordgap_short_en05,c05_wordgap,dsv4,0.0,Enter a name for the new tag
+c05_wordgap_short_en11,c05_wordgap,dsv4,0.0,We could not connect to the hub
+c01_base_p4_en06,c01_base,gemini38,0.0,You have been added to the organization
+c01_base_p30_en03,c01_base,gpt56sol,0.0,Select a folder to export your recordings
+c01_base_anchor_en09,c01_base,gpt56sol,0.0,Remember to back up your documents
+c05_wordgap_long_en09,c05_wordgap,dsv4,0.0,Remember to back up your
+c05_wordgap_m3_en04,c05_wordgap,dsv4,0.0,The meeting notes are available in the archive
+c04_gibberish_m3_en00,c04_gibberish,gpt56luna,0.02564102564102564,Aelspe erewiv het daetacht itsteaonerepn
+c01_base_p30_en08,c01_base,gpt56luna,0.0,This link will expire after the conference
+c05_wordgap_m10_en05,c05_wordgap,dsv4,0.0,Enter a name for the new folder
+c05_wordgap_m10_en06,c05_wordgap,dsv4,0.0,You have been added to the project
+c05_wordgap_short_en00,c05_wordgap,dsv4,0.0,Please review the attached file
+c04_gibberish_p4_en04,c04_gibberish,qwen38,0.020833333333333332,Het getimne nstoe aer bavaliele ni eth baosrdahd
+c04_gibberish_m3_en01,c04_gibberish,gpt56luna,0.0,Kilcc eerh ot dodnolwa het dshspaeeetr
+c04_gibberish_p30_en00,c04_gibberish,qwen38,0.05128205128205128,Aelspe erewiv het daetacht itsteaorlerpn
+c01_base_p4_en07,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Drag the image into the timeline**"
+c04_gibberish_p12_en14,c04_gibberish,qwen38,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c01_base_p4_en01,c01_base,gpt56sol,0.0,Click here to download the spreadsheet
+c04_gibberish_p12_en10,c04_gibberish,gpt56luna,0.14705882352941177,Hoceos a ethme of rruoy wsereenlt
+c04_gibberish_anchor_en04,c04_gibberish,qwen38,0.020833333333333332,Het getimne nstoe aer bawaliela ni eth baosrdahd
+c01_base_p12_en14,c01_base,gemini38,0.0,"The text in the box is:
+
+**Your order will ship from our warehouse**"
+c01_base_anchor_en14,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Your order will ship from our warehouse**"
+c01_base_anchor_en00,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Please review the attached presentation**"
+c01_base_p4_en10,c01_base,gpt56sol,0.0,Choose a theme for your newsletter
+c04_gibberish_m3_en12,c04_gibberish,qwen38,0.0,Pat ot npeo eth raehds dcalearn
+c05_wordgap_short_en01,c05_wordgap,dsv4,0.0,Click here to download the app
+c05_wordgap_medium_en07,c05_wordgap,dsv4,0.0,Drag the image into the editor
+c04_gibberish_m10_en14,c04_gibberish,gpt56luna,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c05_wordgap_m10_en04,c05_wordgap,dsv4,0.0,The meeting notes are available in the archive
+c01_base_m10_en05,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Enter a name for the new workspace**"
+c05_wordgap_m10_en09,c05_wordgap,dsv4,0.0,Remember to back up your photos
+c05_wordgap_short_en03,c05_wordgap,dsv4,0.0,Select a folder to export your data
+c05_wordgap_m10_en14,c05_wordgap,dsv4,0.0,Your order will ship from our office
+c04_gibberish_anchor_en01,c04_gibberish,qwen38,0.02631578947368421,Kilcc eerh ot dodnolwa het dshspaeetr
+c04_gibberish_p12_en00,c04_gibberish,qwen38,0.0,Aelspe erewiv het daetacht itsteaonerpn
+c01_base_p12_en12,c01_base,gpt56sol,0.0,Tap to open the shared calendar
+c05_wordgap_long_en05,c05_wordgap,dsv4,0.0,Enter a name for the new workspace
+c04_gibberish_m3_en06,c04_gibberish,glm53flash,0.0,"The text in the box reads: **""Uyo evha nebe ddeda ot eth ozgiatoiannr""**
+
+This appears to be scrambled text. Unscrambled, it says: **""You have been added to the organization""**"
+c05_wordgap_long_en02,c05_wordgap,dsv4,0.0,Your changes have been saved to the repository
+c01_base_p12_en11,c01_base,gpt56sol,0.0,We could not connect to the database
+c04_gibberish_p12_en03,c04_gibberish,glm53flash,0.0,"The text in the box appears to be scrambled, but it reads:
+
+**""Lsetce a erdofl ot pexort yruo isnrrcodge""**
+
+Unscrambled, it says: **""Select a folder to export your recordings.""**"
+c04_gibberish_m3_en11,c04_gibberish,gpt56luna,0.0,Ew lduco nto tnoccen ot het tdasaeab
+c04_gibberish_p30_en06,c04_gibberish,gpt56luna,0.05128205128205128,Uyo evha nebe deda ot eth ozgiatoianrr
+c05_wordgap_anchor_en01,c05_wordgap,dsv4,0.0,Click here to download the report
+c04_gibberish_m3_en06,c04_gibberish,gpt56sol,0.05128205128205128,Uyo evha nebe ddeda ot eth ozgietaoiannr
+c04_gibberish_m10_en14,c04_gibberish,glm53flash,0.0,"The text in the box reads: **""Yoru drero liwl ishp mrof ruo earwsoueh""**
+
+This is scrambled text — with the letters within each word rearranged. Decoded, it says: **""Your order will ship from our warehouse.""**"
+c06_decoy_complete_gTwin_en01,c06_decoy,dsv4,0.21212121212121213,Click here to download the report Cancel
+c06_decoy_complete_g30_en06,c06_decoy,dsv4,0.0,"You have been added to the project
+Preview"
+c01_base_p30_en06,c01_base,gemini38,0.0,You have been added to the organization
+c05_wordgap_m3_en07,c05_wordgap,dsv4,0.0,Drag the image into the editor
+c06_decoy_incomplete_g30_en06,c06_decoy,dsv4,0.0,"You have been added to the
+Preview"
+c06_decoy_complete_g30_en02,c06_decoy,dsv4,0.0,"Your changes have been saved to the server
+Export"
+c06_decoy_complete_g12_en12,c06_decoy,dsv4,0.26666666666666666,Tap to open the shared gallery Options
+c04_gibberish_m10_en07,c04_gibberish,gpt56luna,0.0,Gard eht egmai tino het meileitn
+c06_decoy_incomplete_g30_en10,c06_decoy,dsv4,0.34782608695652173,Choose a theme for your Profile
+c04_gibberish_p12_en03,c04_gibberish,gpt56luna,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c04_gibberish_m3_en00,c04_gibberish,gpt56sol,0.0,Aelspe erewiv het daetacht itsteaonerpn
+c04_gibberish_p4_en08,c04_gibberish,qwen38,0.0,Htis kinl iwll ipexre rftae eth fnneeeccor
+c04_gibberish_m10_en01,c04_gibberish,qwen38,0.02631578947368421,Kilcc eerh ot dodnolwa het dshspaeetr
+c04_gibberish_p12_en10,c04_gibberish,glm53flash,0.058823529411764705,"The text in the box reads: **""Hocoes a ethme ofr ruoy wsereenctt""**
+
+This appears to be scrambled text. Unscrambled, it says: **""Choose a theme for your worksheet""**"
+c04_gibberish_p30_en01,c04_gibberish,qwen38,0.02631578947368421,Kilcc eerh ot dodnolwa het dshspaeetr
+c04_gibberish_p30_en00,c04_gibberish,gpt56luna,0.1282051282051282,Aelspe erwiw het daetacht itsteoanierpn
+c06_decoy_incomplete_g30_en12,c06_decoy,dsv4,0.0,"Tap to open the shared
+Options"
+c04_gibberish_p4_en04,c04_gibberish,gpt56luna,0.041666666666666664,Het getimne nstoe aer bavali ela ni eth baosrdahg
+c04_gibberish_p12_en10,c04_gibberish,gpt56sol,0.08823529411764706,Hocoes a ethme of ruoy wsereenlit
+c04_gibberish_m3_en10,c04_gibberish,qwen38,0.029411764705882353,Hocoes a ethme ofr ruoy wsereenttt
+c06_decoy_incomplete_g30_en11,c06_decoy,dsv4,0.2962962962962963,We could not connect to the Restart
+c04_gibberish_p30_en14,c04_gibberish,qwen38,0.02564102564102564,"The text in the box is: ""Yoru drero liwl ishpmrof ruo earwsoueh"""
+c06_decoy_incomplete_gTwin_en01,c06_decoy,dsv4,0.2692307692307692,Click here to download the Cancel
+c06_decoy_incomplete_gTwin_en09,c06_decoy,dsv4,0.2916666666666667,Remember to back up your Upload
+c04_gibberish_p12_en14,c04_gibberish,gpt56luna,0.02564102564102564,Yoru drero liwl lishp mrof ruo earwsoueh
+c01_base_m3_en03,c01_base,gemini38,0.0,"The text inside the box is:
+
+**Select a folder to export your recordings**"
+c01_base_p4_en13,c01_base,gemini38,0.0,"The text in the box is:
+
+**Add a caption to this screenshot**"
+c04_gibberish_anchor_en04,c04_gibberish,gpt56luna,0.041666666666666664,Het getimne nstoe aer bavali ela ni eth baosrdah
+c06_decoy_incomplete_g30_en08,c06_decoy,dsv4,0.25806451612903225,This link will expire after the Confirm
+c04_gibberish_p4_en07,c04_gibberish,qwen38,0.03125,Gard eht egmai tino het meileith
+c06_decoy_complete_gTwin_en08,c06_decoy,dsv4,0.20512820512820512,This link will expire after the session Confirm
+c04_gibberish_m10_en03,c04_gibberish,qwen38,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c06_decoy_incomplete_g30_en07,c06_decoy,dsv4,0.0,"Drag the image into the
+Submit"
+c01_base_m3_en06,c01_base,gemini38,0.0,"The text in the box reads:
+
+**You have been added to the organization**"
+c06_decoy_incomplete_g12_en04,c06_decoy,dsv4,0.21052631578947367,The meeting notes are available in the Refresh
+c01_base_p4_en09,c01_base,gemini38,0.0,"The text in the image reads:
+
+Remember to back up your documents"
+c01_base_p12_en11,c01_base,gemini38,0.0,"The text in the box reads:
+
+**We could not connect to the database**"
+c06_decoy_complete_g12_en06,c06_decoy,dsv4,0.0,"You have been added to the project
+Preview"
+c01_base_p12_en12,c01_base,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared calendar""**"
+c04_gibberish_anchor_en01,c04_gibberish,gpt56luna,0.07894736842105263,Kilcc eerh ot dodnowla het dshspaeetr
+c04_gibberish_p30_en06,c04_gibberish,gpt56sol,0.0,Uyo evha nebe ddeda ot eth ozgiatoiannr
+c06_decoy_complete_gTwin_en07,c06_decoy,dsv4,0.23333333333333334,Drag the image into the editor Submit
+c01_base_p4_en12,c01_base,gemini38,0.0,"The text in the image reads:
+
+**Tap to open the shared calendar**"
+c06_decoy_incomplete_g12_en06,c06_decoy,dsv4,0.0,"You have been added to the
+Preview"
+c04_gibberish_m3_en12,c04_gibberish,gpt56luna,0.03225806451612903,Pat ot npeo eth raehds dcaleanrn
+c06_decoy_complete_g12_en07,c06_decoy,dsv4,0.23333333333333334,Drag the image into the editor Submit
+c04_gibberish_m10_en14,c04_gibberish,gpt56sol,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c04_gibberish_m3_en01,c04_gibberish,glm53flash,0.02631578947368421,"The text in the box is scrambled jumbled text:
+
+**""Kilcc eerh ot dodnolwa het dshspaeetr""**
+
+When unscrambled, it reads: **""Click here to download the spreadsheet""**"
+c06_decoy_complete_g12_en13,c06_decoy,dsv4,0.0,"Add a caption to this picture
+Publish"
+c06_decoy_incomplete_gTwin_en05,c06_decoy,dsv4,0.2916666666666667,Enter a name for the new Search
+c04_gibberish_m3_en11,c04_gibberish,gpt56sol,0.027777777777777776,Ew Iduco nto tnoccen ot het tdasaeab
+c04_gibberish_p12_en00,c04_gibberish,gpt56luna,0.0,Aelspe erewiv het daetacht itsteaonerpn
+c06_decoy_complete_gTwin_en10,c06_decoy,dsv4,0.25806451612903225,Choose a theme for your website Profile
+c04_gibberish_m3_en01,c04_gibberish,gpt56sol,0.05263157894736842,Kilcc eem ot dodnolwa het dshspaeeetr
+c04_gibberish_anchor_en10,c04_gibberish,qwen38,0.029411764705882353,Hocoes a ethme ofr ruoy wsereentit
+c04_gibberish_p12_en03,c04_gibberish,gpt56sol,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c04_gibberish_p30_en13,c04_gibberish,qwen38,0.0,Dda a onipcat ot siht hoertsscne
+c06_decoy_complete_g12_en14,c06_decoy,dsv4,0.19444444444444445,Your order will ship from our office Browse
+c04_gibberish_p4_en08,c04_gibberish,gpt56luna,0.023809523809523808,Htis kinl iwll ipexre rftae eth fnneeecor
+c04_gibberish_anchor_en09,c04_gibberish,qwen38,0.0,Ermrebme ot bcka pu uroy nstcuedom
+c06_decoy_complete_g12_en00,c06_decoy,dsv4,0.0,"Please review the attached document
+Settings"
+c06_decoy_complete_g12_en04,c06_decoy,dsv4,0.17391304347826086,The meeting notes are available in the archive Refresh
+c04_gibberish_m10_en12,c04_gibberish,qwen38,0.0,Pat ot npeo eth raehds dcalearn
+c06_decoy_incomplete_g30_en04,c06_decoy,dsv4,0.21052631578947367,The meeting notes are available in the Refresh
+c04_gibberish_m3_en11,c04_gibberish,glm53flash,0.1111111111111111,"The text in the box reads:
+
+**""Ew Idcuo nto tnoccen ot het tdsaeab""**
+
+This appears to be scrambled/garbled text. Unscrambled, it most likely says:
+
+**""We could not connect to the database""**
+
+This looks like an error message with jumbled letter order — possibly rendered with a broken font or encoding issue."
+c04_gibberish_m10_en02,c04_gibberish,qwen38,0.0,Uyro hceasgn hvea nebe edvas ot eth tsorpyoeri
+c01_base_anchor_en12,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Tap to open the shared calendar**"
+c01_base_m3_en02,c01_base,gemini38,0.0,"The text in the box is:
+
+Your changes have been saved to the repository"
+c04_gibberish_m10_en01,c04_gibberish,gpt56luna,0.10526315789473684,Klikc eerh ot dodnolwa het dshspaeetr
+c04_gibberish_p30_en01,c04_gibberish,gpt56luna,0.02631578947368421,Kilcc eerh ot dodnolwa het dshspaeetr
+c04_gibberish_m3_en10,c04_gibberish,gpt56luna,0.11764705882352941,Hocoes a ethme of ruvoy wsereenttI
+c04_gibberish_p4_en04,c04_gibberish,glm53flash,0.0,"The text in the box is scrambled, but it reads: **""The meeting notes are available in the dashboard.""**
+
+(Original scrambled text: ""Het getimne nstoe aer bavaliela ni eth baosrdahd"" — each word has its internal letters jumbled, a classic example of text that remains readable despite letter scrambling.)"
+c06_decoy_complete_g30_en05,c06_decoy,dsv4,0.22580645161290322,Enter a name for the new folder Search
+c04_gibberish_m10_en07,c04_gibberish,gpt56sol,0.0,Gard eht egmai tino het meileitn
+c04_gibberish_anchor_en12,c04_gibberish,qwen38,0.0,"The text in the box reads: ""Pat ot npeo eth raehds dcalearn"""
+c06_decoy_complete_g30_en04,c06_decoy,dsv4,0.0,The meeting notes are available in the archive
+c06_decoy_incomplete_gTwin_en12,c06_decoy,dsv4,0.36363636363636365,Tap to open the shared Options
+c04_gibberish_m3_en00,c04_gibberish,qwen38,0.05128205128205128,Aelspe erewiv het daetacht itsteaonernp
+c06_decoy_incomplete_g12_en03,c06_decoy,dsv4,0.23333333333333334,Select a folder to export your Delete
+c04_gibberish_p30_en00,c04_gibberish,gpt56sol,0.0,Aelspe erewiv het daetacht itsteaonerpn
+c04_gibberish_p4_en11,c04_gibberish,qwen38,0.05555555555555555,"The text in the box reads: ""Ew lduco nto tnoccen ot het tdsaeaab"""
+c07_pill_anchor_pill06,c07_pill,dsv4,0.0,Copy to clipboard
+c04_gibberish_p30_en14,c04_gibberish,gpt56luna,0.07692307692307693,Yoru drero liwl lishp mrof ruo earwsohe
+c07_pill_p12_pill12,c07_pill,dsv4,0.0,Pin to dashboard
+c07_pill_p12_pill02,c07_pill,dsv4,0.0,View all
+c04_gibberish_m10_en03,c04_gibberish,gpt56luna,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c06_decoy_complete_g12_en08,c06_decoy,dsv4,0.20512820512820512,This link will expire after the session Confirm
+c01_base_p4_en10,c01_base,gemini38,0.0,"The text in the box reads:
+
+Choose a theme for your newsletter"
+c04_gibberish_p4_en04,c04_gibberish,gpt56sol,0.0,Het getimne nstoe aer bavaliela ni eth baosrdahd
+c07_pill_p12_pill01,c07_pill,dsv4,0.0,Download all
+c07_pill_m3_pill01,c07_pill,dsv4,0.0,Download all
+c07_pill_p4_pill10,c07_pill,dsv4,0.0,Sort by field
+c01_base_p30_en08,c01_base,gemini38,0.0,This link will expire after the conference
+c04_gibberish_p12_en14,c04_gibberish,gpt56sol,0.0,Yoru drero liwl ishp mrof ruo earwsoueh
+c07_pill_m3_pill11,c07_pill,dsv4,0.0,Export and send
+c05_wordgap_long_en06,c05_wordgap,qwen38,0.0,You have been added to the
+c07_pill_p4_pill07,c07_pill,dsv4,0.0,Reply to thread
+c05_wordgap_short_en06,c05_wordgap,qwen38,0.0,You have been added to the
+c04_gibberish_p4_en07,c04_gibberish,gpt56luna,0.03125,Gard eht egmai tino het meileith
+c05_wordgap_m3_en11,c05_wordgap,qwen38,0.0,We could not connect to the printer
+c07_pill_p12_pill03,c07_pill,dsv4,0.0,Mark as read
+c04_gibberish_anchor_en10,c04_gibberish,gpt56luna,0.029411764705882353,Hocoes a ethme of ruoy wsereentlt
+c01_base_p30_en03,c01_base,gemini38,0.0,Select a folder to export your recordings
+c05_wordgap_short_en08,c05_wordgap,qwen38,0.0,This link will expire after the day
+c07_pill_corner_pill01,c07_pill,dsv4,0.0,Download all
+c04_gibberish_p30_en13,c04_gibberish,gpt56luna,0.03125,Dda a onipcat ot siht hoertssne
+c07_pill_m10_pill11,c07_pill,dsv4,0.0,Export and send
+c05_wordgap_short_en09,c05_wordgap,qwen38,0.0,Remember to back up your keys
+c07_pill_corner_pill03,c07_pill,dsv4,0.0,Mark as read
+c07_pill_p4_pill06,c07_pill,dsv4,0.0,Copy to clipboard
+c04_gibberish_anchor_en01,c04_gibberish,gpt56sol,0.05263157894736842,Kilcc een ot dodnolwa het dshspaeeetr
+c01_base_p12_en12,c01_base,gemini38,0.0,"The text inside the box is:
+
+**Tap to open the shared calendar**"
+c01_base_p30_en12,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Tap to open the shared calendar**"
+c04_gibberish_m10_en12,c04_gibberish,gpt56luna,0.06451612903225806,Pat ot npeo eth raehds dcaleanr
+c05_wordgap_short_en02,c05_wordgap,qwen38,0.0,Your changes have been saved to the log
+c07_pill_m3_pill12,c07_pill,dsv4,0.0,Pin to dashboard
+c04_gibberish_m3_en12,c04_gibberish,gpt56sol,0.03225806451612903,Pat ot npeo eth raehds scalearn
+c07_pill_m3_pill03,c07_pill,dsv4,0.0,Mark as read
+c05_wordgap_long_en12,c05_wordgap,qwen38,0.0,Tap to open the shared calendar
+c07_pill_anchor_pill14,c07_pill,dsv4,0.0,Start free trial
+c07_pill_p4_pill05,c07_pill,dsv4,0.0,Save and upload
+c04_gibberish_m10_en02,c04_gibberish,gpt56luna,0.0,Uyro hceasgn hvea nebe edvas ot eth tsorpyoeri
+c07_pill_p12_pill00,c07_pill,dsv4,0.0,Payment method
+c04_gibberish_anchor_en04,c04_gibberish,gpt56sol,0.0,Het getimne nstoe aer bavaliela ni eth baosrdahd
+c04_gibberish_anchor_en09,c04_gibberish,gpt56luna,0.058823529411764705,Errmebme ot bcka pu uroy nstcuedom
+c01_base_p12_en08,c01_base,gemini38,0.0,"The text inside the box reads:
+
+This link will expire after the conference"
+c05_wordgap_anchor_en13,c05_wordgap,qwen38,0.0,Add a caption to this picture
+c01_base_anchor_en09,c01_base,gemini38,0.0,"The text in the box reads:
+
+**Remember to back up your documents**"
+c07_pill_m3_pill00,c07_pill,dsv4,0.0,Payment method
+c04_gibberish_anchor_en12,c04_gibberish,gpt56luna,0.0,Pat ot npeo eth raehds dcalearn
+c04_gibberish_p12_en00,c04_gibberish,gpt56sol,0.0,Aelspe erewiv het daetacht itsteaonerpn
+c07_pill_corner_pill14,c07_pill,dsv4,0.0,Start free trial
+c07_pill_p12_pill06,c07_pill,dsv4,0.0,Copy to clipboard
+c07_pill_p4_pill00,c07_pill,dsv4,0.0,Payment method
+c04_gibberish_p4_en08,c04_gibberish,gpt56sol,0.047619047619047616,Htis kinl iwl ipexre rftae eth fnneeecor
+c05_wordgap_m10_en11,c05_wordgap,qwen38,0.0,We could not connect to the printer
+c04_gibberish_p4_en11,c04_gibberish,gpt56luna,0.027777777777777776,Ew Iduco nto tnoccen ot het tdasaeab
+c05_wordgap_long_en07,c05_wordgap,qwen38,0.0,Drag the image into the
+c04_gibberish_p12_en14,c04_gibberish,glm53flash,0.0,"The text in the box reads:
+
+**""Yoru drero liwl ishp mrof ruo earwsoueh""**
+
+This appears to be scrambled/typo-ridden text. Corrected, it says: **""Your order will ship from our warehouse""**"
+c05_wordgap_m3_en14,c05_wordgap,qwen38,0.0,Your order will ship from our office
+c05_wordgap_short_en06,c05_wordgap,gpt56luna,0.0,You have been added to the
+c07_pill_m10_pill08,c07_pill,dsv4,0.0,Show password
+c01_base_p4_en01,c01_base,gemini38,0.0,"The text in the box reads:
+
+Click here to download the spreadsheet"
+c05_wordgap_short_en05,c05_wordgap,qwen38,0.0,Enter a name for the new
+c05_wordgap_short_en14,c05_wordgap,qwen38,0.0,Your order will ship from our
+c05_wordgap_anchor_en11,c05_wordgap,qwen38,0.0,We could not connect to the printer
+c07_pill_corner_pill13,c07_pill,dsv4,0.0,Skip this level
+c04_gibberish_m3_en06,c04_gibberish,gemini38,0.6153846153846154,"The text inside the box is:
+
+**Uyo evha nebe ddeda ot eth ozgiatoiannr**
+
+*(Note: This appears to be scrambled English text for: ""You have been added to the organization"")*"
+c07_pill_p4_pill12,c07_pill,dsv4,0.0,Pin to dashboard
+c07_pill_m3_pill04,c07_pill,dsv4,0.0,Send to email
+c07_pill_corner_pill10,c07_pill,dsv4,0.0,Sort by field
+c07_pill_corner_pill11,c07_pill,dsv4,0.0,Export and send
+c05_wordgap_long_en06,c05_wordgap,gpt56luna,0.0,You have been added to the organization
+c04_gibberish_p30_en14,c04_gibberish,gpt56sol,0.02564102564102564,Yoru drero liwl ishp mrof ruo earwsoµeh
+c04_gibberish_m3_en00,c04_gibberish,gemini38,0.6153846153846154,"The text in the box is:
+
+**Aelspe erewiv het daetacht itsteaonerpn**
+
+*(Note: This appears to be an anagrammed/scrambled sentence for: ""Please review the attached presentation"")*"
+c05_wordgap_m3_en11,c05_wordgap,gpt56luna,0.0,We could not connect to the printer
+c05_wordgap_short_en09,c05_wordgap,gpt56luna,0.0,Remember to back up your keys
+c07_pill_m10_pill12,c07_pill,dsv4,0.0,Pin to dashboard
+c05_wordgap_short_en11,c05_wordgap,qwen38,0.0,We could not connect to the hub
+c05_wordgap_long_en12,c05_wordgap,gpt56luna,0.0,Tap to open the shared calendar
+c07_pill_anchor_pill07,c07_pill,dsv4,0.0,Reply to thread
+c05_wordgap_short_en08,c05_wordgap,gpt56luna,0.0,This link will expire after the day
+c04_gibberish_m10_en01,c04_gibberish,gpt56sol,0.05263157894736842,Kilcc eem ot dodnolwa het dshspaeeetr
+c05_wordgap_short_en02,c05_wordgap,gpt56luna,0.0,Your changes have been saved to the log
+c04_gibberish_m3_en10,c04_gibberish,gpt56sol,0.0,Hocoes a ethme ofr ruoy wsereentlt
+c05_wordgap_m3_en04,c05_wordgap,qwen38,0.0,The meeting notes are available in the archive
+c09_bottom_m10_para10,c09_bottom,dsv4,0.0,"This version fixes a bug that prevented some users
+from uploading images larger than ten megabytes
+when using a slow network connection."
+c04_gibberish_p30_en01,c04_gibberish,gpt56sol,0.05263157894736842,Kilcc een ot dodnolwa het dshspaeeetr
+c04_gibberish_m10_en14,c04_gibberish,gemini38,0.46153846153846156,"The text inside the box is:
+
+**Yoru drero liwl ishp mrof ruo earwsoueh**
+
+*(Unscrambled, it reads: ""Your order will ship from our warehouse"")*"
+c05_wordgap_m10_en06,c05_wordgap,qwen38,0.0,You have been added to the project
+c05_wordgap_long_en09,c05_wordgap,qwen38,0.0,Remember to back up your documents
+c05_wordgap_short_en00,c05_wordgap,qwen38,0.0,Please review the attached
+c09_bottom_p30_para07,c09_bottom,dsv4,0.0,"Participants who complete all four
+modules will receive a certificate by
+email within two weeks of the final
+session of the training program."
+c09_bottom_p4_para10,c09_bottom,dsv4,0.0,"This version fixes a bug that prevented some users
+from uploading images larger than ten megabytes
+when using a slow network connection."
+c09_bottom_anchor_para07,c09_bottom,dsv4,0.0,"Participants who complete all four
+modules will receive a certificate by
+email within two weeks of the final
+session of the training program."
+c09_bottom_anchor_para05,c09_bottom,dsv4,0.0,"Before submitting the form, check that every
+address is complete and that the contact number
+includes the country code for international calls."
+c09_bottom_p4_para13,c09_bottom,dsv4,0.0,"Survey responses are anonymous, and
+the summary shared with the team will
+only include results from questions
+answered by at least five people."
+c05_wordgap_m10_en11,c05_wordgap,gpt56luna,0.0,We could not connect to the printer
+c05_wordgap_m10_en05,c05_wordgap,qwen38,0.0,Enter a name for the new folder
+c09_bottom_p30_para10,c09_bottom,dsv4,0.6323529411764706,This version fixes a bug that prevented some users
+c05_wordgap_short_en03,c05_wordgap,qwen38,0.0,Select a folder to export your data
+c05_wordgap_m10_en14,c05_wordgap,qwen38,0.0,Your order will ship from our office
+c04_gibberish_anchor_en10,c04_gibberish,gpt56sol,0.029411764705882353,Hocoes a ethme of ruoy wsereentlt
+c05_wordgap_anchor_en13,c05_wordgap,gpt56luna,0.0,Add a caption to this picture
+c09_bottom_m10_para03,c09_bottom,dsv4,0.0,"The new dashboard groups
+related metrics on a single page so
+that managers can compare
+weekly trends without switching
+between several reports."
+c09_bottom_m10_para09,c09_bottom,dsv4,0.0,"Meeting rooms can be booked up
+to four weeks in advance, and
+bookings that are not confirmed
+one hour before the start time are
+released."
+c05_wordgap_long_en07,c05_wordgap,gpt56luna,0.0,Drag the image into the timeline
+c01_base_p4_en07,c01_base,glm53flash,0.0,"The text in the box reads: **""Drag the image into the timeline""**"
+c05_wordgap_m3_en14,c05_wordgap,gpt56luna,0.0,Your order will ship from our office
+c05_wordgap_anchor_en11,c05_wordgap,gpt56luna,0.0,We could not connect to the printer
+c05_wordgap_m10_en09,c05_wordgap,qwen38,0.0,Remember to back up your photos
+c04_gibberish_m3_en11,c04_gibberish,gemini38,0.6388888888888888,"The text in the box reads:
+
+**Ew lduco nto tnoccen ot het tdasaeab**
+
+*(which is an anagram/scramble of: ""We could not connect to the database"")*"
+c04_gibberish_p12_en10,c04_gibberish,gemini38,0.6176470588235294,"The text in the box reads:
+
+**Hocoes a ethme ofr ruoy wsereentlt**
+
+*(Unscrambled, it reads: ""Choose a theme for your newsletter"")*"
+c04_gibberish_p30_en13,c04_gibberish,gpt56sol,0.03125,Dda a onipcat ot siht hoertsscene
+c04_gibberish_m10_en07,c04_gibberish,glm53flash,0.0,"The text in the box reads: **""Drag the image into the mailbox""** (shown scrambled as ""Gard eht egmai tino het meileitn"" — a CAPTCHA-style distortion with reversed words and jumbled letters)."
+c05_wordgap_short_en01,c05_wordgap,qwen38,0.0,Click here to download the app
+c09_bottom_p12_para00,c09_bottom,dsv4,0.0,"Your subscription will renew
+automatically at the end of the billing
+period unless you cancel at least one day
+before the renewal date."
+c09_bottom_p12_para07,c09_bottom,dsv4,0.0,"Participants who complete all four
+modules will receive a certificate by
+email within two weeks of the final
+session of the training program."
+c09_bottom_m3_para03,c09_bottom,dsv4,0.0,"The new dashboard groups
+related metrics on a single page so
+that managers can compare
+weekly trends without switching
+between several reports."
+c05_wordgap_short_en11,c05_wordgap,gpt56luna,0.0,We could not connect to the hub
+c04_gibberish_p30_en06,c04_gibberish,glm53flash,0.02564102564102564,"The text in the box reads: **""Uyo evha nebe ddeda ot eth ozgiatojannr""**
+
+Note: The letters appear to be scrambled/jumbled. Decoded, it likely reads: **""You have been added to the organization""** — a common notification message when someone joins a workspace or group."
+c09_bottom_p4_para06,c09_bottom,dsv4,0.0,"We updated the privacy policy to describe
+how usage data is collected, how long it is
+kept, and how you can request that it be
+deleted."
+c04_gibberish_anchor_en01,c04_gibberish,glm53flash,0.02631578947368421,"The text in the box reads: **""Kilcc eerh ot dodnolwa het dshspaaeetr""**
+
+This appears to be scrambled text. Unscrambled, it says: **""Click here to download the spreadsheet""** — each word has its letters jumbled while the first and last letters remain in place."
+c09_bottom_m10_para02,c09_bottom,dsv4,0.0,"To keep your account secure, enable two-factor
+authentication and review the list of devices
+that currently have access to your data."
+c04_gibberish_p30_en06,c04_gibberish,gemini38,0.6153846153846154,"The text in the box reads:
+
+**Uyo evha nebe ddeda ot eth ozgiatoiannr**
+
+*(This is a scrambled/anagram version of: ""You have been added to the organization"")*"
+c05_wordgap_short_en14,c05_wordgap,gpt56luna,0.0,Your order will ship from our shop
+c05_wordgap_long_en05,c05_wordgap,qwen38,0.0,Enter a name for the new
+c05_wordgap_medium_en07,c05_wordgap,qwen38,0.0,Drag the image into the
+c05_wordgap_long_en02,c05_wordgap,qwen38,0.0,Your changes have been saved to the
+c04_gibberish_m10_en03,c04_gibberish,gpt56sol,0.0,Lsetce a erdofl ot pexort yruo isnrrcodge
+c04_gibberish_p4_en07,c04_gibberish,gpt56sol,0.0,Gard eht egmai tino het meileitn
+c09_bottom_m10_para06,c09_bottom,dsv4,0.0,"We updated the privacy policy to describe
+how usage data is collected, how long it is
+kept, and how you can request that it be
+deleted."
+c04_gibberish_m10_en02,c04_gibberish,gpt56sol,0.043478260869565216,Uyro hceasgn hvae nebe edvas ot eth tsorpyoeri
+c04_gibberish_anchor_en09,c04_gibberish,gpt56sol,0.0,Ermrebme ot bcka pu uroy nstcuedom
+c04_gibberish_m3_en12,c04_gibberish,glm53flash,0.0,"The text in the box appears to be scrambled. Decoded, it reads: **""Tap to open the shared calendar""**
+
+The literal scrambled text is: ""Pat ot npeo eth raehds dcalearn"""
+c04_gibberish_m10_en12,c04_gibberish,gpt56sol,0.0,Pat ot npeo eth raehds dcalearn
+c09_bottom_m10_para13,c09_bottom,dsv4,0.0,"Survey responses are anonymous, and
+the summary shared with the team will
+only include results from questions
+answered by at least five people."
+c04_gibberish_p4_en11,c04_gibberish,gpt56sol,0.027777777777777776,Ew Iduco nto tnoccen ot het tdasaeab
+c05_wordgap_m3_en07,c05_wordgap,qwen38,0.0,Drag the image into the editor
+c04_gibberish_m3_en01,c04_gibberish,gemini38,0.5789473684210527,"The text in the box reads:
+
+**Kilcc eerh ot dodnolwa het dshspaoeetr**
+
+*(Note: This appears to be a scrambled/anagrammed version of the phrase: ""Click here to download the spreadsheet"".)*"
+c05_wordgap_anchor_en01,c05_wordgap,qwen38,0.0,Click here to download the report
+c05_wordgap_short_en05,c05_wordgap,gpt56luna,0.0,Enter a name for the new tag
+c05_wordgap_m10_en04,c05_wordgap,qwen38,0.0,The meeting notes are available in the archive
+c05_wordgap_m3_en04,c05_wordgap,gpt56luna,0.0,The meeting notes are available in the archive
+c05_wordgap_short_en00,c05_wordgap,gpt56luna,0.0,Please review the attached file
+c04_gibberish_p30_en00,c04_gibberish,gemini38,0.0,"The text in the box reads:
+
+**Aelspe erewiv het daetacht itsteaonerpn**"
+c09_bottom_anchor_para01,c09_bottom,dsv4,0.0,"This report summarizes the quarterly results
+for the regional sales teams and highlights
+the accounts that need follow-up before the
+next review meeting."
+c05_wordgap_long_en09,c05_wordgap,gpt56luna,0.0,Remember to back up your documents
+c09_bottom_p12_para10,c09_bottom,dsv4,0.0,"This version fixes a bug that prevented some users
+from uploading images larger than ten megabytes
+when using a slow network connection."
+c06_decoy_complete_g30_en02,c06_decoy,qwen38,0.0,Your changes have been saved to the server
+c09_bottom_p30_para02,c09_bottom,dsv4,0.0,"To keep your account secure, enable two-factor
+authentication and review the list of devices
+that currently have access to your data."
+c04_gibberish_p12_en03,c04_gibberish,gemini38,0.0,"The text in the box reads:
+
+**""Lsetce a erdofl ot pexort yruo isnrrcodge""**
+
+*(Unscrambled, it means: ""Select a folder to export your recordings"")*"
+c05_wordgap_m10_en05,c05_wordgap,gpt56luna,0.0,Enter a name for the new folder
+c09_bottom_m3_para09,c09_bottom,dsv4,0.0,"Meeting rooms can be booked up
+to four weeks in advance, and
+bookings that are not confirmed
+one hour before the start time are
+released."
+c05_wordgap_m10_en06,c05_wordgap,gpt56luna,0.0,You have been added to the project
+c09_bottom_p12_para12,c09_bottom,dsv4,0.0,"Please keep your badge visible at all
+times while on site and return it to
+the front desk when you leave the
+building for the day."
+c05_wordgap_long_en06,c05_wordgap,gpt56sol,0.0,You have been added to the organization
+c06_decoy_incomplete_g30_en06,c06_decoy,qwen38,0.0,You have been added to the
+c09_bottom_m10_para14,c09_bottom,dsv4,0.0,"Draft posts are saved every few seconds,
+so you can close the editor at any time
+and continue writing later from the same
+device or another one."
+c09_bottom_m10_para11,c09_bottom,dsv4,0.0,"The library will close early on Friday for
+maintenance, and any items due that day
+can be returned on Monday without a late
+fee."
+c04_gibberish_anchor_en12,c04_gibberish,gpt56sol,0.0,Pat ot npeo eth raehds dcalearn
+c05_wordgap_short_en03,c05_wordgap,gpt56luna,0.0,Select a folder to export your data
+c06_decoy_incomplete_g30_en10,c06_decoy,qwen38,0.0,Choose a theme for your
+c04_gibberish_anchor_en04,c04_gibberish,gemini38,0.0,"The text inside the box is:
+
+Het getimne nstoe aer bavaliela ni eth baosrdahd"
+c04_gibberish_p12_en14,c04_gibberish,gemini38,0.46153846153846156,"The text in the box reads:
+
+**Yoru drero liwl ishp mrof ruo earwsoueh**
+
+*(Unscrambled: ""Your order will ship from our warehouse"")*"
+c06_decoy_complete_gTwin_en01,c06_decoy,qwen38,0.0,Click here to download the report
+c06_decoy_complete_g30_en06,c06_decoy,qwen38,0.0,You have been added to the project
+c09_bottom_p4_para07,c09_bottom,dsv4,0.0070921985815602835,"Participants who complete all four
+modules will receive a certificate by
+email within two weeks of the final
+session of the training program"
+c05_wordgap_m3_en11,c05_wordgap,gpt56sol,0.0,We could not connect to the printer
+c05_wordgap_short_en02,c05_wordgap,gpt56sol,0.0,Your changes have been saved to the log
+c05_wordgap_m10_en14,c05_wordgap,gpt56luna,0.0,Your order will ship from our office
+c09_bottom_m3_para00,c09_bottom,dsv4,0.0,"Your subscription will renew
+automatically at the end of the billing
+period unless you cancel at least one day
+before the renewal date."
+c05_wordgap_short_en06,c05_wordgap,gpt56sol,0.0,You have been added to the team
+c04_gibberish_p4_en04,c04_gibberish,gemini38,0.5625,"The text in the box reads:
+
+**Het getimne nstoe aer bavaliela ni eth baosrdahd**
+
+*(Note: This appears to be an anagram/scrambled version of the phrase: ""The meeting notes are available in the dashboard"".)*"
+c04_gibberish_m10_en01,c04_gibberish,glm53flash,0.02631578947368421,"The text in the box reads: **""Kilcc eerh ot dodnolwa het dshspaeetr""**
+
+This appears to be scrambled text — the intended message is likely **""Click here to download the spreadsheet""** (with the letters in each word jumbled, similar to the well-known demonstration that people can read words as long as the first and last letters are in place)."
+c06_decoy_incomplete_g30_en12,c06_decoy,qwen38,0.0,Tap to open the shared
+c05_wordgap_long_en05,c05_wordgap,gpt56luna,0.0,Enter a name for the new workspace
+c05_wordgap_long_en12,c05_wordgap,gpt56sol,0.0,Tap to open the shared calendar
+c06_decoy_complete_g12_en12,c06_decoy,qwen38,0.0,Tap to open the shared gallery
+c06_decoy_incomplete_g30_en11,c06_decoy,qwen38,0.0,We could not connect to the
+c10_thai_p30_th07,c10_thai,dsv4,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c05_wordgap_short_en08,c05_wordgap,gpt56sol,0.0,This link will expire after the day
+c09_bottom_p30_para12,c09_bottom,dsv4,0.0,"Please keep your badge visible at all
+times while on site and return it to
+the front desk when you leave the
+building for the day."
+c05_wordgap_long_en02,c05_wordgap,gpt56luna,0.0,Your changes have been saved to the repository
+c05_wordgap_m10_en09,c05_wordgap,gpt56luna,0.0,Remember to back up your photos
+c09_bottom_p12_para05,c09_bottom,dsv4,0.0,"Before submitting the form, check that every
+address is complete and that the contact number
+includes the country code for international calls."
+c09_bottom_p4_para08,c09_bottom,dsv4,0.0,"The printer on the third floor is being
+serviced this afternoon, so please send
+large jobs to the device near the
+reception desk instead."
+c05_wordgap_medium_en07,c05_wordgap,gpt56luna,0.0,Drag the image into the editor
+c04_gibberish_m3_en00,c04_gibberish,glm53flash,0.0,"The text in the box reads:
+
+**""Aelspe erewiv het daetacht itsteaonerpn""**
+
+This appears to be scrambled text — each word has its letters jumbled (with first and last letters often intact). Decoded, it likely says:
+
+**""Please review the attached presentation.""**"
+c04_gibberish_anchor_en01,c04_gibberish,gemini38,0.5789473684210527,"The text in the box reads:
+
+**Kilcc eerh ot dodnolwa het dshspaeeetr**
+
+*(An anagram of: ""Click here to download the spreadsheet"")*"
+c05_wordgap_m10_en04,c05_wordgap,gpt56luna,0.0,The meeting notes are available in the archive
+c09_bottom_p4_para09,c09_bottom,dsv4,0.0,"Meeting rooms can be booked up
+to four weeks in advance, and
+bookings that are not confirmed
+one hour before the start time are
+released."
+c09_bottom_p30_para08,c09_bottom,dsv4,0.0,"The printer on the third floor is being
+serviced this afternoon, so please send
+large jobs to the device near the
+reception desk instead."
+c05_wordgap_short_en01,c05_wordgap,gpt56luna,0.0,Click here to download the app
+c10_thai_p12_th13,c10_thai,dsv4,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c10_thai_m10_th10,c10_thai,dsv4,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c06_decoy_incomplete_gTwin_en01,c06_decoy,qwen38,0.0,Click here to download the
+c10_thai_p4_th02,c10_thai,dsv4,0.06451612903225806,เลือกไฟล์เดอร์สำหรับส่งออกข้อมูล
+c05_wordgap_anchor_en01,c05_wordgap,gpt56luna,0.0,Click here to download the report
+c10_thai_p12_th12,c10_thai,dsv4,0.0,กรอกชื่อสำหรับพื้นที่ทำงานใหม่
+c06_decoy_incomplete_g12_en04,c06_decoy,qwen38,0.0,The meeting notes are available in the
+c06_decoy_incomplete_g30_en07,c06_decoy,qwen38,0.0,Drag the image into the
+c10_thai_p30_th03,c10_thai,dsv4,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c04_gibberish_p30_en01,c04_gibberish,glm53flash,0.0,"The text in the box is a jumbled/scrambled sentence:
+
+**""Kilcc eerh ot dodnolwa het dshspaeeetr""**
+
+With the letters rearranged properly, it reads:
+
+**""Click here to download the spreadsheet""**"
+c06_decoy_complete_gTwin_en08,c06_decoy,qwen38,0.0,This link will expire after the session
+c06_decoy_incomplete_gTwin_en09,c06_decoy,qwen38,0.0,Remember to back up your
+c05_wordgap_m3_en07,c05_wordgap,gpt56luna,0.0,Drag the image into the editor
+c05_wordgap_anchor_en13,c05_wordgap,gpt56sol,0.0,Add a caption to this picture
+c10_thai_p30_th00,c10_thai,dsv4,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c10_thai_p30_th08,c10_thai,dsv4,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c05_wordgap_m10_en11,c05_wordgap,gpt56sol,0.0,We could not connect to the printer
+c10_thai_m10_th03,c10_thai,dsv4,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c06_decoy_incomplete_g30_en08,c06_decoy,qwen38,0.0,This link will expire after the
+c05_wordgap_long_en07,c05_wordgap,gpt56sol,0.0,Drag the image into the timeline
+c06_decoy_complete_g12_en06,c06_decoy,qwen38,0.0,You have been added to the project
+c10_thai_m3_th10,c10_thai,dsv4,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c06_decoy_complete_g12_en07,c06_decoy,qwen38,0.0,Drag the image into the editor
+c10_thai_anchor_th07,c10_thai,dsv4,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c04_gibberish_m10_en07,c04_gibberish,gemini38,0.59375,"The text in the box reads:
+
+**Gard eht egmai tino het meileitn**
+
+*(An anagram / reversed cipher of: ""Drag the image into the timeline"")*"
+c04_gibberish_p30_en01,c04_gibberish,gemini38,0.5789473684210527,"The text in the image reads:
+
+**Kilcc eerh ot dodnolwa het dshspaeetr**
+
+*(An anagram/scramble of: ""Click here to download the spreadsheet"")*"
+c05_wordgap_m3_en14,c05_wordgap,gpt56sol,0.0,Your order will ship from our office
+c10_thai_anchor_th08,c10_thai,dsv4,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c05_wordgap_short_en14,c05_wordgap,gpt56sol,0.0,Your order will ship from our shop
+c10_thai_anchor_th01,c10_thai,dsv4,0.05263157894736842,ระบบบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ
+c04_gibberish_m10_en03,c04_gibberish,glm53flash,0.6341463414634146,"The text in the box is scrambled, but it reads: **""Select a folder to export your recordings.""**"
+c04_gibberish_p12_en00,c04_gibberish,gemini38,0.6153846153846154,"The text in the box is:
+
+**Aelspe erewiv het daetacht itsteaoneron** 
+
+*(an anagram for ""Please review the attached presentation"")*"
+c06_decoy_complete_gTwin_en01,c06_decoy,gpt56luna,0.0,Click here to download the report
+c06_decoy_complete_g30_en06,c06_decoy,gpt56luna,0.0,You have been added to the project
+c10_thai_p30_th05,c10_thai,dsv4,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c04_gibberish_m3_en10,c04_gibberish,glm53flash,0.0,"The text in the box appears to be scrambled/typo'd. It reads:
+
+**""Hocoes a ethme ofr ruoy wsereentlt""**
+
+This looks like a jumbled version of: **""Choose a theme for your worksheet""**"
+c05_wordgap_short_en05,c05_wordgap,gpt56sol,0.0,Enter a name for the new tag
+c05_wordgap_anchor_en11,c05_wordgap,gpt56sol,0.0,We could not connect to the printer
+c10_thai_p30_th14,c10_thai,dsv4,0.025,ห้องประชุมสามารถจองล่วงหน้าได้ลี่สัปดาห์
+c10_thai_p12_th06,c10_thai,dsv4,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c10_thai_anchor_th14,c10_thai,dsv4,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c06_decoy_complete_g30_en02,c06_decoy,gpt56luna,0.0,Your changes have been saved to the server
+c06_decoy_incomplete_g12_en06,c06_decoy,qwen38,0.0,You have been added to the
+c10_thai_anchor_th05,c10_thai,dsv4,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c06_decoy_complete_g12_en12,c06_decoy,gpt56luna,0.0,Tap to open the shared gallery
+c06_decoy_complete_gTwin_en07,c06_decoy,qwen38,0.0,Drag the image into the editor
+c06_decoy_incomplete_g30_en10,c06_decoy,gpt56luna,0.0,Choose a theme for your
+c06_decoy_incomplete_g30_en06,c06_decoy,gpt56luna,0.0,You have been added to the
+c06_decoy_complete_g12_en13,c06_decoy,qwen38,0.0,Add a caption to this picture
+c06_decoy_complete_gTwin_en10,c06_decoy,qwen38,0.0,Choose a theme for your website
+c10_thai_p4_th13,c10_thai,dsv4,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c06_decoy_complete_g12_en14,c06_decoy,qwen38,0.0,Your order will ship from our office
+c10_thai_p30_th10,c10_thai,dsv4,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c04_gibberish_p30_en14,c04_gibberish,gemini38,0.46153846153846156,"The text in the box reads:
+
+**Yoru drero liwl ishp mrof ruo earwsoueh**
+
+*(Unscrambled: ""Your order will ship from our warehouse"")*"
+c05_wordgap_short_en11,c05_wordgap,gpt56sol,0.0,We could not connect to the hub
+c06_decoy_incomplete_g30_en12,c06_decoy,gpt56luna,0.0,Tap to open the shared
+c10_thai_p4_th06,c10_thai,dsv4,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c05_wordgap_short_en09,c05_wordgap,gpt56sol,0.0,Remember to back up your keys
+c10_thai_p4_th09,c10_thai,dsv4,0.0,แตะเพื่อเปิดปฏิทินที่แชร์ไว้
+c10_thai_p4_th05,c10_thai,dsv4,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c06_decoy_incomplete_gTwin_en05,c06_decoy,qwen38,0.0,Enter a name for the new
+c10_thai_p4_th04,c10_thai,dsv4,0.0,การประชุมจะเริ่มในอีกสิบห้านาที
+c10_thai_p12_th00,c10_thai,dsv4,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c06_decoy_incomplete_g30_en11,c06_decoy,gpt56luna,0.0,We could not connect to the
+c05_wordgap_m3_en04,c05_wordgap,gpt56sol,0.0,The meeting notes are available in the archive
+c06_decoy_complete_g12_en00,c06_decoy,qwen38,0.0,Please review the attached document
+c04_gibberish_p30_en14,c04_gibberish,glm53flash,0.0,"The text in the box reads:
+
+**""Yoru drero liwl ishp mrof ruo earwsoueh""**
+
+This appears to be scrambled text. When decoded (each word has its letters rearranged), it says:
+
+**""Your order will ship from our warehouse""**"
+c05_wordgap_long_en09,c05_wordgap,gpt56sol,0.0,Remember to back up your documents
+c10_thai_p30_th02,c10_thai,dsv4,0.0967741935483871,เลือกไฟล์เตอร์สำหรับส่งออกข้อมูล
+c10_thai_p4_th08,c10_thai,dsv4,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c10_thai_p30_th13,c10_thai,dsv4,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c05_wordgap_short_en00,c05_wordgap,gpt56sol,0.0,Please review the attached file
+c06_decoy_complete_g12_en04,c06_decoy,qwen38,0.0,The meeting notes are available in the archive
+c06_decoy_incomplete_g30_en04,c06_decoy,qwen38,0.0,The meeting notes are available in the
+c05_wordgap_m10_en06,c05_wordgap,gpt56sol,0.0,You have been added to the project
+c06_decoy_incomplete_g12_en04,c06_decoy,gpt56luna,0.0,The meeting notes are available in the
+c10_thai_p12_th14,c10_thai,dsv4,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c06_decoy_incomplete_gTwin_en01,c06_decoy,gpt56luna,0.0,Click here to download the
+c06_decoy_incomplete_gTwin_en09,c06_decoy,gpt56luna,0.0,Remember to back up your
+c05_wordgap_short_en03,c05_wordgap,gpt56sol,0.0,Select a folder to export your data
+c05_wordgap_m10_en05,c05_wordgap,gpt56sol,0.0,Enter a name for the new folder
+c10_thai_p30_th09,c10_thai,dsv4,0.07142857142857142,แต่ละเพื่อเปิดปฏิทินที่แชร์ไว้
+c04_gibberish_m10_en03,c04_gibberish,gemini38,0.6097560975609756,"The text in the box reads:
+
+**Lsetce a erdofl ot pexort yruo isnrrcodge**
+
+*(Unscrambled: ""Select a folder to export your recordings"")*"
+c06_decoy_complete_gTwin_en08,c06_decoy,gpt56luna,0.0,This link will expire after the session
+c06_decoy_complete_g30_en04,c06_decoy,qwen38,0.0,The meeting notes are available in the archive
+c06_decoy_incomplete_gTwin_en12,c06_decoy,qwen38,0.0,Tap to open the shared
+c06_decoy_complete_g30_en05,c06_decoy,qwen38,0.0,Enter a name for the new folder
+c05_wordgap_m10_en14,c05_wordgap,gpt56sol,0.0,Your order will ship from our office
+c06_decoy_incomplete_g12_en03,c06_decoy,qwen38,0.0,Select a folder to export your
+c06_decoy_incomplete_g30_en07,c06_decoy,gpt56luna,0.0,Drag the image into the
+c12_thaiwrap_p4_thp13,c12_thaiwrap,dsv4,0.11224489795918367,"คำตอบแบบสำรวจจะโประบุตัวตน และสรุป
+ผลที่แชร์ให้กับจะรวบเฉพาะคำถามที่ผู้
+ตอบอย่างน้อยห้าคนเท่านั้น"
+c06_decoy_incomplete_g30_en08,c06_decoy,gpt56luna,0.0,This link will expire after the
+c06_decoy_complete_g12_en06,c06_decoy,gpt56luna,0.0,You have been added to the project
+c12_thaiwrap_p30_thp01,c12_thaiwrap,dsv4,0.22123893805309736,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส
+ของต้นทุนขายประจำงวด และระบุข้อมูลด้านนี้
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c04_gibberish_m10_en02,c04_gibberish,glm53flash,0.6521739130434783,"The text in the box is scrambled, but it reads:
+
+**""Your changes have been saved to the property.""**"
+c04_gibberish_p30_en13,c04_gibberish,gemini38,0.75,"The text in the box reads:
+
+**Dda a onipcat ot siht hoertsscne**
+
+*(An anagram for: ""Add a caption to this screenshot"")*"
+c06_decoy_complete_g12_en08,c06_decoy,qwen38,0.0,This link will expire after the session
+c05_wordgap_short_en01,c05_wordgap,gpt56sol,0.0,Click here to download the app
+c04_gibberish_anchor_en10,c04_gibberish,gemini38,0.6176470588235294,"The text in the box reads:
+
+**Hocoes a ethme ofr ruoy wsereentlt**
+
+*(Note: This appears to be scrambled/anagrammed English for ""Choose a theme for your newsletter"".)*"
+c07_pill_p12_pill12,c07_pill,qwen38,0.0,Pin to dashboard
+c12_thaiwrap_m3_thp04,c12_thaiwrap,dsv4,0.05504587155963303,"ไฟล์แชร์ให้พันธมิตรภายนอกจะถูกเก็บ
+ไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบ
+โดยอัตโนมัติสามสิบวันหลังจากปิด
+โครงการ"
+c04_gibberish_p4_en08,c04_gibberish,gemini38,,
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,dsv4,0.01639344262295082,"ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม
+บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ
+นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ"
+c12_thaiwrap_p4_thp00,c12_thaiwrap,dsv4,0.0234375,"ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ
+อายุ"
+c06_decoy_incomplete_g12_en06,c06_decoy,gpt56luna,0.0,You have been added to the
+c06_decoy_complete_gTwin_en07,c06_decoy,gpt56luna,0.0,Drag the image into the editor
+c12_thaiwrap_p4_thp01,c12_thaiwrap,dsv4,0.04424778761061947,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส
+ของกันขายประจำภูมิภาค และระบุบัญชีลูกค้าที่
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c05_wordgap_m10_en09,c05_wordgap,gpt56sol,0.0,Remember to back up your photos
+c04_gibberish_anchor_en04,c04_gibberish,glm53flash,0.0,"The text in the box is scrambled (each word's letters are jumbled, except the first and last letters). Decoded, it reads:
+
+**""The meeting notes are available in the dashboard.""**
+
+As written, it appears as: ""Het getimne nstoe aer bavaliela ni eth baosrdahd"""
+c12_thaiwrap_p30_thp03,c12_thaiwrap,dsv4,0.02877697841726619,"แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่
+เกี่ยวข้องไว้ในหน้าเดียว ผู้จัดการจึง
+เปรียบเทียบแนวโน้มรายสัปดาห์ได้โดย
+ไม่ต้องสลับไปมาระหว่างรายงานหลาย
+ฉบับ"
+c07_pill_anchor_pill06,c07_pill,qwen38,0.0,Copy to clipboard
+c05_wordgap_long_en05,c05_wordgap,gpt56sol,0.0,Enter a name for the new workspace
+c07_pill_p12_pill02,c07_pill,qwen38,0.0,View all
+c06_decoy_complete_g12_en07,c06_decoy,gpt56luna,0.0,Drag the image into the editor
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,dsv4,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น
+ได้ในภายหลัง"
+c07_pill_m3_pill11,c07_pill,qwen38,0.0,Export and send
+c07_pill_p12_pill01,c07_pill,qwen38,0.0,Download all
+c06_decoy_complete_g12_en14,c06_decoy,gpt56luna,0.0,Your order will ship from our office
+c07_pill_p4_pill10,c07_pill,qwen38,0.0,Sort by field
+c05_wordgap_medium_en07,c05_wordgap,gpt56sol,0.0,Drag the image into the editor
+c04_gibberish_m3_en10,c04_gibberish,gemini38,0.0,"The text inside the box reads:
+
+**""Hocoes a ethme ofr ruoy wsereentlt""**
+
+*(When unscrambled, it reads: **""Choose a theme for your newsletter""**)*"
+c07_pill_p4_pill07,c07_pill,qwen38,0.0,Reply to thread
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,dsv4,0.0234375,"ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ
+อายุ"
+c06_decoy_complete_gTwin_en10,c06_decoy,gpt56luna,0.0,Choose a theme for your website
+c12_thaiwrap_p30_thp13,c12_thaiwrap,dsv4,0.11224489795918367,"คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุป
+ผลลัพธ์ให้คุณจะรวมเฉพาะคำถามที่มีผู้
+ตอบอย่างน้อยห้าคนเท่านั้น"
+c05_wordgap_anchor_en01,c05_wordgap,gpt56sol,0.0,Click here to download the report
+c06_decoy_complete_g12_en13,c06_decoy,gpt56luna,0.0,Add a caption to this picture
+c06_decoy_complete_g12_en04,c06_decoy,gpt56luna,0.0,The meeting notes are available in the archive
+c05_wordgap_m3_en07,c05_wordgap,gpt56sol,0.0,Drag the image into the editor
+c06_decoy_complete_g30_en02,c06_decoy,gpt56sol,0.0,Your changes have been saved to the server
+c06_decoy_incomplete_gTwin_en05,c06_decoy,gpt56luna,0.0,Enter a name for the new
+c07_pill_m3_pill01,c07_pill,qwen38,0.0,Download all
+c05_wordgap_m10_en04,c05_wordgap,gpt56sol,0.0,The meeting notes are available in the archive
+c07_pill_p12_pill03,c07_pill,qwen38,0.0,Mark as read
+c12_thaiwrap_m3_thp13,c12_thaiwrap,dsv4,0.14285714285714285,"คำตอบแบบสำรวจจะโประบุตัวตน และสรุป
+ผลที่แชร์ให้กับจะรวบเฉพาะคำถามที่ผู้
+ตอบอย่างน้อยกี่คนเท่านั้น"
+c12_thaiwrap_m3_thp06,c12_thaiwrap,dsv4,0.015748031496062992,"เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่อ
+อธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร
+เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูล
+ได้อย่างไร"
+c05_wordgap_long_en02,c05_wordgap,gpt56sol,0.0,Your changes have been saved to the repository
+c04_gibberish_p4_en08,c04_gibberish,glm53flash,0.023809523809523808,"The text in the box reads: **""Htis kinl iwll ipexre rftae eth fnneeccor""**
+
+This appears to be scrambled text (with letters transposed within each word). Unscrambled, it likely says:
+
+**""This link will expire after the reference""**"
+c12_thaiwrap_p12_thp11,c12_thaiwrap,dsv4,0.01639344262295082,"ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม
+บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ
+นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ"
+c04_gibberish_m10_en12,c04_gibberish,gemini38,0.5483870967741935,"The text inside the box reads:
+
+**Pat ot npeo eth raehds dcalearn**
+
+*(Note: Unscrambled, it spells ""Tap to open the shared calendar"".)*"
+c04_gibberish_m3_en12,c04_gibberish,gemini38,0.5483870967741935,"The text in the image is:
+
+**Pat ot npeo eth raehds dcalearn**
+
+*(An anagram of: ""Tap to open the shared calendar"")*"
+c12_thaiwrap_p4_thp08,c12_thaiwrap,dsv4,0.09482758620689655,"เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อม
+นำรุ่งในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์
+ขนาดใหญ่ไปยังเครื่องใกล้เคียง
+ประชาสัมพันธ์แขน"
+c07_pill_m10_pill11,c07_pill,qwen38,0.0,Export and send
+c12_thaiwrap_p30_thp07,c12_thaiwrap,dsv4,0.37037037037037035,"ผู้เข้าร่วมที่เรียนครบทั้งสิ้นกเรียนจะได้รับใบ
+ประกาศนียบัตรทางวิแผลภายใน15อสปิดาห์"
+c12_thaiwrap_m10_thp10,c12_thaiwrap,dsv4,0.07017543859649122,"เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่
+สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้
+เมื่อใช้เครื่องย้ายที่เข้า"
+c06_decoy_complete_g12_en00,c06_decoy,gpt56luna,0.0,Please review the attached document
+c06_decoy_incomplete_gTwin_en12,c06_decoy,gpt56luna,0.0,Tap to open the shared
+c07_pill_corner_pill01,c07_pill,qwen38,0.0,Download all
+c06_decoy_complete_g30_en04,c06_decoy,gpt56luna,0.0,The meeting notes are available in the archive
+c07_pill_corner_pill03,c07_pill,qwen38,0.0,Mark as read
+c04_gibberish_m10_en01,c04_gibberish,gemini38,0.5789473684210527,"The text in the box reads:
+
+> **Kilcc eerh ot dodnolwa het dshspaeeetr**
+
+*(Unscrambled: ""Click here to download the spreadsheet"")*"
+c06_decoy_incomplete_g30_en04,c06_decoy,gpt56luna,0.0,The meeting notes are available in the
+c07_pill_m3_pill12,c07_pill,qwen38,0.0,Pin to dashboard
+c06_decoy_complete_g30_en06,c06_decoy,gpt56sol,0.0,You have been added to the project
+c07_pill_p4_pill06,c07_pill,qwen38,0.0,Copy to clipboard
+c06_decoy_complete_g30_en05,c06_decoy,gpt56luna,0.0,Enter a name for the new folder
+c07_pill_m3_pill03,c07_pill,qwen38,0.0,Mark as read
+c06_decoy_incomplete_g30_en06,c06_decoy,gpt56sol,0.0,You have been added to the
+c06_decoy_complete_g12_en08,c06_decoy,gpt56luna,0.0,This link will expire after the session
+c04_gibberish_m10_en02,c04_gibberish,gemini38,0.6521739130434783,"The text in the box reads:
+
+**Uyro hceasgn hvea nebe edvas ot eth tsorpyoeri**
+
+*(Unscrambled: ""Your changes have been saved to the repository"")*"
+c06_decoy_complete_gTwin_en01,c06_decoy,gpt56sol,0.0,Click here to download the report
+c12_thaiwrap_p4_thp10,c12_thaiwrap,dsv4,0.017543859649122806,"เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่
+สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้
+เมื่อใช้เครือข่ายที่ช้า"
+c12_thaiwrap_p12_thp05,c12_thaiwrap,dsv4,0.037383177570093455,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ถูก
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ
+สำหรับการโทรระหว่างประเทศ"
+c06_decoy_incomplete_g12_en03,c06_decoy,gpt56luna,0.0,Select a folder to export your
+c07_pill_p12_pill12,c07_pill,gpt56luna,0.0,Pin to dashboard
+c04_gibberish_p4_en11,c04_gibberish,gemini38,0.6388888888888888,"The text in the box reads:
+
+**Ew lduco nto tnoccen ot het tdasaeab**
+
+*(Unscrambled: ""We could not connect to the database"")*"
+c06_decoy_incomplete_g30_en12,c06_decoy,gpt56sol,0.0,Tap to open the shared
+c07_pill_p4_pill05,c07_pill,qwen38,0.0,Save and upload
+c07_pill_anchor_pill14,c07_pill,qwen38,0.0,Start free trial
+c12_thaiwrap_p4_thp07,c12_thaiwrap,dsv4,0.09259259259259259,"ผู้เข้าร่วมที่เรียนครบทั้งสัปดาห์เรียนจะได้รับใบ
+ประกาศนียบัตรทางอีเมลภายในสองสัปดาห์
+หลังจากจบการอบรมครั้งสุดท้าย"
+c06_decoy_incomplete_g12_en04,c06_decoy,gpt56sol,0.0,The meeting notes are available in the
+c12_thaiwrap_p12_thp00,c12_thaiwrap,dsv4,0.0234375,"ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ
+อายุ"
+c12_thaiwrap_p30_thp12,c12_thaiwrap,dsv4,0.049019607843137254,"กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่
+อยู่ในพื้นที่ และส่งคืนบัตรที่จุดคืนรับ
+เมื่อออกจากอาคารในแต่ละวัน"
+c12_thaiwrap_p4_thp14,c12_thaiwrap,dsv4,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น
+ได้ในภายหลัง"
+c12_thaiwrap_m3_thp08,c12_thaiwrap,dsv4,0.10344827586206896,"เครื่องพิมพ์ขั้นสามอยู่ระหว่างการซ่อม
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์
+ขนาดใหญ่ไปยังเครื่องใกล้เคียง
+ประชาสัมพันธ์รีแกน"
+c04_gibberish_anchor_en12,c04_gibberish,gemini38,0.5483870967741935,"The text in the box reads:
+
+**Pat ot npeo eth raehds dcalearn**
+
+*(Unscrambled, it reads: ""Tap to open the shared calendar"")*"
+c12_thaiwrap_p12_thp10,c12_thaiwrap,dsv4,0.043859649122807015,"เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่
+สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้
+เมื่อใช้เครือข่ายช้า"
+c06_decoy_incomplete_g30_en11,c06_decoy,gpt56sol,0.0,We could not connect to the
+c07_pill_p12_pill06,c07_pill,qwen38,0.0,Copy to clipboard
+c06_decoy_complete_g12_en12,c06_decoy,gpt56sol,0.0,Tap to open the shared gallery
+c07_pill_anchor_pill06,c07_pill,gpt56luna,0.0,Copy to clipboard
+c07_pill_corner_pill14,c07_pill,qwen38,0.0,Start free trial
+c06_decoy_incomplete_g30_en10,c06_decoy,gpt56sol,0.34782608695652173,Choose a theme for your Profile
+c04_gibberish_p4_en11,c04_gibberish,glm53flash,0.05555555555555555,"The text in the box reads:
+
+**""Ew lduco nto tnoccen ot het tdsaeaab""**
+
+This is scrambled text — with the letters within each word rearranged, it says:
+
+**""We could not connect to the database""**"
+c07_pill_p12_pill01,c07_pill,gpt56luna,0.0,Download all
+c07_pill_p12_pill02,c07_pill,gpt56luna,0.0,View all
+c07_pill_m3_pill04,c07_pill,qwen38,0.0,Send to email
+c07_pill_p4_pill00,c07_pill,qwen38,0.0,Payment method
+c05_wordgap_long_en06,c05_wordgap,gemini38,0.0,"The text inside the box is:
+
+**You have been added to the**"
+c07_pill_m3_pill00,c07_pill,qwen38,0.0,Payment method
+c07_pill_p4_pill07,c07_pill,gpt56luna,0.0,Reply to thread
+c07_pill_p4_pill10,c07_pill,gpt56luna,0.0,Sort by field
+c07_pill_m3_pill11,c07_pill,gpt56luna,0.0,Export and send
+c05_wordgap_short_en06,c05_wordgap,gemini38,0.0,"The text in the image reads:
+
+""You have been added to the team"""
+c12_thaiwrap_p4_thp02,c12_thaiwrap,dsv4,0.024193548387096774,"เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การ
+ยืนยันตัวตนสองขั้นตอน และตรวจสอบราย
+ชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้
+ในขณะนี้"
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,dsv4,0.0196078431372549,"กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่
+อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับ
+เมื่อออกจากอาคารในแต่ละวัน"
+c05_wordgap_m3_en11,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**We could not connect to the printer**"
+c04_gibberish_anchor_en09,c04_gibberish,glm53flash,0.0,"The text in the box reads:
+
+**""Ermrebme ot bcka pu uroy nstcuedom""**
+
+The words are scrambled — unscrambled, it says: **""Remember to back up your documents.""**"
+c07_pill_corner_pill10,c07_pill,qwen38,0.0,Sort by field
+c06_decoy_incomplete_gTwin_en09,c06_decoy,gpt56sol,0.0,Remember to back up your
+c07_pill_p4_pill12,c07_pill,qwen38,0.0,Pin to dashboard
+c05_wordgap_long_en06,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""You have been added to the""**
+
+(The word ""organization"" continues after the box.)"
+c12_thaiwrap_m10_thp05,c12_thaiwrap,dsv4,0.037383177570093455,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ถูก
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ
+สำหรับการโทรระหว่างประเทศ"
+c04_gibberish_p30_en13,c04_gibberish,glm53flash,0.03125,"The text in the box reads: **""Dda a onipcat ot silht hoertsscne""**
+
+This appears to be a scrambled version of the phrase **""Add a caption to this screenshot""** — the letters have been shuffled (with pairs of adjacent letters swapped), which is a common technique to test reading ability or illustrate that people can often still read text when letter order is jumbled."
+c07_pill_p12_pill03,c07_pill,gpt56luna,0.0,Mark as read
+c07_pill_m3_pill01,c07_pill,gpt56luna,0.0,Download all
+c12_thaiwrap_m3_thp00,c12_thaiwrap,dsv4,0.0234375,"ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ
+อายุ"
+c04_gibberish_anchor_en12,c04_gibberish,glm53flash,0.0,"The text in the box reads:
+
+**""Pat ot npeo eth raehds dcalearn""**
+
+Note: This appears to be scrambled/garbled text. Rearranging the letters, it most likely was intended to say:
+
+**""Tap to open the headers calendar""**"
+c12_thaiwrap_p30_thp14,c12_thaiwrap,dsv4,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น
+ได้ในภายหลัง"
+c04_gibberish_p4_en07,c04_gibberish,gemini38,0.03125,"The text in the box reads:
+
+**Gard eht egmai tino het meileith**"
+c07_pill_p12_pill00,c07_pill,qwen38,0.0,Payment method
+c06_decoy_incomplete_g30_en07,c06_decoy,gpt56sol,0.0,Drag the image into the
+c06_decoy_complete_gTwin_en08,c06_decoy,gpt56sol,0.0,This link will expire after the session
+c06_decoy_complete_g12_en06,c06_decoy,gpt56sol,0.0,You have been added to the project
+c07_pill_m10_pill08,c07_pill,qwen38,0.0,Show password
+c06_decoy_incomplete_gTwin_en01,c06_decoy,gpt56sol,0.0,Click here to download the
+c06_decoy_incomplete_g30_en08,c06_decoy,gpt56sol,0.0,This link will expire after the
+c05_wordgap_short_en09,c05_wordgap,gemini38,0.0,"The text in the box is:
+
+**Remember to back up your**"
+c12_thaiwrap_p4_thp11,c12_thaiwrap,dsv4,0.09016393442622951,"ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม
+บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ
+นำมาคืนในวันจันทร์ได้โดยไม่ผิดกำหนด"
+c07_pill_corner_pill11,c07_pill,qwen38,0.0,Export and send
+c06_decoy_complete_g12_en07,c06_decoy,gpt56sol,0.0,Drag the image into the editor
+c07_pill_corner_pill13,c07_pill,qwen38,0.0,Skip this level
+c07_pill_corner_pill01,c07_pill,gpt56luna,0.0,Download all
+c07_pill_m10_pill12,c07_pill,qwen38,0.0,Pin to dashboard
+c07_pill_p4_pill06,c07_pill,gpt56luna,0.0,Copy to clipboard
+c07_pill_anchor_pill07,c07_pill,qwen38,0.0,Reply to thread
+c04_gibberish_m10_en12,c04_gibberish,glm53flash,0.03225806451612903,"The text in the box is scrambled, but it reads:
+
+**""Tap to open the shared calendar""**
+
+(The image shows it as ""Pat ot npeo eth raehds dcalearn,"" with the letters within each word jumbled.)"
+c07_pill_m3_pill03,c07_pill,gpt56luna,0.0,Mark as read
+c04_gibberish_anchor_en09,c04_gibberish,gemini38,0.6764705882352942,"The text in the box reads:
+
+**Ermrebme ot bcka pu uroy nstcuedom**
+
+*(When unscrambled, it says: ""Remember to back up your documents"")*"
+c05_wordgap_long_en12,c05_wordgap,gemini38,0.0,"The text inside the image reads:
+
+Tap to open the shared calendar"
+c07_pill_corner_pill03,c07_pill,gpt56luna,0.0,Mark as read
+c05_wordgap_short_en06,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""You have been added to the team""**"
+c05_wordgap_short_en08,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""This link will expire after the day""**"
+c07_pill_m10_pill11,c07_pill,gpt56luna,0.0,Export and send
+c09_bottom_p4_para10,c09_bottom,qwen38,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c09_bottom_m10_para10,c09_bottom,qwen38,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c07_pill_anchor_pill14,c07_pill,gpt56luna,0.0,Start free trial
+c04_gibberish_p30_en00,c04_gibberish,glm53flash,,
+c05_wordgap_anchor_en13,c05_wordgap,gemini38,0.0,"The text inside the box reads:
+
+**Add a caption to this picture**"
+c07_pill_p4_pill05,c07_pill,gpt56luna,0.0,Save and upload
+c05_wordgap_short_en08,c05_wordgap,gemini38,0.0,"The text reads:
+
+**This link will expire after the day**
+
+*(Note: ""This link will expire after the"" is inside the box, while ""day"" extends outside of it).*"
+c05_wordgap_m10_en11,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**We could not connect to the printer**"
+c06_decoy_complete_g12_en13,c06_decoy,gpt56sol,0.0,Add a caption to this picture
+c07_pill_m3_pill12,c07_pill,gpt56luna,0.0,Pin to dashboard
+c06_decoy_incomplete_g12_en06,c06_decoy,gpt56sol,0.0,You have been added to the
+c06_decoy_incomplete_gTwin_en05,c06_decoy,gpt56sol,0.0,Enter a name for the new
+c05_wordgap_m3_en11,c05_wordgap,glm53flash,0.02857142857142857,"The text in the box reads: **""We could not connect to the printer.""**"
+c09_bottom_anchor_para07,c09_bottom,qwen38,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c09_bottom_p4_para13,c09_bottom,qwen38,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c05_wordgap_short_en09,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Remember to back up your keys""**
+
+(Note: the words ""your keys"" extend slightly beyond the right edge of the box border.)"
+c05_wordgap_short_en02,c05_wordgap,glm53flash,0.0,"The text in the box reads: ""Your changes have been saved to the log"""
+c09_bottom_anchor_para05,c09_bottom,qwen38,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c06_decoy_complete_g12_en04,c06_decoy,gpt56sol,0.021739130434782608,The meeting notes are available in the archive.
+c06_decoy_complete_gTwin_en07,c06_decoy,gpt56sol,0.0,Drag the image into the editor
+c06_decoy_complete_g12_en14,c06_decoy,gpt56sol,0.0,Your order will ship from our office
+c07_pill_p12_pill06,c07_pill,gpt56luna,0.0,Copy to clipboard
+c09_bottom_p30_para07,c09_bottom,qwen38,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c09_bottom_p30_para10,c09_bottom,qwen38,0.6323529411764706,This version fixes a bug that prevented some users
+c07_pill_p12_pill00,c07_pill,gpt56luna,0.0,Payment method
+c09_bottom_m10_para09,c09_bottom,qwen38,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c05_wordgap_m3_en14,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**Your order will ship from our office**"
+c07_pill_p4_pill00,c07_pill,gpt56luna,0.0,Payment method
+c06_decoy_complete_gTwin_en10,c06_decoy,gpt56sol,0.0,Choose a theme for your website
+c06_decoy_complete_g12_en00,c06_decoy,gpt56sol,0.0,Please review the attached document
+c07_pill_corner_pill14,c07_pill,gpt56luna,0.0,Start free trial
+c07_pill_m3_pill00,c07_pill,gpt56luna,0.0,Payment method
+c07_pill_m3_pill04,c07_pill,gpt56luna,0.0,Send to email
+c05_wordgap_short_en14,c05_wordgap,gemini38,0.0,"The text inside the box is:
+
+**Your order will ship from our** 
+
+*(followed by the word **shop** just outside the box boundary, completing the sentence: ""Your order will ship from our shop"")*"
+c09_bottom_p12_para00,c09_bottom,qwen38,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c07_pill_p4_pill12,c07_pill,gpt56luna,0.0,Pin to dashboard
+c05_wordgap_m3_en14,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Your order will ship from our office""**"
+c09_bottom_m10_para03,c09_bottom,qwen38,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c05_wordgap_short_en05,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+Enter a name for the new tag"
+c06_decoy_incomplete_g30_en04,c06_decoy,gpt56sol,0.0,The meeting notes are available in the
+c04_gibberish_p4_en07,c04_gibberish,glm53flash,0.03125,"The text in the box reads: **""Gard eht egmai tino het meileithn""**
+
+This appears to be scrambled text. Unscrambled, it says: **""Drag the image into the eleventh""**"
+c07_pill_corner_pill11,c07_pill,gpt56luna,0.0,Export and send
+c05_wordgap_anchor_en13,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Add a caption to this picture""**"
+c06_decoy_complete_g30_en04,c06_decoy,gpt56sol,0.0,The meeting notes are available in the archive
+c05_wordgap_short_en02,c05_wordgap,gemini38,0.0,"The text in the image reads:
+
+**""Your changes have been saved to the log""** 
+
+*(Note: ""Your changes have been saved to the"" is inside the purple box, with ""log"" appearing just outside it).*"
+c05_wordgap_anchor_en11,c05_wordgap,gemini38,0.0,We could not connect to the printer
+c09_bottom_m10_para02,c09_bottom,qwen38,0.0,"To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c07_pill_corner_pill10,c07_pill,gpt56luna,0.0,Sort by field
+c07_pill_m10_pill08,c07_pill,gpt56luna,0.0,Show password
+c07_pill_anchor_pill07,c07_pill,gpt56luna,0.0,Reply to thread
+c05_wordgap_m3_en04,c05_wordgap,gemini38,0.0,The meeting notes are available in the archive
+c09_bottom_m3_para03,c09_bottom,qwen38,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c09_bottom_p12_para07,c09_bottom,qwen38,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c05_wordgap_short_en05,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Enter a name for the new tag""**"
+c06_decoy_incomplete_g12_en03,c06_decoy,gpt56sol,0.0,Select a folder to export your
+c05_wordgap_short_en14,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Your order will ship from our shop""**
+
+Note that the text extends slightly beyond the right edge of the box, with ""shop"" partially outside the border."
+c09_bottom_m10_para06,c09_bottom,qwen38,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c05_wordgap_m10_en11,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""We could not connect to the printer""**"
+c07_pill_m10_pill12,c07_pill,gpt56luna,0.0,Pin to dashboard
+c05_wordgap_short_en11,c05_wordgap,gemini38,1.903225806451613,The text inside the box is: **We could not connect to the** (with the word **hub** appearing just outside to the right).
+c06_decoy_complete_g30_en05,c06_decoy,gpt56sol,0.0,Enter a name for the new folder
+c09_bottom_p4_para06,c09_bottom,qwen38,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c07_pill_p12_pill12,c07_pill,gpt56sol,0.0,Pin to dashboard
+c09_bottom_m10_para13,c09_bottom,qwen38,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c05_wordgap_long_en12,c05_wordgap,glm53flash,0.0,Tap to open the shared calendar
+c05_wordgap_long_en07,c05_wordgap,gemini38,0.0,Drag the image into the timeline
+c05_wordgap_short_en00,c05_wordgap,gemini38,0.0,"The text in the image reads:
+
+Please review the attached file"
+c06_decoy_incomplete_gTwin_en12,c06_decoy,gpt56sol,0.36363636363636365,Tap to open the shared Options
+c09_bottom_anchor_para01,c09_bottom,qwen38,0.0,This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting.
+c07_pill_anchor_pill06,c07_pill,gpt56sol,0.0,Copy to clipboard
+c09_bottom_p12_para10,c09_bottom,qwen38,0.27941176470588236,This version fixes a bug that prevented some users from uploading images larger than ten megabytes
+c06_decoy_complete_g12_en08,c06_decoy,gpt56sol,0.0,This link will expire after the session
+c07_pill_corner_pill13,c07_pill,gpt56luna,0.0,Skip this level
+c09_bottom_m10_para10,c09_bottom,gpt56luna,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c05_wordgap_anchor_en11,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""We could not connect to the printer""**"
+c07_pill_p12_pill02,c07_pill,gpt56sol,0.0,View all
+c09_bottom_p4_para10,c09_bottom,gpt56luna,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c05_wordgap_long_en07,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Drag the image into the""**
+
+The word ""timeline"" appears just outside the box, so the full sentence is: ""Drag the image into the timeline"" — but only ""Drag the image into the"" is inside the box itself."
+c07_pill_p4_pill10,c07_pill,gpt56sol,0.0,Sort by field
+c09_bottom_p30_para02,c09_bottom,qwen38,0.6541353383458647,"To keep your account secure, enable two-factor"
+c09_bottom_p4_para13,c09_bottom,gpt56luna,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c05_wordgap_m10_en06,c05_wordgap,gemini38,0.0,"The text inside the box reads:
+
+**You have been added to the project**"
+c09_bottom_m10_para14,c09_bottom,qwen38,0.0,"Draft posts are saved every few seconds,
+so you can close the editor at any time
+and continue writing later from the same
+device or another one."
+c09_bottom_anchor_para05,c09_bottom,gpt56luna,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c09_bottom_p30_para10,c09_bottom,gpt56luna,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c09_bottom_m10_para11,c09_bottom,qwen38,0.0,"The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee."
+c09_bottom_p30_para07,c09_bottom,gpt56luna,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c09_bottom_p12_para12,c09_bottom,qwen38,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c07_pill_p4_pill07,c07_pill,gpt56sol,0.0,Reply to thread
+c09_bottom_anchor_para07,c09_bottom,gpt56luna,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c07_pill_m3_pill11,c07_pill,gpt56sol,0.0,Export and send
+c09_bottom_m3_para09,c09_bottom,qwen38,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c07_pill_m3_pill01,c07_pill,gpt56sol,0.0,Download all
+c07_pill_p12_pill01,c07_pill,gpt56sol,0.0,Download all
+c05_wordgap_m10_en06,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""You have been added to the project""**"
+c09_bottom_p4_para07,c09_bottom,qwen38,0.0070921985815602835,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program
+c05_wordgap_m10_en14,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+Your order will ship from our office"
+c05_wordgap_m3_en04,c05_wordgap,glm53flash,0.0,"The text in the box reads: ""The meeting notes are available in the archive"""
+c05_wordgap_m10_en05,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**Enter a name for the new folder**"
+c09_bottom_m3_para00,c09_bottom,qwen38,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c07_pill_m10_pill11,c07_pill,gpt56sol,0.0,Export and send
+c07_pill_p12_pill03,c07_pill,gpt56sol,0.0,Mark as read
+c05_wordgap_short_en03,c05_wordgap,gemini38,0.0,"The text in the image reads:
+
+**Select a folder to export your data**
+
+*(Note: ""Select a folder to export your"" is enclosed within a rectangular blue outline, followed by ""data"" just outside the box).*"
+c09_bottom_p4_para09,c09_bottom,qwen38,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c05_wordgap_m10_en14,c05_wordgap,glm53flash,0.0,"The text in the box reads: ""Your order will ship from our office"""
+c05_wordgap_short_en01,c05_wordgap,gemini38,0.0,Click here to download the app
+c05_wordgap_m10_en09,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+Remember to back up your photos"
+c09_bottom_m10_para09,c09_bottom,gpt56luna,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c07_pill_corner_pill03,c07_pill,gpt56sol,0.0,Mark as read
+c05_wordgap_short_en11,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""We could not connect to the""** — note that the word ""hub"" appears just outside the right edge of the box, so the full message is ""We could not connect to the hub."""
+c07_pill_corner_pill01,c07_pill,gpt56sol,0.0,Download all
+c09_bottom_m10_para03,c09_bottom,gpt56luna,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c05_wordgap_medium_en07,c05_wordgap,gemini38,0.0,"The text in the box and immediately adjacent reads:
+
+**Drag the image into the editor**"
+c05_wordgap_short_en03,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Select a folder to export your""**
+
+(Note: the word ""data"" appears just outside the box border.)"
+c09_bottom_p30_para12,c09_bottom,qwen38,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c09_bottom_p12_para00,c09_bottom,gpt56luna,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c09_bottom_p12_para05,c09_bottom,qwen38,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c09_bottom_p30_para08,c09_bottom,qwen38,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c10_thai_p30_th07,c10_thai,qwen38,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c07_pill_m3_pill12,c07_pill,gpt56sol,0.0,Pin to dashboard
+c09_bottom_p4_para08,c09_bottom,qwen38,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c10_thai_p12_th13,c10_thai,qwen38,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c07_pill_m3_pill03,c07_pill,gpt56sol,0.0,Mark as read
+c05_wordgap_short_en00,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Please review the attached""**
+
+(The word ""file"" appears just outside the box border, so the full phrase is ""Please review the attached file."")"
+c10_thai_m10_th10,c10_thai,qwen38,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c09_bottom_p4_para06,c09_bottom,gpt56luna,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c09_bottom_m3_para03,c09_bottom,gpt56luna,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c05_wordgap_long_en09,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Remember to back up your""**
+
+(Note: The word ""documents"" appears after the box but is outside its border, which seems to end mid-sentence after ""your"".)"
+c09_bottom_m10_para06,c09_bottom,gpt56luna,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c05_wordgap_long_en05,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+Enter a name for the new workspace"
+c10_thai_p4_th02,c10_thai,qwen38,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c05_wordgap_m10_en05,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Enter a name for the new folder""**
+
+This appears to be a placeholder or prompt text in an input field, likely from a file manager or email client interface where a user is being asked to name a folder they're creating."
+c07_pill_p4_pill05,c07_pill,gpt56sol,0.0,Save and upload
+c07_pill_p12_pill00,c07_pill,gpt56sol,0.0,Payment method
+c07_pill_corner_pill14,c07_pill,gpt56sol,0.0,Start free trial
+c07_pill_p12_pill06,c07_pill,gpt56sol,0.0,Copy to clipboard
+c07_pill_p4_pill06,c07_pill,gpt56sol,0.0,Copy to clipboard
+c07_pill_anchor_pill14,c07_pill,gpt56sol,0.0,Start free trial
+c05_wordgap_m10_en04,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**The meeting notes are available in the archive**"
+c05_wordgap_long_en02,c05_wordgap,gemini38,0.0,"The text in the box is:
+
+**Your changes have been saved to the**"
+c09_bottom_m10_para02,c09_bottom,gpt56luna,0.0,"To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c09_bottom_anchor_para01,c09_bottom,gpt56luna,0.0,This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting.
+c05_wordgap_long_en05,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Enter a name for the new""** — and just outside the box, it continues with **""workspace""**.
+
+So the full prompt is: *""Enter a name for the new workspace""* — it appears to be a dialog for naming a new workspace."
+c09_bottom_m10_para13,c09_bottom,gpt56luna,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c10_thai_p30_th03,c10_thai,qwen38,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c05_wordgap_m3_en07,c05_wordgap,gemini38,0.0,"The text in the box reads:
+
+**Drag the image into the editor**"
+c10_thai_p30_th00,c10_thai,qwen38,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c10_thai_p12_th12,c10_thai,qwen38,0.0,กรอกชื่อสำหรับพื้นที่ทำงานใหม่
+c10_thai_m10_th03,c10_thai,qwen38,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c09_bottom_p12_para07,c09_bottom,gpt56luna,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c06_decoy_incomplete_g30_en06,c06_decoy,gemini38,0.5384615384615384,"The text in the image is:
+
+- Left box: **You have been added to the**
+- Right box: **Preview**"
+c09_bottom_p12_para10,c09_bottom,gpt56luna,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c10_thai_p30_th08,c10_thai,qwen38,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c10_thai_anchor_th07,c10_thai,qwen38,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c05_wordgap_long_en02,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Your changes have been saved to the repository""**"
+c10_thai_m3_th10,c10_thai,qwen38,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c10_thai_anchor_th01,c10_thai,qwen38,0.0,ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ
+c07_pill_m3_pill00,c07_pill,gpt56sol,0.0,Payment method
+c05_wordgap_m3_en07,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Drag the image into the editor""**"
+c05_wordgap_anchor_en01,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Click here to download the report""**"
+c09_bottom_p30_para02,c09_bottom,gpt56luna,0.0,"To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c09_bottom_m3_para09,c09_bottom,gpt56luna,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c07_pill_corner_pill10,c07_pill,gpt56sol,0.0,Sort by field
+c07_pill_p4_pill12,c07_pill,gpt56sol,0.0,Pin to dashboard
+c05_wordgap_short_en01,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Click here to download the""** — the word ""app"" appears just outside the box border, so the full phrase is ""Click here to download the app."""
+c09_bottom_p12_para12,c09_bottom,gpt56luna,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c07_pill_m3_pill04,c07_pill,gpt56sol,0.0,Send to email
+c07_pill_corner_pill11,c07_pill,gpt56sol,0.0,Export and send
+c07_pill_corner_pill13,c07_pill,gpt56sol,0.0,Skip this level
+c09_bottom_m10_para11,c09_bottom,gpt56luna,0.0,"The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee."
+c05_wordgap_anchor_en01,c05_wordgap,gemini38,0.0,"The text inside the box reads:
+
+Click here to download the report"
+c06_decoy_complete_g30_en02,c06_decoy,gemini38,0.07142857142857142,"The text in the image reads:
+
+* **Your changes have been saved to the server**
+* **Export**"
+c05_wordgap_m10_en04,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""The meeting notes are available in the archive""**"
+c10_thai_p12_th06,c10_thai,qwen38,0.02631578947368421,ลิงก์นี้จะหมดอายุภายในสี่สิบสี่ชั่วโมง
+c07_pill_m10_pill08,c07_pill,gpt56sol,0.0,Show password
+c09_bottom_p4_para07,c09_bottom,gpt56luna,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c10_thai_anchor_th08,c10_thai,qwen38,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c07_pill_p4_pill00,c07_pill,gpt56sol,0.0,Payment method
+c10_thai_anchor_th14,c10_thai,qwen38,0.15,ห้องประชุมสามารถจองล่วงหน้าได้สี่สิบห้า
+c10_thai_p30_th14,c10_thai,qwen38,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c09_bottom_m10_para14,c09_bottom,gpt56luna,0.0,"Draft posts are saved every few seconds, so you can close the editor at any time and continue writing later from the same device or another one."
+c10_thai_p30_th05,c10_thai,qwen38,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c10_thai_p4_th13,c10_thai,qwen38,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c06_decoy_complete_gTwin_en01,c06_decoy,gemini38,0.7575757575757576,"The text in the image is:
+
+- Inside the left box: **Click here to download the report**
+- Inside the right button/box: **Cancel**"
+c06_decoy_incomplete_g30_en10,c06_decoy,gemini38,0.0,"The text in the box reads:
+
+Choose a theme for your"
+c09_bottom_p4_para09,c09_bottom,gpt56luna,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c10_thai_p4_th06,c10_thai,qwen38,0.02631578947368421,ลิงก์นี้จะหมดอายุภายในสี่สิบสี่ชั่วโมง
+c09_bottom_m3_para00,c09_bottom,gpt56luna,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c06_decoy_complete_g12_en12,c06_decoy,gemini38,0.1,"The text in the image reads:
+
+* **Tap to open the shared gallery**
+* **Options**"
+c10_thai_anchor_th05,c10_thai,qwen38,1.2352941176470589,You have been invited to join this project
+c07_pill_anchor_pill07,c07_pill,gpt56sol,0.0,Reply to thread
+c06_decoy_incomplete_g30_en12,c06_decoy,gemini38,0.6818181818181818,"The text in the image reads:
+
+* **Tap to open the shared**
+* **Options**"
+c09_bottom_p30_para12,c09_bottom,gpt56luna,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c07_pill_m10_pill12,c07_pill,gpt56sol,0.0,Pin to dashboard
+c04_gibberish_anchor_en10,c04_gibberish,glm53flash,0.0,"The text reads: **""Hocoes a ethme ofr ruoy wsereentlt""**
+
+With the letters unscrambled, it says: **""Choose a theme for your newsletter.""**"
+c09_bottom_p30_para08,c09_bottom,gpt56luna,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c05_wordgap_m10_en09,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Remember to back up your photos""**"
+c09_bottom_m10_para10,c09_bottom,gpt56sol,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c09_bottom_p4_para08,c09_bottom,gpt56luna,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c09_bottom_p4_para10,c09_bottom,gpt56sol,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c06_decoy_incomplete_g30_en06,c06_decoy,glm53flash,0.0,"The text in the box reads: **""You have been added to the""**
+
+(The text appears to be cut off, with a ""Preview"" button next to it.)"
+c10_thai_p30_th10,c10_thai,qwen38,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c09_bottom_p4_para13,c09_bottom,gpt56sol,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c06_decoy_complete_g30_en06,c06_decoy,glm53flash,0.0,"The text in the box reads: **""You have been added to the project""**
+
+There's also a ""Preview"" button next to it."
+c10_thai_p4_th05,c10_thai,qwen38,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c06_decoy_complete_gTwin_en01,c06_decoy,glm53flash,0.0,"The text in the larger box reads: **""Click here to download the report""**
+
+There's also a smaller button next to it that says **""Cancel""**."
+c09_bottom_p12_para05,c09_bottom,gpt56luna,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c10_thai_p12_th00,c10_thai,qwen38,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c10_thai_p4_th04,c10_thai,qwen38,0.1935483870967742,การประชุมจะเริ่มในอีกไม่กี่นาที
+c10_thai_p4_th09,c10_thai,qwen38,0.17857142857142858,แตะเพื่อเปิดปุ่มที่แชร์ไว้
+c09_bottom_anchor_para07,c09_bottom,gpt56sol,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c09_bottom_anchor_para05,c09_bottom,gpt56sol,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c10_thai_p30_th13,c10_thai,qwen38,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c09_bottom_p30_para07,c09_bottom,gpt56sol,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c10_thai_m10_th10,c10_thai,gpt56luna,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c06_decoy_incomplete_g12_en04,c06_decoy,gemini38,0.3684210526315789,"The text in the image reads:
+
+**The meeting notes are available in the** | **Refresh**"
+c10_thai_p12_th13,c10_thai,gpt56luna,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c06_decoy_complete_g12_en12,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared gallery""**
+
+There is also a smaller button next to it that says **""Options""**."
+c10_thai_p4_th08,c10_thai,qwen38,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c10_thai_p4_th02,c10_thai,gpt56luna,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c10_thai_p30_th02,c10_thai,qwen38,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c06_decoy_incomplete_g30_en10,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Choose a theme for your""**
+
+(There's also a button next to it labeled ""Profile"" — the text in the box appears to be cut off mid-sentence.)"
+c10_thai_p30_th07,c10_thai,gpt56luna,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c09_bottom_p30_para10,c09_bottom,gpt56sol,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c06_decoy_incomplete_gTwin_en01,c06_decoy,gemini38,0.11538461538461539,"The text in the image reads:
+
+* **Click here to download the**
+* **Cancel**"
+c09_bottom_m10_para09,c09_bottom,gpt56sol,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c10_thai_p30_th03,c10_thai,gpt56luna,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c06_decoy_incomplete_gTwin_en09,c06_decoy,gemini38,0.2916666666666667,Remember to back up your Upload
+c06_decoy_complete_g30_en06,c06_decoy,gemini38,0.4411764705882353,"The text in the image reads:
+
+* **Left box:** You have been added to the project  
+* **Right box:** Preview"
+c10_thai_m10_th03,c10_thai,gpt56luna,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c06_decoy_complete_gTwin_en08,c06_decoy,gemini38,0.358974358974359,"The text in the image reads:
+
+**This link will expire after the session** [ Confirm ]"
+c09_bottom_p12_para00,c09_bottom,gpt56sol,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c05_wordgap_long_en09,c05_wordgap,gemini38,0.0,"The text inside the box is:
+
+**Remember to back up your**"
+c10_thai_p30_th09,c10_thai,qwen38,0.17857142857142858,แตะเพื่อเปิดบันทึกที่แชร์ไว้
+c10_thai_p12_th12,c10_thai,gpt56luna,0.0,กรอกชื่อสำหรับพื้นที่ทำงานใหม่
+c09_bottom_m10_para03,c09_bottom,gpt56sol,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c10_thai_p30_th08,c10_thai,gpt56luna,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c06_decoy_incomplete_g30_en07,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Drag the image into the""** — it appears the text may be cut off, and there's a ""Submit"" button next to it."
+c10_thai_p12_th14,c10_thai,qwen38,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c05_wordgap_medium_en07,c05_wordgap,glm53flash,0.0,"The text in the box reads: **""Drag the image into the editor""**"
+c10_thai_m3_th10,c10_thai,gpt56luna,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c09_bottom_m10_para02,c09_bottom,gpt56sol,0.0,"To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c12_thaiwrap_p4_thp13,c12_thaiwrap,qwen38,0.19387755102040816,"คำตอบแบบสำรวจจะระบุจุดอ่อนและสรุป
+ผลที่ชี้ให้เห็นจะรวมเฉพาะคำถามที่มีผู้
+ตอบอย่างน้อยห้าคนเท่านั้น"
+c12_thaiwrap_p30_thp03,c12_thaiwrap,qwen38,0.0,แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่เกี่ยวข้องไว้ในหน้าเดียว ผู้จัดการจึงเปรียบเทียบแนวโน้มรายสัปดาห์ได้โดยไม่ต้องสลับไปมาระหว่างรายงานหลายฉบับ
+c12_thaiwrap_p30_thp01,c12_thaiwrap,qwen38,0.4247787610619469,"รายงานฉบับนี้สรุปผลการสัมภาษณ์
+ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่"
+c10_thai_p30_th00,c10_thai,gpt56luna,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c06_decoy_incomplete_g30_en12,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared""** (it appears to be cut off).
+
+There's also a button next to it labeled **""Options""**."
+c10_thai_anchor_th01,c10_thai,gpt56luna,0.0,ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ
+c12_thaiwrap_m3_thp04,c12_thaiwrap,qwen38,0.07339449541284404,"ไฟล์ที่แชร์ให้พัธมิตรภายนอกจะถูกเก็บ
+ไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบ
+โดยอัตโนมัติเจ็ดสิบวันหลังจากปิด
+โครงการ"
+c12_thaiwrap_p4_thp00,c12_thaiwrap,qwen38,0.0,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c09_bottom_p12_para07,c09_bottom,gpt56sol,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c06_decoy_complete_g30_en02,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Your changes have been saved to the server""**
+
+There's also a button next to it labeled **""Export""**."
+c10_thai_anchor_th07,c10_thai,gpt56luna,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c09_bottom_m10_para06,c09_bottom,gpt56sol,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c09_bottom_m10_para13,c09_bottom,gpt56sol,0.0,"Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c10_thai_p12_th06,c10_thai,gpt56luna,0.07894736842105263,ลิงก์นี้จะหมดอายุภายในยี่สิบชั่วโมง
+c06_decoy_incomplete_g30_en08,c06_decoy,gemini38,0.6451612903225806,"The text in the image reads:
+
+* In the left box: **This link will expire after the**
+* In the right box: **Confirm**"
+c06_decoy_complete_gTwin_en08,c06_decoy,glm53flash,0.0,"The text in the box reads: **""This link will expire after the session""**
+
+Next to it is a button labeled **""Confirm""**."
+c09_bottom_p4_para06,c09_bottom,gpt56sol,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c06_decoy_incomplete_g30_en11,c06_decoy,glm53flash,0.0,"The text in the box reads: **""We could not connect to the""** (the text appears to be cut off, likely continuing with something like ""server"" or ""internet"").
+
+There's also a button next to it labeled **""Restart""**."
+c10_thai_anchor_th08,c10_thai,gpt56luna,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c12_thaiwrap_p4_thp01,c12_thaiwrap,qwen38,0.08849557522123894,รายงานฉบับนี้สรุปผลการรายได้ไตรมาส ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่ต้องติดตามก่อนการประชุมครั้งถัดไป
+c09_bottom_anchor_para01,c09_bottom,gpt56sol,0.0,This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting.
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,qwen38,0.01639344262295082,ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c06_decoy_complete_g12_en07,c06_decoy,gemini38,0.1,"The text in the image reads:
+
+* **Drag the image into the editor**
+* **Submit**"
+c09_bottom_p12_para10,c09_bottom,gpt56sol,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c10_thai_p30_th14,c10_thai,gpt56luna,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c10_thai_anchor_th14,c10_thai,gpt56luna,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c06_decoy_complete_gTwin_en07,c06_decoy,gemini38,0.36666666666666664,"The text in the box reads:
+
+**Drag the image into the editor** [Submit]"
+c10_thai_p30_th05,c10_thai,gpt56luna,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c10_thai_p4_th13,c10_thai,gpt56luna,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c09_bottom_m3_para03,c09_bottom,gpt56sol,0.0,The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.
+c10_thai_anchor_th05,c10_thai,gpt56luna,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c12_thaiwrap_p30_thp13,c12_thaiwrap,qwen38,0.673469387755102,คำตอบแบบสำรวจจะระบุตัวตน และสรุป
+c09_bottom_p30_para02,c09_bottom,gpt56sol,0.0,"To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c06_decoy_incomplete_g30_en08,c06_decoy,glm53flash,0.0,"The text in the box reads: ""This link will expire after the"""
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,qwen38,0.0546875,"ระบบจะต่อการสมัครสมาชิกโดยอัตโนมัติ
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ
+อายุ"
+c06_decoy_incomplete_g12_en04,c06_decoy,glm53flash,0.0,"The text in the box reads: **""The meeting notes are available in the""** — the sentence appears to be cut off. Next to it is a button labeled **""Refresh""**, likely meant to load the rest of the message (e.g., the location where the notes are available)."
+c12_thaiwrap_p30_thp07,c12_thaiwrap,qwen38,0.2777777777777778,"ผู้ที่เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบ
+ประกาศนียบัตรทางอีเมลภายในสองสัปดาห์"
+c06_decoy_incomplete_gTwin_en09,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Remember to back up your""**
+
+Next to it is a button that says **""Upload""** — the sentence appears to be cut off, likely intended to say something like ""Remember to back up your files"" with an Upload action."
+c06_decoy_incomplete_g30_en11,c06_decoy,gemini38,0.0,"The text in the box reads:
+
+**We could not connect to the**"
+c09_bottom_m3_para09,c09_bottom,gpt56sol,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c06_decoy_incomplete_gTwin_en01,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Click here to download the""** — the text appears to be cut off, as the box is too small to display the full message (likely something like ""Click here to download the file"").
+
+There is also a **""Cancel""** button next to it."
+c12_thaiwrap_m3_thp06,c12_thaiwrap,qwen38,0.015748031496062992,"เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่อ
+อธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร
+เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูล
+ได้อย่างไร"
+c10_thai_p4_th06,c10_thai,gpt56luna,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c09_bottom_m10_para14,c09_bottom,gpt56sol,0.0,"Draft posts are saved every few seconds, so you can close the editor at any time and continue writing later from the same device or another one."
+c06_decoy_incomplete_g12_en06,c06_decoy,gemini38,1.3461538461538463,"The text inside the green boxes in the image is:
+
+- Left box: **You have been added to the**
+- Right box: **Preview**"
+c12_thaiwrap_m3_thp13,c12_thaiwrap,qwen38,0.07142857142857142,คำตอบแบบสำรวจจะระบุตัวตน และสรุปผลที่แชร์ให้ทีบจะรวบรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c10_thai_p30_th10,c10_thai,gpt56luna,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c09_bottom_p12_para12,c09_bottom,gpt56sol,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c09_bottom_m10_para11,c09_bottom,gpt56sol,0.0,"The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee."
+c10_thai_p4_th09,c10_thai,gpt56luna,0.0,แตะเพื่อเปิดปฏิทินที่แชร์ไว้
+c10_thai_p30_th13,c10_thai,gpt56luna,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c06_decoy_complete_gTwin_en07,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Drag the image into the editor""**
+
+There's also a button next to it that says **""Submit""**."
+c10_thai_p4_th05,c10_thai,gpt56luna,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c10_thai_p4_th08,c10_thai,gpt56luna,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c12_thaiwrap_m10_thp10,c12_thaiwrap,qwen38,0.03508771929824561,เวอร์ชันนี้แก้ไขข้อผิดพลาดที่กำหนดให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้เมื่อใช้เครือข่ายที่ช้า
+c09_bottom_m3_para00,c09_bottom,gpt56sol,0.0,Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.
+c12_thaiwrap_p12_thp11,c12_thaiwrap,qwen38,0.01639344262295082,ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c10_thai_p12_th00,c10_thai,gpt56luna,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c06_decoy_complete_g12_en13,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Add a caption to this picture""**
+
+There's also a button next to it labeled **""Publish""**."
+c10_thai_p4_th04,c10_thai,gpt56luna,0.0,การประชุมจะเริ่มในอีกสิบห้านาที
+c12_thaiwrap_p12_thp05,c12_thaiwrap,qwen38,0.2803738317757009,ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าอยู่ถูกรายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ
+c06_decoy_complete_g12_en14,c06_decoy,gemini38,0.7222222222222222,"The text in the image is:
+
+* In the text input box: **Your order will ship from our office**
+* On the button: **Browse**"
+c06_decoy_complete_g12_en06,c06_decoy,gemini38,0.5882352941176471,"The text in the image reads:
+
+* In the left box: **You have been added to the project**
+* In the right box: **Preview**"
+c06_decoy_incomplete_g12_en06,c06_decoy,glm53flash,0.0,"The text in the box reads: **""You have been added to the""**
+
+The text appears to be cut off — the full message likely continues beyond the visible edge of the box. There is also a ""Preview"" button next to it."
+c06_decoy_incomplete_g30_en07,c06_decoy,gemini38,0.6521739130434783,"The text in the image reads:
+
+* **Left box:** Drag the image into the
+* **Right box:** Submit"
+c09_bottom_p30_para08,c09_bottom,gpt56sol,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c12_thaiwrap_p4_thp10,c12_thaiwrap,qwen38,0.11403508771929824,เออร์บินนี้แก้ไขข้อผิดพลาดที่ ทำให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์เพื่อใช้เครื่องย้ายที่ข้า
+c12_thaiwrap_p4_thp08,c12_thaiwrap,qwen38,0.12931034482758622,เครื่องพิมพ์นั้นสามอยู่ระหว่างการซ่อม บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์ ขนาดใหญ่ไปยังเครื่องใกล้ๆได้ ประชามิตรแทน
+c06_decoy_incomplete_gTwin_en05,c06_decoy,gemini38,1.3333333333333333,"The text in the image reads:
+
+* In the text box on the left: **Enter a name for the new**
+* On the button to the right: **Search**"
+c12_thaiwrap_p4_thp07,c12_thaiwrap,qwen38,0.0,ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์หลังจากการอบรมครั้งสุดท้าย
+c09_bottom_p4_para09,c09_bottom,gpt56sol,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c06_decoy_complete_gTwin_en10,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Choose a theme for your website""**
+
+There's also a smaller button next to it that says **""Profile""**."
+c09_bottom_p30_para12,c09_bottom,gpt56sol,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c06_decoy_complete_g12_en07,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Drag the image into the editor""**
+
+(There is also a button next to it labeled ""Submit"".)"
+c10_thai_p12_th14,c10_thai,gpt56luna,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c09_bottom_p4_para08,c09_bottom,gpt56sol,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c10_thai_p30_th02,c10_thai,gpt56luna,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c06_decoy_complete_g12_en04,c06_decoy,gemini38,0.2826086956521739,"The text in the image is:
+
+* Left box: **The meeting notes are available in the archive**
+* Right box: **Refresh**"
+c06_decoy_complete_g12_en14,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Your order will ship from our office""**
+
+Next to it is a button labeled **""Browse""**."
+c09_bottom_p12_para05,c09_bottom,gpt56sol,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c12_thaiwrap_p4_thp14,c12_thaiwrap,qwen38,0.03278688524590164,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น
+ได้ภายหลัง"
+c06_decoy_complete_g12_en00,c06_decoy,gemini38,0.37142857142857144,"The text inside the image reads:
+
+* Left box: **Please review the attached document**
+* Right box: **Settings**"
+c06_decoy_incomplete_gTwin_en05,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Enter a name for the new""**
+
+It appears to be an input field placeholder text, though it seems incomplete (possibly truncated, as it likely should say something like ""Enter a name for the new [something]"")."
+c10_thai_p30_th09,c10_thai,gpt56luna,0.0,แตะเพื่อเปิดปฏิทินที่แชร์ไว้
+c09_bottom_p4_para07,c09_bottom,gpt56sol,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c12_thaiwrap_p12_thp10,c12_thaiwrap,qwen38,0.22807017543859648,เออร์บินนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้
+c12_thaiwrap_p30_thp03,c12_thaiwrap,gpt56luna,0.0,แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่เกี่ยวข้องไว้ในหน้าเดียว ผู้จัดการจึงเปรียบเทียบแนวโน้มรายสัปดาห์ได้โดยไม่ต้องสลับไปมาระหว่างรายงานหลายฉบับ
+c10_thai_m10_th10,c10_thai,gpt56sol,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c12_thaiwrap_p12_thp00,c12_thaiwrap,qwen38,0.046875,ระบบจะต่อการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกส่งหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c12_thaiwrap_p30_thp01,c12_thaiwrap,gpt56luna,0.035398230088495575,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส  
+ของทีมงานประจำภูมิภาค และระบุบัญชีลูกค้าที่  
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c10_thai_p12_th13,c10_thai,gpt56sol,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c12_thaiwrap_p4_thp13,c12_thaiwrap,gpt56luna,0.01020408163265306,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวบเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c12_thaiwrap_m3_thp08,c12_thaiwrap,qwen38,0.034482758620689655,เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อมบำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์ขนาดใหญ่ไปยังเครื่องใกล้ๆ ประชาสัมพันธ์แทน
+c06_decoy_complete_gTwin_en10,c06_decoy,gemini38,0.41935483870967744,"The text in the image reads:
+
+* Left box: **Choose a theme for your website**
+* Right button: **Profile**"
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,gpt56luna,0.09836065573770492,ห้องสมุดจะเปิดเร็วกว่าเวลานัดในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนวันนี้สามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c10_thai_p30_th07,c10_thai,gpt56sol,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c06_decoy_complete_g30_en04,c06_decoy,gemini38,0.0,"The text in the boxes reads:
+
+* **Left box:** ""The meeting notes are available in the archive""
+* **Right box:** ""Refresh"""
+c10_thai_p4_th02,c10_thai,gpt56sol,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c12_thaiwrap_p4_thp02,c12_thaiwrap,qwen38,0.04032258064516129,เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้งานการยืนยันตัวตนสองขั้นตอน และตรวจสอบรายชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้ในขณะน
+c10_thai_p30_th03,c10_thai,gpt56sol,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c06_decoy_complete_g30_en04,c06_decoy,glm53flash,0.0,"The text in the box reads: **""The meeting notes are available in the archive""**
+
+There's also a smaller button next to it that says **""Refresh""**."
+c06_decoy_complete_g12_en04,c06_decoy,glm53flash,0.0,"The text in the box reads: **""The meeting notes are available in the archive""**
+
+There is also a smaller box next to it that says **""Refresh""**."
+c12_thaiwrap_p4_thp00,c12_thaiwrap,gpt56luna,0.015625,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกลงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c12_thaiwrap_m3_thp04,c12_thaiwrap,gpt56luna,0.13761467889908258,โพสต์นี้แชร์ให้พันธมิตรภายนอกดูเก็บไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบโดยอัตโนมัติสามเดือนหลังจากปิดโครงการ
+c12_thaiwrap_p4_thp01,c12_thaiwrap,gpt56luna,0.017699115044247787,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส  
+ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่  
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c12_thaiwrap_m3_thp00,c12_thaiwrap,qwen38,0.0,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,qwen38,0.03278688524590164,"ระบบจะบันทึกฉบับร่างทุกสองสามนาที
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น
+ได้ในภายหลัง"
+c10_thai_m10_th03,c10_thai,gpt56sol,0.0,รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว
+c06_decoy_incomplete_gTwin_en12,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Tap to open the shared""** (the text appears to be cut off at the right edge of the box). Next to it is a separate button labeled **""Options""**."
+c10_thai_m3_th10,c10_thai,gpt56sol,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c06_decoy_complete_g30_en05,c06_decoy,glm53flash,0.0,The text in the box reads: **Enter a name for the new folder**
+c06_decoy_incomplete_g12_en03,c06_decoy,gemini38,0.43333333333333335,"The text in the image reads:
+
+* Left box: **Select a folder to export your**
+* Right button: **Delete**"
+c12_thaiwrap_m10_thp05,c12_thaiwrap,qwen38,0.14018691588785046,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าอยู่ใน
+รายการครบถ้วน และหมายเลขโทรศัพท์มีรหัสประเทศ
+สำหรับการโทรระหว่างประเทศ"
+c10_thai_p30_th08,c10_thai,gpt56sol,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c10_thai_p30_th00,c10_thai,gpt56sol,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c10_thai_p12_th12,c10_thai,gpt56sol,0.0,กรอกชื่อสำหรับพื้นที่ทำงานใหม่
+c12_thaiwrap_p4_thp11,c12_thaiwrap,qwen38,0.01639344262295082,ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c06_decoy_incomplete_g30_en04,c06_decoy,glm53flash,0.0,"The text in the box reads: **""The meeting notes are available in the""** — it appears the sentence is cut off (likely followed by a link or location, e.g., ""shared drive"" or ""document""). Next to it is a button labeled **""Refresh""**."
+c06_decoy_complete_g12_en08,c06_decoy,glm53flash,0.0,"The text in the box reads: **""This link will expire after the session""**
+
+Next to it is a button labeled ""Confirm""."
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,gpt56luna,0.03278688524590164,"ระบบจะบันทึกกลับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_p30_thp07,c12_thaiwrap,gpt56luna,0.3148148148148148,ผู้เข้าร่วมที่เรียนครบทั้งสิ้นเทอมจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์
+c06_decoy_complete_g12_en08,c06_decoy,gemini38,0.3076923076923077,"The text in the box reads:
+
+**This link will expire after the session** [Confirm]"
+c12_thaiwrap_p30_thp13,c12_thaiwrap,gpt56luna,0.08163265306122448,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้เป็นระบบเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c07_pill_p12_pill12,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Pin to dashboard**"
+c12_thaiwrap_m3_thp13,c12_thaiwrap,gpt56luna,0.02040816326530612,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยหกคนเท่านั้น
+c06_decoy_complete_g30_en05,c06_decoy,gemini38,0.7741935483870968,"The text in the image is:
+
+* Inside the left box: **Enter a name for the new folder**
+* Inside the right button: **Search**"
+c10_thai_anchor_th07,c10_thai,gpt56sol,0.0,อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ
+c07_pill_p12_pill12,c07_pill,glm53flash,0.0,The text in the box reads: **Pin to dashboard**
+c12_thaiwrap_m3_thp06,c12_thaiwrap,gpt56luna,0.0,เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่ออธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูลได้อย่างไร
+c12_thaiwrap_p30_thp14,c12_thaiwrap,qwen38,0.08196721311475409,"ระบบจะบันทึกฉบับร่างทุกสามวินาที
+คุณจะปิดตัวแก้ไขได้ทุกเมื่อและกลับมา
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่นได้
+ได้ในภายหลัง"
+c10_thai_anchor_th01,c10_thai,gpt56sol,0.0,ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,gpt56luna,0.0,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c07_pill_anchor_pill06,c07_pill,glm53flash,0.0,The text in the box reads: **Copy to clipboard**
+c06_decoy_incomplete_g12_en03,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Select a folder to export your""** (the text appears truncated)."
+c06_decoy_complete_g12_en13,c06_decoy,gemini38,0.10344827586206896,"The text in the image reads:
+
+* **Add a caption to this picture**
+* **Publish**"
+c10_thai_p12_th06,c10_thai,gpt56sol,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c06_decoy_complete_g12_en06,c06_decoy,glm53flash,0.0,"The text in the box reads: **""You have been added to the project""**
+
+Next to it is a button labeled **""Preview""**."
+c10_thai_anchor_th08,c10_thai,gpt56sol,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c07_pill_p12_pill02,c07_pill,glm53flash,0.0,"The text in the box says ""View all""."
+c10_thai_anchor_th14,c10_thai,gpt56sol,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c10_thai_p30_th14,c10_thai,gpt56sol,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c06_decoy_incomplete_gTwin_en12,c06_decoy,gemini38,0.6818181818181818,"The text in the image reads:
+
+* **Tap to open the shared**
+* **Options**"
+c07_pill_p4_pill10,c07_pill,glm53flash,0.0,The text in the box reads: **Sort by field**
+c10_thai_p30_th05,c10_thai,gpt56sol,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c10_thai_p4_th13,c10_thai,gpt56sol,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c12_thaiwrap_m10_thp10,c12_thaiwrap,gpt56luna,0.13157894736842105,เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้ เมื่อใช้เคสเดียวกันนี้
+c12_thaiwrap_p12_thp11,c12_thaiwrap,gpt56luna,0.19672131147540983,ห้องสมุดจะเปิดเวลาเก้าโมงครึ่งเพื่อซ่อมปรุงหนังสือที่ครบกำหนดคืนในวันนี้สามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c07_pill_p12_pill01,c07_pill,glm53flash,0.0,Download all
+c07_pill_p12_pill02,c07_pill,gemini38,0.0,"The text in the box is:
+
+**View all**"
+c07_pill_m3_pill11,c07_pill,glm53flash,0.0,The text in the box reads: **Export and send**
+c07_pill_p12_pill03,c07_pill,glm53flash,0.0,"The text in the highlighted box reads: **""Mark as read""**"
+c12_thaiwrap_p4_thp08,c12_thaiwrap,gpt56luna,0.0603448275862069,เครื่องพิมพ์ชิ้นส่วนอยู่ระหว่างการซ่อมบำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะประชาสัมพันธ์
+c12_thaiwrap_p12_thp05,c12_thaiwrap,gpt56luna,0.037383177570093455,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ถูก  
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ  
+สำหรับการโทรระหว่างประเทศ"
+c12_thaiwrap_p4_thp07,c12_thaiwrap,gpt56luna,0.07407407407407407,ผู้เข้าร่วมที่เรียนครบทั้งสิ้นเทอมจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์หลังจากการอบรมครั้งสุดท้าย
+c10_thai_p30_th10,c10_thai,gpt56sol,0.0,เพิ่มคำอธิบายให้กับภาพนี้
+c10_thai_anchor_th05,c10_thai,gpt56sol,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c06_decoy_incomplete_g30_en04,c06_decoy,gemini38,0.07894736842105263,"The text in the boxes reads:
+
+* **The meeting notes are available in the**
+* **Refresh**"
+c07_pill_p4_pill07,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Reply to thread**"
+c12_thaiwrap_p4_thp14,c12_thaiwrap,gpt56luna,0.06557377049180328,"ระบบจะบันทึกกลับร่างทุกสามวินาที  
+คุณจึงเปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_p4_thp10,c12_thaiwrap,gpt56luna,0.18421052631578946,เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานรายไม่สามารถปรับลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้เมื่อใช้ที่คอมพิวเตอร์
+c07_pill_p12_pill01,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Download all**"
+c12_thaiwrap_p12_thp00,c12_thaiwrap,gpt56luna,0.0234375,"ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ  
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ  
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ  
+อายุ"
+c06_decoy_complete_g12_en00,c06_decoy,glm53flash,0.0,"The text in the box reads: **""Please review the attached document""**
+
+Next to it is a button labeled ""Settings""."
+c07_pill_m10_pill11,c07_pill,glm53flash,0.0,"The text in the box reads: **""Export and send""**"
+c07_pill_m3_pill11,c07_pill,gemini38,0.0,"The text in the box reads:
+
+**Export and send**"
+c10_thai_p12_th00,c10_thai,gpt56sol,0.0,กรุณาตรวจสอบเอกสารแนบก่อนส่ง
+c07_pill_m3_pill01,c07_pill,glm53flash,0.0,**Download all**
+c10_thai_p4_th09,c10_thai,gpt56sol,0.0,แตะเพื่อเปิดปฏิทินที่แชร์ไว้
+c10_thai_p4_th05,c10_thai,gpt56sol,0.0,คุณได้รับเชิญให้เข้าร่วมโครงการนี้
+c10_thai_p4_th06,c10_thai,gpt56sol,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c07_pill_p4_pill07,c07_pill,glm53flash,0.0,"The text in the box reads: **""Reply to thread""**"
+c10_thai_p30_th13,c10_thai,gpt56sol,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c07_pill_corner_pill03,c07_pill,glm53flash,0.0,"The text in the box reads: **""Mark as read""**"
+c10_thai_p4_th04,c10_thai,gpt56sol,0.0967741935483871,การประชุมจะเริ่มในอีกสิบนาที
+c07_pill_m3_pill01,c07_pill,gemini38,2.3333333333333335,The text in the box is **Download all**.
+c07_pill_p4_pill06,c07_pill,glm53flash,0.0,"The text in the box reads: **""Copy to clipboard""**"
+c07_pill_anchor_pill06,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Copy to clipboard**"
+c07_pill_corner_pill01,c07_pill,glm53flash,0.0,The text in the box reads: **Download all**
+c07_pill_m3_pill12,c07_pill,glm53flash,0.0,The text in the box reads: **Pin to dashboard**
+c12_thaiwrap_p12_thp10,c12_thaiwrap,gpt56luna,0.17543859649122806,เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานรายไม่สามารถปรับสเกลภาพขนาดใหญ่กว่าสี่เบสโทต์ได้เมื่อใช้เครื่องที่ช้า
+c10_thai_p4_th08,c10_thai,gpt56sol,0.0,ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้
+c12_thaiwrap_m3_thp08,c12_thaiwrap,gpt56luna,0.07758620689655173,"เครื่องพิมพ์ชิ้นส่วนอยู่ระหว่างการซ่อม  
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์  
+ขนาดใหญ่ไปยังเครื่องไกลโต๊ะ  
+ประชาสัมพันธ์แทน"
+c07_pill_p4_pill10,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Sort by field**"
+c07_pill_m3_pill03,c07_pill,glm53flash,0.0,The text in the box reads: **Mark as read**
+c12_thaiwrap_p30_thp12,c12_thaiwrap,gpt56luna,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,gpt56luna,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c07_pill_corner_pill01,c07_pill,gemini38,0.0,Download all
+c10_thai_p30_th02,c10_thai,gpt56sol,0.0,เลือกโฟลเดอร์สำหรับส่งออกข้อมูล
+c12_thaiwrap_p4_thp02,c12_thaiwrap,gpt56luna,0.0,เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การยืนยันตัวตนสองขั้นตอน และตรวจสอบรายชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้ในขณะนี้
+c12_thaiwrap_m10_thp05,c12_thaiwrap,gpt56luna,0.018691588785046728,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุก  
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ  
+สำหรับการโทรระหว่างประเทศ"
+c10_thai_p30_th09,c10_thai,gpt56sol,0.0,แตะเพื่อเปิดปฏิทินที่แชร์ไว้
+c07_pill_anchor_pill14,c07_pill,glm53flash,0.0,The text in the box reads: **Start free trial**
+c07_pill_m10_pill11,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Export and send**"
+c07_pill_p12_pill03,c07_pill,gemini38,0.0,Mark as read
+c10_thai_p12_th14,c10_thai,gpt56sol,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c07_pill_p12_pill00,c07_pill,glm53flash,0.0,"The text in the box reads: **""Payment method""**"
+c07_pill_p4_pill06,c07_pill,gemini38,0.0,"The text in the image reads:
+
+**Copy to clipboard**"
+c07_pill_corner_pill14,c07_pill,glm53flash,0.0,"The text in the box reads: **""Start free trial""**"
+c07_pill_p4_pill00,c07_pill,glm53flash,0.0,The text in the box reads: **Payment method**
+c07_pill_p4_pill05,c07_pill,glm53flash,0.0,The text in the box reads: **Save and upload**
+c07_pill_p12_pill06,c07_pill,glm53flash,0.0,The text in the box reads: **Copy to clipboard**
+c07_pill_m3_pill04,c07_pill,glm53flash,0.0,The text in the box reads: **Send to email**
+c07_pill_m3_pill12,c07_pill,gemini38,0.0,"The text in the box reads:
+
+**Pin to dashboard**"
+c12_thaiwrap_p4_thp11,c12_thaiwrap,gpt56luna,0.11475409836065574,ห้องสมุดจะเปิดบริการในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนวันนี้สามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c12_thaiwrap_p30_thp03,c12_thaiwrap,gpt56sol,0.0,แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่เกี่ยวข้องไว้ในหน้าเดียว ผู้จัดการจึงเปรียบเทียบแนวโน้มรายสัปดาห์ได้โดยไม่ต้องสลับไปมาระหว่างรายงานหลายฉบับ
+c07_pill_m3_pill03,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Mark as read**"
+c12_thaiwrap_m3_thp04,c12_thaiwrap,gpt56sol,0.0,ไฟล์ที่แชร์ให้พันธมิตรภายนอกจะถูกเก็บไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบโดยอัตโนมัติสามสิบวันหลังจากปิดโครงการ
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,qwen38,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c12_thaiwrap_p30_thp14,c12_thaiwrap,gpt56luna,0.05737704918032787,"ระบบจะบันทึกกลับร่างทุกสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_p30_thp12,c12_thaiwrap,qwen38,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c12_thaiwrap_p4_thp13,c12_thaiwrap,gpt56sol,0.0,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c07_pill_p4_pill05,c07_pill,gemini38,1.8666666666666667,The text in the box is **Save and upload**.
+c12_thaiwrap_p30_thp01,c12_thaiwrap,gpt56sol,0.1415929203539823,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส  
+ของทีมงานประจำภูมิภาค และระบุถึงข้อมูลสำคัญที่  
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c07_pill_p4_pill12,c07_pill,glm53flash,0.0,The text in the box reads: **Pin to dashboard**
+c12_thaiwrap_m3_thp00,c12_thaiwrap,gpt56luna,0.0,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c07_pill_corner_pill14,c07_pill,gemini38,0.0,"The text in the box reads:
+
+**Start free trial**"
+c07_pill_p12_pill00,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Payment method**"
+c07_pill_m10_pill08,c07_pill,glm53flash,0.0,"The text in the box reads: **""Show password""**"
+c07_pill_anchor_pill07,c07_pill,glm53flash,0.0,The text in the box says: **Reply to thread**
+c12_thaiwrap_p4_thp00,c12_thaiwrap,gpt56sol,0.0078125,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c07_pill_m10_pill12,c07_pill,glm53flash,0.0,"The text in the box reads: **""Pin to dashboard""**"
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,gpt56sol,0.00819672131147541,ห้องสมุดจะเปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c09_bottom_m10_para10,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection."""
+c07_pill_p4_pill00,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Payment method**"
+c07_pill_m3_pill00,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Payment method**"
+c12_thaiwrap_p4_thp01,c12_thaiwrap,gpt56sol,0.017699115044247787,"รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส  
+ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่  
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,gpt56sol,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,gpt56sol,0.0078125,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c07_pill_m3_pill00,c07_pill,glm53flash,0.0,The text in the box reads: **Payment method**
+c12_thaiwrap_p30_thp13,c12_thaiwrap,gpt56sol,0.0,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c07_pill_p4_pill12,c07_pill,gemini38,0.0,The text in the box reads: **Pin to dashboard**
+c07_pill_corner_pill10,c07_pill,gemini38,0.0,Sort by field
+c12_thaiwrap_m3_thp13,c12_thaiwrap,gpt56sol,0.0,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น
+c09_bottom_anchor_para07,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program."""
+c12_thaiwrap_p30_thp07,c12_thaiwrap,gpt56sol,0.009259259259259259,ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์ หลังจากการอบรมครั้งสุดท้าย
+c09_bottom_anchor_para05,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."""
+c09_bottom_p4_para10,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.""
+
+Note that part of the last line (""when using a slow network connection."") extends slightly below the bottom edge of the box border."
+c07_pill_m10_pill08,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Show password**"
+c12_thaiwrap_m3_thp06,c12_thaiwrap,gpt56sol,0.0,เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่ออธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูลได้อย่างไร
+c07_pill_corner_pill11,c07_pill,gemini38,0.0,"The text in the image reads:
+
+**Export and send**"
+c07_pill_p12_pill06,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Copy to clipboard**"
+c12_thaiwrap_p4_thp08,c12_thaiwrap,gpt56sol,0.034482758620689655,"เครื่องพิมพ์ชิ้นสามอยู่ระหว่างการซ่อม  
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์  
+ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะ  
+ประชาสัมพันธ์แทน"
+c12_thaiwrap_m10_thp10,c12_thaiwrap,gpt56sol,0.06140350877192982,เวอร์ชั่นนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานขายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้ เมื่อใช้เครื่องข่ายที่ช้า
+c07_pill_corner_pill03,c07_pill,gemini38,0.0,"The text in the image reads:
+
+**Mark as read**"
+c12_thaiwrap_p12_thp11,c12_thaiwrap,gpt56sol,0.0,ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c09_bottom_p30_para10,c09_bottom,glm53flash,0.375,"The text in the box reads:
+
+**""This version fixes a bug that prevented some users""**
+
+Note that the text continues below the box (appearing to be cut off by the box's border): ""from uploading images larger than ten megabytes when using a slow network connection."""
+c09_bottom_p30_para07,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.""
+
+Note: The text actually extends slightly below the bottom border of the box — the last line (""session of the training program."") falls outside the box outline."
+c07_pill_corner_pill11,c07_pill,glm53flash,0.0,"The text in the box reads: **""Export and send""**"
+c09_bottom_m10_para09,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."""
+c07_pill_corner_pill13,c07_pill,gemini38,0.0,"The text in the box is:
+
+**Skip this level**"
+c09_bottom_m10_para03,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports."""
+c09_bottom_p12_para00,c09_bottom,glm53flash,0.18518518518518517,"The text in the box reads:
+
+""Your subscription will renew automatically at the end of the billing period unless you cancel at least one day"""
+c12_thaiwrap_p12_thp05,c12_thaiwrap,gpt56sol,0.0,ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุกรายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศสำหรับการโทรระหว่างประเทศ
+c07_pill_m10_pill12,c07_pill,gemini38,0.0,"The text in the box reads:
+
+**Pin to dashboard**"
+c07_pill_corner_pill13,c07_pill,glm53flash,0.0,"The text in the box says: **""Skip this level""**"
+c07_pill_anchor_pill07,c07_pill,gemini38,0.0,**Reply to thread**
+c12_thaiwrap_p4_thp10,c12_thaiwrap,gpt56sol,0.18421052631578946,เวอร์ชั่นนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้ นี่ไอ้เวรหรือฉันก็ซ้ำ
+c12_thaiwrap_p4_thp14,c12_thaiwrap,gpt56sol,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_p4_thp07,c12_thaiwrap,gpt56sol,0.009259259259259259,ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์ หลังจากการอบรมครั้งสุดท้าย
+c09_bottom_m10_para10,c09_bottom,gemini38,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c12_thaiwrap_p12_thp00,c12_thaiwrap,gpt56sol,0.0078125,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c09_bottom_p4_para13,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."""
+c09_bottom_p4_para10,c09_bottom,gemini38,0.0,This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.
+c09_bottom_p12_para07,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.""
+
+Note that the last line (""session of the training program."") extends slightly below the border of the box, overflowing past its bottom edge."
+c09_bottom_p4_para13,c09_bottom,gemini38,0.013986013986013986,"The text in the image reads:
+
+> Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."
+c09_bottom_m3_para03,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports."""
+c09_bottom_anchor_para07,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+Participants who complete all four  
+modules will receive a certificate by  
+email within two weeks of the final  
+session of the training program."
+c12_thaiwrap_p12_thp10,c12_thaiwrap,gpt56sol,0.06140350877192982,เวอร์ชั่นนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้งานขายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้ เมื่อใช้เครื่องข่ายที่ช้า
+c12_thaiwrap_m3_thp08,c12_thaiwrap,gpt56sol,0.02586206896551724,"เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อม  
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์  
+ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะ  
+ประชาสัมพันธ์แทน"
+c12_thaiwrap_p30_thp12,c12_thaiwrap,gpt56sol,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c09_bottom_m10_para02,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."""
+c09_bottom_p30_para07,c09_bottom,gemini38,0.0,"The text in the image reads:
+
+Participants who complete all four  
+modules will receive a certificate by  
+email within two weeks of the final  
+session of the training program."
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,gpt56sol,0.0,กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน
+c09_bottom_m10_para06,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."""
+c09_bottom_anchor_para05,c09_bottom,gemini38,0.0,"Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c12_thaiwrap_m3_thp00,c12_thaiwrap,gpt56sol,0.0078125,ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ
+c09_bottom_anchor_para01,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting."""
+c12_thaiwrap_p4_thp02,c12_thaiwrap,gpt56sol,0.0,เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การยืนยันตัวตนสองขั้นตอน และตรวจสอบรายชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้ในขณะนี้
+c09_bottom_m10_para03,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports."
+c09_bottom_m10_para09,c09_bottom,gemini38,0.0,"Here is the text from the image:
+
+Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c07_pill_anchor_pill14,c07_pill,gemini38,0.0,"The text in the image is:
+
+**Start free trial**"
+c12_thaiwrap_m10_thp05,c12_thaiwrap,gpt56sol,0.018691588785046728,"ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุก
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ
+สำหรับการโทรระหว่างประเทศ"
+c09_bottom_p12_para10,c09_bottom,glm53flash,0.27941176470588236,"The text in the box reads:
+
+""This version fixes a bug that prevented some users from uploading images larger than ten megabytes""
+
+(There's also text extending just below the box: ""when using a slow network connection."")"
+c09_bottom_m10_para11,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee."""
+c12_thaiwrap_p4_thp11,c12_thaiwrap,gpt56sol,0.0,ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ
+c12_thaiwrap_p30_thp14,c12_thaiwrap,gpt56sol,0.01639344262295082,"ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c09_bottom_p12_para12,c09_bottom,glm53flash,0.0,"""Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day."""
+c09_bottom_p30_para10,c09_bottom,gemini38,0.0,"The text in the image reads:
+
+This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection."
+c09_bottom_m10_para14,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Draft posts are saved every few seconds, so you can close the editor at any time and continue writing later from the same device or another one."""
+c09_bottom_p12_para07,c09_bottom,gemini38,0.0,Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.
+c09_bottom_p4_para06,c09_bottom,gemini38,0.0,"The text inside the box reads:
+
+We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c09_bottom_p30_para02,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data.""
+
+Note that the box appears slightly misaligned — the last two lines of the text extend below the bottom edge of the purple-outlined box."
+c07_pill_m3_pill04,c07_pill,gemini38,0.0,Send to email
+c09_bottom_p4_para06,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."""
+c09_bottom_m10_para13,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."""
+c09_bottom_m10_para06,c09_bottom,gemini38,0.0,"We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted."
+c09_bottom_m3_para03,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+The new dashboard groups  
+related metrics on a single page so  
+that managers can compare  
+weekly trends without switching  
+between several reports."
+c09_bottom_m3_para00,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date."""
+c09_bottom_m10_para13,c09_bottom,gemini38,0.0,"The text in the image reads:
+
+""Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people."""
+c09_bottom_p4_para09,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."""
+c09_bottom_anchor_para01,c09_bottom,gemini38,0.0,This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting.
+c09_bottom_p12_para10,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection."
+c09_bottom_p30_para02,c09_bottom,gemini38,0.0,"The text in the image reads:
+
+To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c09_bottom_m3_para09,c09_bottom,gemini38,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c09_bottom_p12_para05,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."""
+c09_bottom_p4_para07,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.""
+
+Note that the last line appears to be slightly cut off by the bottom edge of the box, but the full sentence is readable."
+c09_bottom_p30_para12,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day."""
+c09_bottom_m10_para02,c09_bottom,gemini38,0.0,"The text inside the box reads:
+
+To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data."
+c09_bottom_p30_para08,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead.""
+
+Note that the box cuts off slightly mid-sentence, but the remaining line ""reception desk instead."" continues below it, completing the message."
+c09_bottom_p12_para12,c09_bottom,gemini38,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c09_bottom_m10_para14,c09_bottom,gemini38,0.0,"The text inside the box reads:
+
+Draft posts are saved every few seconds,  
+so you can close the editor at any time  
+and continue writing later from the same  
+device or another one."
+c09_bottom_p12_para00,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+Your subscription will renew  
+automatically at the end of the billing  
+period unless you cancel at least one day  
+before the renewal date."
+c09_bottom_m10_para11,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee."
+c09_bottom_p4_para07,c09_bottom,gemini38,0.0070921985815602835,"The text in the box reads:
+
+Participants who complete all four  
+modules will receive a certificate by  
+email within two weeks of the final  
+session of the training program"
+c10_thai_p12_th13,c10_thai,glm53flash,0.9285714285714286,"The text in the box reads: **เปลี่ยนรหัสผ่านทุกครั้งเมื่อออกเพื่อความปลอดภัย**
+
+(Translation: ""Change your password every time you log out for security."")"
+c09_bottom_p4_para08,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+The printer on the third floor is being  
+serviced this afternoon, so please send  
+large jobs to the device near the  
+reception desk instead."
+c09_bottom_p12_para05,c09_bottom,gemini38,0.0,"The text in the box reads:
+
+Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls."
+c09_bottom_p30_para12,c09_bottom,gemini38,0.0,Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.
+c09_bottom_m3_para09,c09_bottom,glm53flash,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c09_bottom_p30_para08,c09_bottom,gemini38,0.0,"The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."
+c10_thai_p12_th13,c10_thai,gemini38,0.0,"```json
+[
+  {""box_2d"": [619, 180, 718, 602], ""text"": ""เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย""}
+]
+```"
+c09_bottom_p4_para08,c09_bottom,glm53flash,0.0,"The text in the box reads:
+
+""The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead."""
+c10_thai_m10_th10,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**เพิ่มคำอธิบายให้กับภาพนี้**"
+c10_thai_p30_th07,c10_thai,gemini38,0.0,"ข้อความในกล่องคือ:
+
+**อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ**"
+c10_thai_p30_th03,c10_thai,glm53flash,0.3157894736842105,"The text in the box reads (in Thai):
+
+**รายงานประจำไตรมาสพร้อมให้ความนิเทศเงิน**"
+c10_thai_p4_th02,c10_thai,glm53flash,1.1935483870967742,"The text in the box reads (in Thai):
+
+**เลือกไฟล์เคอร์สังหรับส่งอกน้ำมูก**
+
+Note: This Thai text appears to be somewhat garbled or nonsensical — it looks like it may have been machine-generated or corrupted text, roughly attempting to say something like ""select the course file for sending..."" but it doesn't form a coherent Thai phrase."
+c10_thai_p30_th03,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว**"
+c09_bottom_m3_para00,c09_bottom,gemini38,0.0,"The text inside the box reads:
+
+""Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date."""
+c10_thai_m10_th03,c10_thai,gemini38,0.0,"ข้อความในกรอบคือ:
+
+**รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว**"
+c10_thai_p30_th08,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**"
+c09_bottom_p4_para09,c09_bottom,gemini38,0.0,"Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released."
+c10_thai_p30_th07,c10_thai,glm53flash,1.1875,"The text in the box is in Thai. It reads:
+
+**อย่ากดปุ่มครองข้อมูลค้างอันในเดตะเรนบ**
+
+Note: The text appears to be somewhat garbled or contains typos, as it doesn't form a completely coherent Thai sentence. It roughly attempts to say something like ""Don't press the button to hold data..."" but the words are jumbled or misspelled."
+c10_thai_m10_th10,c10_thai,glm53flash,0.48,"The text in the box reads: **เพิ่มคำอธิบายใใส่กลางพื้นที่วี**
+
+This appears to be Thai text, likely meant to say something like ""เพิ่มคำอธิบายใส่กลางพื้นที่นี้"" which translates to ""Add a description in the middle of this area."""
+c10_thai_p30_th08,c10_thai,glm53flash,1.0,"The text in the box reads (in Thai):
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**
+
+Translation: ""Cannot connect to the printer."""
+c10_thai_p4_th02,c10_thai,gemini38,0.0,"```json
+[
+  {""box_2d"": [360, 345, 455, 659], ""label"": ""เลือกโฟลเดอร์สำหรับส่งออกข้อมูล""}
+]
+```"
+c10_thai_p12_th12,c10_thai,gemini38,0.0,"ข้อความในกล่องสี่เหลี่ยมคือ:
+
+**กรอกชื่อสำหรับพื้นที่ทำงานใหม่**"
+c10_thai_p30_th00,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**กรุณาตรวจสอบเอกสารแนบก่อนส่ง**"
+c10_thai_m10_th03,c10_thai,glm53flash,1.4210526315789473,"The text in the box reads (in Thai):
+
+**รายงานประจำไตรมาสพร้อยให้ความนิเทศ**
+
+This translates roughly to ""Quarterly report, Phroi provides supervision/guidance."""
+c10_thai_m3_th10,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**เพิ่มคำอธิบายให้กับภาพนี้**"
+c10_thai_anchor_th08,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**"
+c10_thai_anchor_th07,c10_thai,gemini38,0.0,"The text in the box is:
+
+**อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ**"
+c10_thai_p12_th06,c10_thai,gemini38,0.0,ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง
+c10_thai_anchor_th14,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์**"
+c10_thai_anchor_th08,c10_thai,glm53flash,1.0,"The text in the box is in Thai:
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**
+
+Translation: ""Cannot connect to the printer"""
+c10_thai_p12_th12,c10_thai,glm53flash,0.6333333333333333,"The text in the box reads (in Thai):
+
+**กรอกข้อความรับพมหำาในผ**
+
+This appears to be Thai text, though it looks slightly garbled — it seems intended to mean something like ""กรอกข้อความรับพันหำาในผ..."" (""Enter the message...""). The last character ""ผ"" is partially cut off at the edge of the box."
+c10_thai_m3_th10,c10_thai,glm53flash,1.76,"The text in the box reads: **เพิ่มคำอธิบายในกลางพื้นที่**
+
+This is Thai, roughly meaning ""Add a description in the middle of the area."""
+c10_thai_p30_th05,c10_thai,gemini38,1.0,"```json
+[
+  {""box_2d"": [230, 463, 314, 688]}
+]
+```"
+c10_thai_p30_th14,c10_thai,gemini38,0.0,ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์
+c10_thai_anchor_th01,c10_thai,gemini38,0.0,"ข้อความในกล่องสี่เหลี่ยมคือ:
+
+**ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ**"
+c10_thai_p4_th06,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง**"
+c10_thai_p4_th09,c10_thai,gemini38,1.0,"```json
+[
+  {""box_2d"": [222, 255, 310, 470]}
+]
+```"
+c10_thai_anchor_th01,c10_thai,glm53flash,1.131578947368421,"The text in the box reads (in Thai):
+
+**ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ**
+
+This translates to English as: **""The system will automatically save changes.""**"
+c10_thai_p4_th04,c10_thai,gemini38,0.0,"The text enclosed in the rectangle is:
+
+การประชุมจะเริ่มในอีกสิบห้านาที"
+c10_thai_anchor_th05,c10_thai,gemini38,0.0,"ข้อความในกรอบคือ:
+
+**คุณได้รับเชิญให้เข้าร่วมโครงการนี้**"
+c10_thai_p4_th05,c10_thai,gemini38,0.0,"```json
+[
+  {""box_2d"": [228, 464, 316, 715], ""text"": ""คุณได้รับเชิญให้เข้าร่วมโครงการนี้""}
+]
+```"
+c10_thai_p4_th13,c10_thai,gemini38,0.0,เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย
+c10_thai_p12_th00,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**กรุณาตรวจสอบเอกสารแนบก่อนส่ง**"
+c10_thai_p4_th08,c10_thai,gemini38,1.3055555555555556,"The text in the box is in Thai:
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**
+
+*(Translation: Unable to connect to the printer)*"
+c10_thai_p30_th13,c10_thai,gemini38,0.0,"```json
+[
+  {""box_2d"": [619, 180, 718, 584], ""label"": ""เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย""}
+]
+```"
+c10_thai_p30_th09,c10_thai,gemini38,0.0,"```json
+[
+  {""box_2d"": [220, 255, 310, 445], ""label"": ""แตะเพื่อเปิดปฏิทินที่แชร์ไว้""}
+]
+```"
+c12_thaiwrap_m3_thp04,c12_thaiwrap,gemini38,0.10091743119266056,"ข้อความในภาพมีดังนี้:
+
+> ไฟล์ที่แชร์ให้พันธมิตรภายนอกจะถูกเก็บ  
+> ไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบ  
+> โดยอัตโนมัติสามสิบวันหลังจากปิด  
+> โครงการ"
+c10_thai_p12_th14,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์**"
+c10_thai_p30_th02,c10_thai,gemini38,1.0,"```html
+<!DOCTYPE html>
+<html lang=""th"">
+<head>
+  <meta charset=""UTF-8"">
+  <title>Button</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #ffffff;
+      font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, sans-serif;
+    }
+
+    .btn {
+      background-color: transparent;
+      border: 1px solid #4a1d82;
+      color: #1a1a2e;
+      padding: 10px 24px;
+      font-size: 16px;
+      line-height: 1.5;
+      cursor: pointer;
+      border-radius: 0;
+      outline: none;
+      white-space: nowrap;
+    }
+
+    .btn:hover {
+      background-color: rgba(74, 29, 130, 0.04);
+    }
+  </style>
+</head>
+<body>
+
+  <button class=""btn"">เลือกโฟลเดอร์สำหรับส่งออกข้อมูล</button>
+
+</body>
+</html>
+```"
+c10_thai_p12_th06,c10_thai,glm53flash,0.6578947368421053,"The text in the box is in Thai. It reads approximately:
+
+**""คลิกที่นี่จะหนดอายุการใช้งานสั่งซื้อได้""**
+
+(There appears to be some overlapping/doubled text rendering in the image, likely reading: ""คลิกที่นี่เพื่อกำหนดอายุการใช้งานสั่งซื้อได้"" — which translates roughly to *""Click here to set the validity/expiration period for the order.""*)"
+c10_thai_p30_th10,c10_thai,gemini38,0.0,"ข้อความในภาพคือ:
+
+**เพิ่มคำอธิบายให้กับภาพนี้**"
+c12_thaiwrap_p4_thp13,c12_thaiwrap,gemini38,0.02040816326530612,"ข้อความในภาพคือ:
+
+คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุป  
+ผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้  
+ตอบอย่างน้อยห้าคนเท่านั้น"
+c10_thai_anchor_th14,c10_thai,glm53flash,1.0,"The text in the box reads (in Thai):
+
+**ห้องประชุมสำหรับของตัวงานไมโครซอฟท์**
+
+Translation: ""Meeting room for the Microsoft work item/office"" (roughly, ""Conference room for Microsoft work"")"
+c10_thai_p30_th14,c10_thai,glm53flash,0.375,"The text in the box is in Thai:
+
+**""ห้องประชุมสำหรับของค่องหน้าโรงสีสีปกห์""**
+
+(Note: Some of the Thai text appears slightly garbled or may contain typos, as it doesn't form a fully standard phrase. Roughly, it translates to something like ""Meeting room for [the] front of the rice mill..."")"
+c12_thaiwrap_p30_thp03,c12_thaiwrap,gemini38,0.050359712230215826,"ข้อความในภาพ (ภาษาไทย):
+
+แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่
+เกี่ยวข้องกันในหน้าเดียว ผู้จัดการจึง
+เปรียบเทียบแนวโน้มรายสัปดาห์ได้โดย
+ไม่ต้องสลับไปมาระหว่างรายงานหลาย
+ฉบับ"
+c12_thaiwrap_p30_thp01,c12_thaiwrap,gemini38,0.017699115044247787,"ข้อความในภาพมีดังนี้:
+
+รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส
+ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c04_gibberish_p12_en00,c04_gibberish,glm53flash,0.6153846153846154,"The text in the box is scrambled. Unscrambled, it reads:
+
+**""Please review the detached presentation.""**
+
+- ""Aelspe erewiv"" → ""Please review""
+- ""het"" → ""the""
+- ""daetacht"" → ""detached""
+- ""itsteaonernp"" → ""presentation"""
+c12_thaiwrap_p4_thp00,c12_thaiwrap,gemini38,0.0234375,"ข้อความในภาพคือ:
+
+ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ  
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ  
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ  
+อายุ"
+c12_thaiwrap_p4_thp01,c12_thaiwrap,gemini38,0.017699115044247787,"ข้อความในภาพคือ:
+
+รายงานฉบับนี้สรุปผลประกอบการรายไตรมาส
+ของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่
+ต้องติดตามก่อนการประชุมครั้งถัดไป"
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,gemini38,0.06557377049180328,"ข้อความในภาพระบุว่า:
+
+> ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม  
+> บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ  
+> นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ"
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,gemini38,0.01639344262295082,"ข้อความในภาพมีดังนี้ครับ:
+
+ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_p30_thp13,c12_thaiwrap,gemini38,0.25510204081632654,คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้
+c10_thai_p30_th10,c10_thai,glm53flash,0.68,The text in the box reads: **เพิ่มกล่องข้อความให้ฉันทพจับ**
+c10_thai_anchor_th07,c10_thai,glm53flash,1.90625,"The text in the box is in Thai. It reads:
+
+**อย่าลืมคลิกรันข้อมูลหลังอัปเดตระบบ**
+
+This translates roughly to: ""Don't forget to click/run the data after updating the system."" (The text appears slightly garbled or rendered with odd character spacing, but this is the closest reading.)"
+c10_thai_p30_th00,c10_thai,glm53flash,8.0,"The text in the box reads (in Thai):
+
+**กฤษณาศราวลอบนเกศารามนั้นด้อนไส้ง**
+
+Note: The text appears to extend beyond the right edge of the box, and the rendering is somewhat distorted, so some characters are difficult to read with certainty. It may be a stylized or garbled rendering of a Thai phrase."
+c12_thaiwrap_m3_thp13,c12_thaiwrap,gemini38,0.0,"ข้อความในกรอบคือ:
+
+**คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น**"
+c12_thaiwrap_p30_thp07,c12_thaiwrap,gemini38,0.28703703703703703,"ข้อความในกรอบสี่เหลี่ยมคือ:
+
+**ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบ**  
+**ประกาศนียบัตรทางอีเมลภายในสองสัปดาห์**"
+c10_thai_anchor_th05,c10_thai,glm53flash,1.1176470588235294,"The text in the box reads (in Thai): **คุณได้รับข้อความนี้จากใคร** — which means ""Who did you receive this message from?"""
+c12_thaiwrap_p12_thp11,c12_thaiwrap,gemini38,0.01639344262295082,"ข้อความในภาพคือ:
+
+ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม
+บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ
+นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ"
+c12_thaiwrap_m3_thp06,c12_thaiwrap,gemini38,0.015748031496062992,"ข้อความในภาพคือ:
+
+เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่อ
+อธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร
+เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูล
+ได้อย่างไร"
+c10_thai_p4_th13,c10_thai,glm53flash,1.3571428571428572,"The text in the box reads (in Thai):
+
+**เปลี่ยนรหัสผ่านทุกครั้งเมื่อออกเพื่อความปลอดภัย**
+
+Translation: ""Change your password every time you log out for security."""
+c12_thaiwrap_p4_thp08,c12_thaiwrap,gemini38,0.02586206896551724,"เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อม
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์
+ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะ
+ประชาสัมพันธ์แทน"
+c12_thaiwrap_p4_thp10,c12_thaiwrap,gemini38,0.07017543859649122,"ข้อความในกล่องระบุว่า:
+
+> เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่  
+> สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้  
+> เมื่อใช้เครือข่ายที่ช้า"
+c12_thaiwrap_p12_thp05,c12_thaiwrap,gemini38,0.018691588785046728,"ข้อความในภาพคือ:
+
+ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุก
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ
+สำหรับการโทรระหว่างประเทศ"
+c10_thai_p4_th04,c10_thai,glm53flash,1.3225806451612903,"The text in the box reads (in Thai): **การประชุมจะเริ่มในอีกสักหน่อยที**
+
+Translation: ""The meeting will start in a little while."""
+c12_thaiwrap_m10_thp10,c12_thaiwrap,gemini38,0.017543859649122806,"ข้อความในภาพมีดังนี้:
+
+> เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้เมื่อใช้เครือข่ายที่ช้า"
+c10_thai_p30_th05,c10_thai,glm53flash,0.7058823529411765,"The text in the box is in Thai. It appears to read: **""คุณโคลั้มเชยให้เห็นว่าเป็นโฆษณ์""**
+
+Note that the text seems somewhat garbled or may contain OCR-style errors, as it doesn't form a perfectly clear Thai sentence. It roughly translates to something like ""You... show that it is an advertisement,"" but the wording appears to be distorted or a rendering of unclear source text."
+c12_thaiwrap_p4_thp07,c12_thaiwrap,gemini38,0.046296296296296294,"ข้อความในภาพคือ:
+
+**ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบ  
+ประกาศนียบัตรทางอีเมลภายในสองสัปดาห์  
+หลังจากอบรมครั้งสุดท้าย**"
+c12_thaiwrap_p4_thp14,c12_thaiwrap,gemini38,0.01639344262295082,"ข้อความในภาพมีดังนี้:
+
+ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,gemini38,0.0859375,"ข้อความในภาพระบุว่า:
+
+> ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ  
+> เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ  
+> ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ  
+> อายุ"
+c12_thaiwrap_p12_thp10,c12_thaiwrap,gemini38,0.017543859649122806,"ข้อความในภาพคือ:
+
+> เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้เมื่อใช้เครือข่ายที่ช้า"
+c10_thai_p4_th09,c10_thai,glm53flash,1.7142857142857142,"The text in the box is in Thai:
+
+**แผนผังโดยลำดับศักดิ์ที่เบราไท่**
+
+This roughly translates to ""Diagram by order of rank/precedence at Bera Thai"" (or similar), meaning a chart or diagram arranged by hierarchical rank."
+c10_thai_p4_th08,c10_thai,glm53flash,1.0,"The text in the box reads:
+
+**ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้**
+
+This is Thai, which translates to: **""Cannot connect to the printer""**"
+c12_thaiwrap_p12_thp00,c12_thaiwrap,gemini38,0.0234375,"ข้อความในภาพระบุว่า:
+
+ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ  
+เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ  
+ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ  
+อายุ"
+c12_thaiwrap_p4_thp02,c12_thaiwrap,gemini38,0.0,"ข้อความในภาพคือ:
+
+**เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การยืนยันตัวตนสองขั้นตอน และตรวจสอบรายชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้ในขณะนี้**"
+c12_thaiwrap_m3_thp00,c12_thaiwrap,gemini38,0.0859375,"ข้อความในภาพคือ:
+
+> ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติ  
+> เมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะ  
+> ยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่อ  
+> อายุ"
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,gemini38,0.0784313725490196,"ข้อความในภาพระบุว่า:
+
+> กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่  
+> อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับ  
+> เมื่อออกจากอาคารในแต่ละวัน"
+c10_thai_p30_th13,c10_thai,glm53flash,0.19047619047619047,"The text in the box reads:
+
+**เปลี่ยนรหัสผ่านทุกคราเนื่องเพื่อความปลอดภัย**
+
+This is Thai text. Note that it appears to contain a slight typo — it likely should read ""เปลี่ยนรหัสผ่านทุกครั้งเพื่อความปลอดภัย"" which means ""Change your password every time for security."""
+c12_thaiwrap_m10_thp05,c12_thaiwrap,gemini38,0.018691588785046728,"ข้อความในกรอบคือ:
+
+ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุก  
+รายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศ  
+สำหรับการโทรระหว่างประเทศ"
+c12_thaiwrap_m3_thp08,c12_thaiwrap,gemini38,0.02586206896551724,"ข้อความในภาพคือ:
+
+เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อม  
+บำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์  
+ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะ  
+ประชาสัมพันธ์แทน"
+c10_thai_p12_th00,c10_thai,glm53flash,0.2857142857142857,"The text in the box reads (in Thai): **กรุณาตรวจสอบเทคสารเมนท์อีกครั้ง**
+
+It appears to be a message asking to check something again, though the text seems slightly garbled — likely intended to say something like ""กรุณาตรวจสอบเอกสารอีกครั้ง"" (Please check the document again) or a similar phrase such as ""please check the text/attachment once more."""
+c12_thaiwrap_p4_thp11,c12_thaiwrap,gemini38,0.06557377049180328,"ข้อความในภาพระบุว่า:
+
+> ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อม  
+> บำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถ  
+> นำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ"
+c10_thai_p4_th05,c10_thai,glm53flash,1.3529411764705883,"The text in the box is in Thai and reads:
+
+**คุณไม่ได้แนบรูปภาพให้ฉันจึงไม่ทราบ**
+
+Translation: ""You did not attach an image, so I do not know."""
+c12_thaiwrap_p30_thp12,c12_thaiwrap,gemini38,0.17647058823529413,"ข้อความในภาพคือ:
+
+> **กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่**  
+> **อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับ**  
+> **เมื่อออกจากอาคารในแต่ละวัน**"
+c10_thai_p4_th06,c10_thai,glm53flash,0.5,"The text in the box appears to be Thai, reading: **""คลิกที่จะหมดอายุภายในบัตรส่วนภาษี""**
+
+However, some characters in the image appear slightly distorted or overlapping, which makes an exact reading a bit uncertain. If you can share a clearer version of the image, I can give a more accurate transcription."
+c12_thaiwrap_p30_thp14,c12_thaiwrap,gemini38,0.01639344262295082,"ข้อความในภาพมีดังนี้:
+
+ระบบจะบันทึกฉบับร่างทุกสองสามวินาที  
+คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมา  
+เขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่น  
+ได้ในภายหลัง"
+c10_thai_p30_th09,c10_thai,glm53flash,1.4285714285714286,"The text in the box reads (in Thai): **แตะเพื่อปิดป๊อบอัพที่เปิดไว้**
+
+Translation: ""Tap to close the pop-up that was opened."""
+c10_thai_p30_th02,c10_thai,glm53flash,0.25806451612903225,"The text in the box is in Thai:
+
+**เลื่อกไฟลเดอร์สำหรับสงขอกน้ข้มูล**
+
+This appears to be somewhat garbled Thai, likely intended to say something like ""เลือกไฟลเดอร์สำหรับส่งข้อความ"" which would translate to **""Select folder for sending messages""** (choose a folder for sending messages)."
+c10_thai_p12_th14,c10_thai,glm53flash,0.625,"The text in the box reads (in Thai):
+
+**ห้องประชุมสำาหรับกองตรวจงานโอลสินค้าห**
+
+Note: The text appears to be slightly garbled Thai, likely intended to say something like ""ห้องประชุมสำหรับกองตรวจงาน..."" (""Meeting room for the inspection team...""), but the text seems cut off or contains OCR-style errors at the end."
+c12_thaiwrap_anchor_thp14,c12_thaiwrap,glm53flash,0.5081967213114754,ระบบจะนับทุกอันรวงทุกส่วนมวลที่คุณซื้อด้วยเงินโดยตรงเป็นเลือกบาเยื่อนต่อวาจุบรกนเดินหรือเครื่องอื่นโดยเงาหล่ง
+c12_thaiwrap_p4_thp13,c12_thaiwrap,glm53flash,0.9897959183673469,"The text in the box reads (in Thai):
+
+**คำถามแบบสั้นจะว่าไม่ประชุมวัน และรับผลในเรื่องการระบายน้ำได้อย่างไรบ้างด้วยความน่านที่ยัง**
+
+Translation (roughly): ""The short answer is that there will be no meeting... and how water drainage is affected...""
+
+Note: The text appears to be cut off at the bottom (partially clipped), so the last line may be incomplete or distorted."
+c12_thaiwrap_p4_thp00,c12_thaiwrap,glm53flash,0.734375,"The text in the box (in Thai) reads:
+
+ระบบช่วยตอบคำถามสินค้าสามารถโต้ตอบได้เพื่อไม่สู้หัวข้อของการสนทนาในกลุ่ม เว็บแอปคุณสามารถสร้างหัวข้อย่อยของหัวข้อหลักของคุณ"
+c12_thaiwrap_p30_thp01,c12_thaiwrap,glm53flash,0.584070796460177,"The text reads (in Thai):
+
+""รายงานฉบับนี้สรุปผลการดำเนินการของทีมากประจำบุคคล และระบุข้อค้นพบหลัก โดยข้อความส่วนที่เหลือถูกตัดทอนไว้""
+
+**Translation:** ""This report summarizes the operations of the personal team and identifies key findings; the remaining text has been truncated.""
+
+Note: The text appears to be partially cut off or incomplete, as the sentence seems truncated mid-phrase."
+c12_thaiwrap_anchor_thp11,c12_thaiwrap,glm53flash,0.639344262295082,"The text in the box reads (in Thai):
+
+""ห้องสุขุม-ปลาดิศว์ งานปกในวาร์กถกเพื่อช่วยบ้าเมือง หนังสือที่คิดรวบรวมหลายคนในวงนักสำมะรดเป้าหมายในรั้วข้าราชการไปให้ถึงประชา""
+
+**Note:** The image resolution is quite low, making the Thai text blurry and difficult to read with full accuracy. Some characters may be misread. If you can provide a higher-resolution image, I can transcribe it more accurately."
+c12_thaiwrap_p4_thp01,c12_thaiwrap,glm53flash,0.6283185840707964,"The text in the box reads (in Thai):
+
+""รายงานฉบับนี้ส่งผลประกอบการถอนการลงทุนตามโครงการถอนการลงทุนและระบุข้อมูลลักษณะที่ต้องดำเนินการตามที่มาตรฐานนี้กำหนดให้""
+
+Rough English translation: ""This report is provided to support the withdrawal of investment under the investment withdrawal project and specifies the characteristics of the information that must be performed as required by this standard."""
+c12_thaiwrap_anchor_thp00,c12_thaiwrap,glm53flash,0.3984375,"The text in the box reads (in Thai):
+
+""ระบบจะต้องยากราลัยคลามทั้งโดยอัตโนมัติ เมื่อสิ้นสุดรอบการเรียกในกำแงน เว้นแต่ผู้ใช้ยกเลิกค่างหน้าย่านอย่างชัดแจ้งก่อนหน้านั้นโดยอายุ"""
+c12_thaiwrap_m3_thp04,c12_thaiwrap,glm53flash,0.963302752293578,"The text in the box is in Thai. It reads:
+
+**โฟล์ที่แช่ให้พับบริเวณขอบจะดูเกินไป ย้ำในโพลเอสเรียกว่าหงหา และจะดูกลม โดยชั้นในมีลักษณบวมหลืดจากเป็น โครงการ**
+
+Translation (approximate): ""The parts that are soaked and folded at the edges will look excessive. This is called 'hong ha' in the papyrus, and it will look round. The inner layers have a swollen, peeling appearance — project.""
+
+**Note:** The text appears to be somewhat garbled or contains OCR artifacts — several words (like ""หงหา"" and ""หลืด"") aren't standard Thai words, so the meaning is unclear. It may have been extracted from a scanned document imperfectly. If you have the original source, I could help clarify the intended meaning."
+c12_thaiwrap_m3_thp06,c12_thaiwrap,glm53flash,0.984251968503937,"The text in the box (in Thai) reads:
+
+เราได้ใช้ระบบในยากภาพนี้สำหรับวัตถุประสงค์ของการใช้งานทุกครั้งที่เกิดขึ้นได้เกิดในรูปแบบที่เกิด และคุณจะได้ส่งข้อมูลได้อย่างไร
+
+(Note: The text appears to contain some garbled/typo characters, as the sentence is not entirely grammatical Thai — it roughly translates to: ""We have used this system for all purposes of use that occur, and how will you send the data."")"
+c12_thaiwrap_p12_thp11,c12_thaiwrap,glm53flash,0.7377049180327869,"The text in the box reads:
+
+**ห้องสมุดจะเปิดให้จองที่นั่งไว้ล่วงหน้าได้เพื่อช่วยบรรเทา หรือขจัดความรกหนาแน่นในช่วงนนสนามราชนี้ที่นั่งในช่วงบ่ายในช่วงที่เดียวไม่มีการจอง**"
+c12_thaiwrap_m3_thp13,c12_thaiwrap,glm53flash,0.5714285714285714,"The text in the box reads (in Thai):
+
+""คำตอบแบบสั้นจะวจะไม่ประุ่ว้ความ และละเป็นผลให้แจ้ให้คำวรวเทพะคำตอบที่มีคุณภาพชั้นของคำนั้น""
+
+This text appears to be somewhat garbled or corrupted Thai — it contains some unusual characters and doesn't form a fully coherent sentence. It seems intended to say something like: short answers should not summarize [content], and producing better results leads to higher-quality answers."
+c12_thaiwrap_p30_thp07,c12_thaiwrap,glm53flash,1.0,"The text in the box reads (in Thai):
+
+**คุณจำเป็นที่จะต้องสร้างลิงก์เรียบร้อยแล้วโปรดกลับมาที่หน้าถัดไปในลำดับขั้นตอนนี้**
+
+Translation: ""You need to create the link first; once done, please return to the next page in this step sequence.""
+
+Below the box, there is also text that says: **หลังจากการอนุมัติลิงก์จะถูกสร้าง** — ""After approval, the link will be created."""
+c12_thaiwrap_p4_thp10,c12_thaiwrap,glm53flash,2.1140350877192984,"The text in the box reads (in Thai):
+
+**เวจรับนี้แนะนำตรอบสามารถทำให้ผู้ใช้มีอิสระในการควบคุมได้คล้ายกับมีเครื่องมือในการแสดงตัวเองของคริสตัลที่เรียกว่าการใช้หลายช่องทาง**
+
+However, I should note that this image appears to be very low resolution or blurry, making the Thai text difficult to read with full accuracy. If you could provide a clearer version of the image, I'd be happy to transcribe it more precisely."
+c12_thaiwrap_p4_thp08,c12_thaiwrap,glm53flash,0.3620689655172414,"The text in the box reads (in Thai):
+
+**เครื่องพิมพ์ข้อมลออยู่ระหว่างการซ่อมบำรุงในช่วงนี้ กรุณาถองเเผนพิมพ์งานอกไหญ่เป็ยเครื่องพิมพ์ได้เป็นประจำพมพ์เเกน**
+
+Note: The text appears to contain some typos/garbled spelling. It seems intended to say something like: ""เครื่องพิมพ์ข้อมูลอยู่ระหว่างการซ่อมบำรุงในช่วงนี้ กรุณาถอดแผนพิมพ์งานใหญ่เป็นเครื่องพิมพ์ได้เป็นประจำ พิมพ์แกน"" — roughly: ""The printer is under maintenance during this period. Please remove the large print plan..."""
+c12_thaiwrap_m10_thp10,c12_thaiwrap,glm53flash,0.7982456140350878,"The text in the box reads (in Thai):
+
+""เวจรับนี้ไม่อนุญาตให้ใช้โปรแกรม""
+
+Actually, the text says:
+
+""เว็บรับนี้ไม่อนุญาตให้ใช้โปรแกรม""
+
+Wait — reading it more carefully, it is:
+
+""เวจรับนี้เนี่ยอนุญาตให้ใช้โปรแกรม""
+
+The exact text shown is:
+
+**""เวจรับนี้เนี่ยไม่อนุญาตให้ใช้โปรแกรม""**
+
+Hmm, looking at the characters precisely, the text is:
+
+""เวจรับนี้เนี่ยอนุญาตให้ใช้โปรแกรม""
+
+Let me settle on what is clearly visible:
+
+**""เวจรับนี้เนี่ยไม่อนุญาตให้ใช้โปรแกรม""** — meaning roughly ""This website does not allow the use of programs."""
+c12_thaiwrap_p30_thp13,c12_thaiwrap,glm53flash,0.9897959183673469,"The text in the box reads:
+
+**คำถามแบบสั้นจะวะ: โปรฯ บัณฑิต และสรุปผลที่พ้นรัชกิจจะรวบเวฟ - คุณทำที่นี่ผู้ด้อยอำนาจหน้าที่นี้**
+
+This appears to be Thai text, though it reads as somewhat garbled/ungrammatical — it roughly references ""short-answer questions: the Project (บัณฑิต) and a summary of results beyond..."" etc. The text may contain OCR-style errors, as the phrasing doesn't form coherent natural Thai."
+c12_thaiwrap_p4_thp14,c12_thaiwrap,glm53flash,0.5327868852459017,"The text in the box reads (in Thai):
+
+""ระบบจะนับทุกอันจร้าทุกส่วนมวลที่คุณซื้อด้วยเงินโดตที่เป็นเลขล้บมาเงินย่อมต่อวากย์ประเด็นหรือเครื่องอื่นโดยเหมาะสม""
+
+Note: The text appears somewhat garbled or may contain typos/unusual words, so the exact reading of a few characters is uncertain."
+c12_thaiwrap_p30_thp03,c12_thaiwrap,glm53flash,1.474820143884892,"The text in the box (in Thai) reads:
+
+แต่ขอรักให้ม่อกถึงหัวใจ ที่
+เคียวช้องไว้ในห้วงเวลา ช้ำอดกล่าว จง
+แรยงเทยมแม่นาในเราไดโอทไดเลย
+ไม่ต้องสลัดมันเปล่าระทางระยะเวลา
+
+**Note:** The Thai text appears somewhat garbled/unclear, so this transcription may contain errors. It seems to be a poetic or lyrical passage, but the rendering is not entirely accurate due to image quality."
+c12_thaiwrap_p12_thp05,c12_thaiwrap,glm53flash,0.6355140186915887,"The text in the box reads (in Thai):
+
+**""กฎบัตรแห่งพรรค โปรดตรวจสอบว่าได้ยึดถือรายละลองด้วย และหาเงินสนุกด้วยหลักประเก็ต""**
+
+Note: The image resolution makes some words difficult to read with certainty, but it appears to be Thai text referencing party regulations/rules and checking compliance with them."
+c12_thaiwrap_p30_thp12,c12_thaiwrap,glm53flash,0.803921568627451,"The text in the box reads:
+
+**กรุณาคลิกข้างให้เพื่อนบนกล่องเวลาที่อยู่เหนือหัว และพิมพ์ข้อความที่ต้องการเพื่อออกาาเวลาในแต่ละวัน**
+
+(Note: The text appears slightly cut off/overlapping with the text below the box, which continues ""เพื่อออกาาเวลาในแต่ละวัน"" — likely intended to mean something like ""Please click next to friends on the time box above their head, and type the message you want to send for each day."")"
+c12_thaiwrap_p12_thp10,c12_thaiwrap,glm53flash,0.7807017543859649,"The text in the box reads:
+
+""เวอร์ชันนี้ใช้ข้อความที่ทำให้ใช้งานง่ายสำหรับเริ่มใช้ เดิมพันสูงและอาจมีอัตราคืนกลับสูง (จำนวนเงินที่ได้รับจากการเดิมพัน)""
+
+Translation: ""This version uses text that is easy to use for getting started. High stakes and may have a high return rate (the amount received from betting).""
+
+There is also additional text below the box that reads: ""เปิดใช้งานเดิมพันที่กำหนด"" (""Activate the specified betting"")."
+c12_thaiwrap_p4_thp07,c12_thaiwrap,glm53flash,0.5277777777777778,"The text in the box reads (in Thai):
+
+""คุ้มค่าจ้างทนายขอครมทั้งสินเรียบโดยไม่รับในประกาศนียบัตรราชวงเพิ่มเลกาในลองจิงดาห์หลังจากครมว่ารับน้องจัดความ""
+
+However, I should note that the text appears somewhat garbled and doesn't form a fully coherent Thai sentence — some words seem jumbled or nonsensical, likely due to image generation artifacts. The general gist seems to involve hiring a lawyer and issues related to a certificate/announcement."
+c12_thaiwrap_anchor_thp12,c12_thaiwrap,glm53flash,0.9313725490196079,"The text in the box is in Thai and reads:
+
+**กรุณาคลิกปุ่มให้เห็นตัวเลขสองตัวที่อยู่ในพื้นที่ และสังเกตว่าจะถูกคัดออกรบเมื่อออกจากาาางในแต่ละร้น**
+
+Roughly translated, it means: ""Please click the button to see two numbers in the area, and observe that [they] will be removed when exiting the frame at each level."" (Note: the text appears to contain some typos/garbled characters, such as ""จากาาาง"" and ""แต่ละร้น"".)"
+c12_thaiwrap_m10_thp05,c12_thaiwrap,glm53flash,1.5327102803738317,"The text in the box reads (in Thai):
+
+**ก่อนดำเนินพิธี โปรดตรวจสอบว่าท่านมุ่งหมายราชการงานวัน และเหมาะสมกับตำแหน่งประเภทคำถวายสัตย์**
+
+A rough translation: ""Before proceeding with the ceremony, please check that your intent aligns with the official duties of the day and is appropriate for the type of oath-taking position."""
+c12_thaiwrap_p4_thp02,c12_thaiwrap,glm53flash,0.18548387096774194,"The text in the box reads:
+
+""เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การยืนยันตัวตนสองชั้นด้วย และตรวจสอบรายชื่ออุปกรณ์ที่เคยเข้าใช้งานของคุณได้ในหน้านี้""
+
+**Translation:** ""For your account's security, please enable two-factor authentication and review the list of devices that have accessed your account on this page."""
+c12_thaiwrap_p12_thp00,c12_thaiwrap,glm53flash,0.78125,"The text in the box is in Thai. It reads:
+
+**""ระบบช่วยตอบทุกคำถามส่งสารหรือไข้อยู่ไม่มีที่ เป็นสิ่งสำคัญของการเรียนรู้ทุกแห่งเรียน ร่วมกับครูวชายกลัดสิ่งทหน่ายกับข้องในทุกวันด้วยตัวเอง""**
+
+The image quality makes some characters slightly ambiguous, but this appears to be a passage about a system for answering questions — roughly translating to something like: ""A system that helps answer all questions and doubts... is an important part of learning everywhere, learning together with teachers..."" The text seems somewhat garbled or low-resolution, so the transcription may not be perfectly accurate."
+c12_thaiwrap_m3_thp00,c12_thaiwrap,glm53flash,0.8046875,"The text in the box reads (in Thai):
+
+""ระบบนี้ช่องทางการสื่อสารภายในโรงพยาบาล ไม่อนุญาตให้การเข้าถึงภายนอก ร่วมกับศูนย์ขยายเครือข่ายหลายสาขาของพื้นที่ชนบทห่างไกลอยู่"""
+c12_thaiwrap_m3_thp08,c12_thaiwrap,glm53flash,0.9310344827586207,"The text in the box reads (in Thai):
+
+เกร็ดความรู้เล็กๆอาจุ๊ะๆช่วงการรับอบรมนั้นเชื่อวนนี้ กรุมคำถามเพจของเด็กๆหลายๆเป็ยคำถามที่ครูๆประจำฟิฟเรียกทัน
+
+Note: The image contains some Thai text that appears to be slightly garbled or contains spelling variations. A closer reading suggests it's a note about training tips (""เกร็ดความรู้"") related to education for young children (""เด็กๆ"") and questions teachers have, but some characters in the text are unclear or appear to be typos, so the exact meaning may differ slightly."
+c12_thaiwrap_p30_thp14,c12_thaiwrap,glm53flash,1.8114754098360655,"The text in the box reads:
+
+**ระบบจะบันทึกบันทึกข้อความวิกิคุณจะปลดวิกิโดยด้านและกลับมาเข้าเมื่อความปรกติเดินหรือเครื่องถูกโดในทางหลัง**
+
+Note: This appears to be Thai text that is somewhat garbled or nonsensical — the words don't form a coherent, meaningful sentence. It looks like possibly machine-generated or corrupted text mixing Thai vocabulary together."
+c12_thaiwrap_p4_thp11,c12_thaiwrap,glm53flash,1.319672131147541,"The text in the box reads (in Thai):
+
+**ห้องสมุดจะปฏิบัติงานปฏิบัติการเพื่อช่วยบริการ หรือสนับสนุนหน่วยงานในวันเสาร์กรณีมีงานเกินรับได้เมื่อมีคำขอ**
+
+This translates roughly to: ""The library will perform operational tasks to help or support units on Saturdays in cases where the workload exceeds what can be handled, when there is a request.""
+
+Note: The last line appears to extend slightly beyond the box border."
+c07_pill_corner_pill10,c07_pill,glm53flash,0.0,The text in the box reads: **Sort by field**

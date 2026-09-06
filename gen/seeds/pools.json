@@ -1,0 +1,266 @@
+{
+  "P1_en_frames": [
+    {
+      "frame": "Please review the attached",
+      "short": "file",
+      "medium": "document",
+      "long": "presentation",
+      "label": "Settings"
+    },
+    {
+      "frame": "Click here to download the",
+      "short": "app",
+      "medium": "report",
+      "long": "spreadsheet",
+      "label": "Cancel"
+    },
+    {
+      "frame": "Your changes have been saved to the",
+      "short": "log",
+      "medium": "server",
+      "long": "repository",
+      "label": "Export"
+    },
+    {
+      "frame": "Select a folder to export your",
+      "short": "data",
+      "medium": "images",
+      "long": "recordings",
+      "label": "Delete"
+    },
+    {
+      "frame": "The meeting notes are available in the",
+      "short": "wiki",
+      "medium": "archive",
+      "long": "dashboard",
+      "label": "Refresh"
+    },
+    {
+      "frame": "Enter a name for the new",
+      "short": "tag",
+      "medium": "folder",
+      "long": "workspace",
+      "label": "Search"
+    },
+    {
+      "frame": "You have been added to the",
+      "short": "team",
+      "medium": "project",
+      "long": "organization",
+      "label": "Preview"
+    },
+    {
+      "frame": "Drag the image into the",
+      "short": "box",
+      "medium": "editor",
+      "long": "timeline",
+      "label": "Submit"
+    },
+    {
+      "frame": "This link will expire after the",
+      "short": "day",
+      "medium": "session",
+      "long": "conference",
+      "label": "Confirm"
+    },
+    {
+      "frame": "Remember to back up your",
+      "short": "keys",
+      "medium": "photos",
+      "long": "documents",
+      "label": "Upload"
+    },
+    {
+      "frame": "Choose a theme for your",
+      "short": "app",
+      "medium": "website",
+      "long": "newsletter",
+      "label": "Profile"
+    },
+    {
+      "frame": "We could not connect to the",
+      "short": "hub",
+      "medium": "printer",
+      "long": "database",
+      "label": "Restart"
+    },
+    {
+      "frame": "Tap to open the shared",
+      "short": "map",
+      "medium": "gallery",
+      "long": "calendar",
+      "label": "Options"
+    },
+    {
+      "frame": "Add a caption to this",
+      "short": "clip",
+      "medium": "picture",
+      "long": "screenshot",
+      "label": "Publish"
+    },
+    {
+      "frame": "Your order will ship from our",
+      "short": "shop",
+      "medium": "office",
+      "long": "warehouse",
+      "label": "Browse"
+    }
+  ],
+  "P2_en_pill": [
+    "Payment method",
+    "Download all",
+    "View all",
+    "Mark as read",
+    "Send to email",
+    "Save and upload",
+    "Copy to clipboard",
+    "Reply to thread",
+    "Show password",
+    "Open in a new panel",
+    "Sort by field",
+    "Export and send",
+    "Pin to dashboard",
+    "Skip this level",
+    "Start free trial"
+  ],
+  "P3_en_paragraphs": [
+    "Your subscription will renew automatically at the end of the billing period unless you cancel at least one day before the renewal date.",
+    "This report summarizes the quarterly results for the regional sales teams and highlights the accounts that need follow-up before the next review meeting.",
+    "To keep your account secure, enable two-factor authentication and review the list of devices that currently have access to your data.",
+    "The new dashboard groups related metrics on a single page so that managers can compare weekly trends without switching between several reports.",
+    "Files shared with external partners are stored in a separate folder and are removed automatically thirty days after the project has been closed.",
+    "Before submitting the form, check that every address is complete and that the contact number includes the country code for international calls.",
+    "We updated the privacy policy to describe how usage data is collected, how long it is kept, and how you can request that it be deleted.",
+    "Participants who complete all four modules will receive a certificate by email within two weeks of the final session of the training program.",
+    "The printer on the third floor is being serviced this afternoon, so please send large jobs to the device near the reception desk instead.",
+    "Meeting rooms can be booked up to four weeks in advance, and bookings that are not confirmed one hour before the start time are released.",
+    "This version fixes a bug that prevented some users from uploading images larger than ten megabytes when using a slow network connection.",
+    "The library will close early on Friday for maintenance, and any items due that day can be returned on Monday without a late fee.",
+    "Please keep your badge visible at all times while on site and return it to the front desk when you leave the building for the day.",
+    "Survey responses are anonymous, and the summary shared with the team will only include results from questions answered by at least five people.",
+    "Draft posts are saved every few seconds, so you can close the editor at any time and continue writing later from the same device or another one."
+  ],
+  "P4_th_single": [
+    "กรุณาตรวจสอบเอกสารแนบก่อนส่ง",
+    "ระบบจะบันทึกการเปลี่ยนแปลงโดยอัตโนมัติ",
+    "เลือกโฟลเดอร์สำหรับส่งออกข้อมูล",
+    "รายงานประจำไตรมาสพร้อมให้ดาวน์โหลดแล้ว",
+    "การประชุมจะเริ่มในอีกสิบห้านาที",
+    "คุณได้รับเชิญให้เข้าร่วมโครงการนี้",
+    "ลิงก์นี้จะหมดอายุภายในยี่สิบสี่ชั่วโมง",
+    "อย่าลืมสำรองข้อมูลก่อนอัปเดตระบบ",
+    "ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้",
+    "แตะเพื่อเปิดปฏิทินที่แชร์ไว้",
+    "เพิ่มคำอธิบายให้กับภาพนี้",
+    "คำสั่งซื้อของคุณจะถูกจัดส่งจากคลังสินค้า",
+    "กรอกชื่อสำหรับพื้นที่ทำงานใหม่",
+    "เปลี่ยนรหัสผ่านทุกสามเดือนเพื่อความปลอดภัย",
+    "ห้องประชุมสามารถจองล่วงหน้าได้สี่สัปดาห์"
+  ],
+  "P5_th_marks": [
+    {
+      "family": "single",
+      "text": "ก่อนส่งข้อความ"
+    },
+    {
+      "family": "single",
+      "text": "อย่าลืมส่งงาน"
+    },
+    {
+      "family": "single",
+      "text": "ข้อมูลถูกส่งแล้ว"
+    },
+    {
+      "family": "single",
+      "text": "ห้ามเข้าก่อนเวลา"
+    },
+    {
+      "family": "stacked",
+      "text": "ที่นี่มีคนเยอะ"
+    },
+    {
+      "family": "stacked",
+      "text": "เสื้อผ้าสะอาด"
+    },
+    {
+      "family": "stacked",
+      "text": "นั่งรอสักครู่"
+    },
+    {
+      "family": "stacked",
+      "text": "ตั้งค่าเสร็จแล้ว"
+    },
+    {
+      "family": "tall",
+      "text": "ฟ้าสางแล้ว"
+    },
+    {
+      "family": "tall",
+      "text": "ฝ่ายขายมาสาย"
+    },
+    {
+      "family": "tall",
+      "text": "ปั้นดินเผา"
+    },
+    {
+      "family": "below",
+      "text": "ครูพาลูกดูงู"
+    },
+    {
+      "family": "below",
+      "text": "ดูรูปคนบนถนน"
+    },
+    {
+      "family": "below",
+      "text": "หนูชอบกินถั่ว"
+    },
+    {
+      "family": "below",
+      "text": "ปูจะมุดรูทันที"
+    }
+  ],
+  "P6_th_paragraphs": [
+    "ระบบจะต่ออายุการสมัครสมาชิกโดยอัตโนมัติเมื่อสิ้นสุดรอบการเรียกเก็บเงิน เว้นแต่คุณจะยกเลิกล่วงหน้าอย่างน้อยหนึ่งวันก่อนวันต่ออายุ",
+    "รายงานฉบับนี้สรุปผลประกอบการรายไตรมาสของทีมขายประจำภูมิภาค และระบุบัญชีลูกค้าที่ต้องติดตามก่อนการประชุมครั้งถัดไป",
+    "เพื่อความปลอดภัยของบัญชี โปรดเปิดใช้การยืนยันตัวตนสองขั้นตอน และตรวจสอบรายชื่ออุปกรณ์ที่สามารถเข้าถึงข้อมูลของคุณได้ในขณะนี้",
+    "แดชบอร์ดใหม่จัดกลุ่มตัวชี้วัดที่เกี่ยวข้องไว้ในหน้าเดียว ผู้จัดการจึงเปรียบเทียบแนวโน้มรายสัปดาห์ได้โดยไม่ต้องสลับไปมาระหว่างรายงานหลายฉบับ",
+    "ไฟล์ที่แชร์ให้พันธมิตรภายนอกจะถูกเก็บไว้ในโฟลเดอร์แยกต่างหาก และจะถูกลบโดยอัตโนมัติสามสิบวันหลังจากปิดโครงการ",
+    "ก่อนส่งแบบฟอร์ม โปรดตรวจสอบว่าที่อยู่ทุกรายการครบถ้วน และหมายเลขติดต่อมีรหัสประเทศสำหรับการโทรระหว่างประเทศ",
+    "เราได้ปรับปรุงนโยบายความเป็นส่วนตัวเพื่ออธิบายว่าข้อมูลการใช้งานถูกเก็บอย่างไร เก็บไว้นานเท่าใด และคุณจะขอให้ลบข้อมูลได้อย่างไร",
+    "ผู้เข้าร่วมที่เรียนครบทั้งสี่บทเรียนจะได้รับใบประกาศนียบัตรทางอีเมลภายในสองสัปดาห์หลังจากการอบรมครั้งสุดท้าย",
+    "เครื่องพิมพ์ชั้นสามอยู่ระหว่างการซ่อมบำรุงในช่วงบ่ายนี้ กรุณาส่งงานพิมพ์ขนาดใหญ่ไปยังเครื่องใกล้โต๊ะประชาสัมพันธ์แทน",
+    "ห้องประชุมสามารถจองล่วงหน้าได้สูงสุดสี่สัปดาห์ และการจองที่ไม่ได้ยืนยันก่อนเวลาเริ่มหนึ่งชั่วโมงจะถูกยกเลิกโดยอัตโนมัติ",
+    "เวอร์ชันนี้แก้ไขข้อผิดพลาดที่ทำให้ผู้ใช้บางรายไม่สามารถอัปโหลดภาพขนาดใหญ่กว่าสิบเมกะไบต์ได้เมื่อใช้เครือข่ายที่ช้า",
+    "ห้องสมุดจะปิดเร็วกว่าปกติในวันศุกร์เพื่อซ่อมบำรุง หนังสือที่ครบกำหนดคืนในวันนั้นสามารถนำมาคืนในวันจันทร์ได้โดยไม่มีค่าปรับ",
+    "กรุณาติดบัตรให้เห็นชัดเจนตลอดเวลาที่อยู่ในพื้นที่ และส่งคืนบัตรที่จุดต้อนรับเมื่อออกจากอาคารในแต่ละวัน",
+    "คำตอบแบบสำรวจจะไม่ระบุตัวตน และสรุปผลที่แชร์ให้ทีมจะรวมเฉพาะคำถามที่มีผู้ตอบอย่างน้อยห้าคนเท่านั้น",
+    "ระบบจะบันทึกฉบับร่างทุกสองสามวินาที คุณจึงปิดตัวแก้ไขได้ทุกเมื่อและกลับมาเขียนต่อจากอุปกรณ์เดิมหรือเครื่องอื่นได้ในภายหลัง"
+  ],
+  "palettes": [
+    {
+      "text": "#111111",
+      "border": "#222222",
+      "fill": "#d6e0ee"
+    },
+    {
+      "text": "#1b1f3a",
+      "border": "#2f4f9f",
+      "fill": "#f1dfbd"
+    },
+    {
+      "text": "#202020",
+      "border": "#555555",
+      "fill": "#d8ecd9"
+    },
+    {
+      "text": "#0f2a1f",
+      "border": "#2a7a4b",
+      "fill": "#efd7e2"
+    },
+    {
+      "text": "#221133",
+      "border": "#6a3fb0",
+      "fill": "#e3d9f3"
+    }
+  ]
+}
